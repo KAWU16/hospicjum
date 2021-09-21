@@ -45,7 +45,7 @@ link = "plugins/google-map/map.js"
 [menu]
     
   [[menu.main]]
-  name = "About"
+  name = "O nas"
   URL = "about"
   weight = 2
   
