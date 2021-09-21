@@ -3,9 +3,14 @@
   font-size: 28px;
   font-weight: 700;
   color: $secondary-color;
+  position: relative;
+  width: 150px;
+  z-index: 1;
 }
 img.img-fluid.logo-b {
-  width: 150px;
+  width: 100%;
+  position: absolute;
+  top: -1em;
 }
 
 .main-nav {
