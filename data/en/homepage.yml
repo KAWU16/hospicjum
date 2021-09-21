@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Hospicjum </br> dla zwierząt"
   title2 : "Działalność ekologiczna"
-  # bg_image: "images/banner/banner-2.jpg"
+  bg_image: "images/banner/banner-2.jpg"
   date_time : "November 12, at 10.00am"
   button:
     enable : "Zobacz więcej"
