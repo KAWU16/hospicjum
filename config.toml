@@ -50,12 +50,22 @@ link = "plugins/google-map/map.js"
   weight = 2
   
   [[menu.main]]
-  name = "Speakers"
+  name = "Aktualności"
   URL = "speaker"
   weight = 3
 
   [[menu.main]]
+  name = "Hospicjum dla zwierząt"
+  URL = "speaker"
   weight = 4
+
+  [[menu.main]]
+  name = "Działalność lokalna"
+  URL = "speaker"
+  weight = 5
+
+  [[menu.main]]
+  weight = 6
   name = "Pages"
   hasChildren = true
 
@@ -82,7 +92,7 @@ link = "plugins/google-map/map.js"
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 5
+  weight = 7
 
 #################### default parameters ################################
 [params]
@@ -108,7 +118,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Get Ticket"
+label = "Jak nam pomóc"
 link = "pricing"
 
 
@@ -151,7 +161,7 @@ link = "#"
 
 
 ################################### English language #####################################
-[Languages.en]
+#[Languages.en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
@@ -164,7 +174,7 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 
 
 ################################### French language #####################################
-[Languages.fr]
+#[Languages.fr]
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
