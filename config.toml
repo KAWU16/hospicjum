@@ -86,7 +86,7 @@ link = "plugins/google-map/map.js"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "uploads/logo_stowarzyszenie_viadrusa.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
