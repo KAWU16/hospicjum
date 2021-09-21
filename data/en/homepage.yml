@@ -1,7 +1,7 @@
 ############################# banner ################################
 banner:
   enable : true
-  title : "The future <br> & Tech Expo"
+  title : "Hospicjum dla zwierząt Stowarzyszenia W Ogrodzie Viadrusa"
   bg_image: "images/banner/banner-2.jpg"
   date_time : "November 12, at 10.00am"
   button:
