@@ -7,10 +7,23 @@
   min-width: 150px;
   z-index: 1;
 }
+
 img.img-fluid.logo-b {
   width: 100%;
   position: absolute;
   top: -1em;
+}
+
+.navbar-long {
+  max-width: 85vw;
+}
+
+.header-bar {
+  position: sticky;
+  z-index: 1;
+  position: -webkit-sticky;
+  top: 0;
+  background: #fffffff0;
 }
 
 .main-nav {
@@ -25,6 +38,11 @@ img.img-fluid.logo-b {
     color: $black;
     opacity: .9;
   }
+}
+
+a.nav-link:hover {
+  color: #ff007a;
+  text-decoration: underline;
 }
 
 .btn-sm {
@@ -81,6 +99,16 @@ img.img-fluid.logo-b {
 .dropdown:hover .dropdown-menu {
   opacity: 1;
   visibility: visible;
+}
+
+.navbar-toggler.collapsed .tf-ion-android-menu::before {
+  content: "\f394";
+  font-size: 3em;
+
+}
+.navbar-toggler .tf-ion-android-menu::before {
+  content: "\f2D7";
+  font-size: 3em;
 }
 
 // page-header
