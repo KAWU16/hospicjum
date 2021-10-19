@@ -137,7 +137,22 @@ a.nav-link:hover {
 }
 
 
+/*upper header section*/
 
+.logos-bar ul {
+  display: flex;
+  max-width: 60vw;
+  margin: 0 auto;
+}
+.logos-bar ul li{
+  width: 25%;
+  text-align: center;
+  list-style: none;
+  margin: auto 0;
+}
+.logos-bar ul li img {
+  width: 7em;
+}
 
 @include mobile {
   .main-nav .nav-link {
