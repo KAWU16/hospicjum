@@ -14,5 +14,14 @@ fields:
 - type: file
   name: bg_image
   label: bg_image
+- name: pole_tekstowe
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Pole tekstowe
 pages:
 - content/historia-powstania.md
