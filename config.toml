@@ -20,7 +20,7 @@ URL = "about"
 name = "O nas"
 weight = 1
 [[menu.main]]
-URL = "speaker"
+URL = "hospicjum_dla_zwierzat"
 name = "Hospicjum dla zwierząt"
 weight = 3
 [[menu.main]]
