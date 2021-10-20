@@ -9,7 +9,6 @@ title = "Vixcon"
 contentDir = "content/english"
 copyright = "Copyright &copy; 2021 Stowarzyszenie w Ogrodzie Viadrusa"
 footer_content = "We are a creative-led experiential Event Production Agency that helps brands connect, engage and evolve."
-home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
