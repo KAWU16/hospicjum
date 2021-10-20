@@ -1,48 +1,25 @@
 ---
-title: "5 Creative Ideas for Conference Sessions"
-date: 2019-09-10T13:51:25+06:00
-draft: false
-description: "this is meta description"
-# page title backgrount image
-bg_image : "images/bg/cta-bg.jpg"
-# post thumb
-image : "images/blog/blog-2.jpg"
-# about author
-author: "Tom Hunk"
-# Taxonomies
-categories: ["Creative"]
-tags: ["New","Help","Agency"]
-# type
-type: "post"
+title: 5 Creative Ideas for Conference Sessions
+date: 2019-09-10T13:51:25.000+06:00
+description: this is meta description
+bg_image: images/bg/cta-bg.jpg
+image: images/blog/blog-2.jpg
+author: Viadrus
+categories: []
+tags: []
+type: post
+
 ---
+Wczoraj z okazji Dnia Chłopaka Pani Celina z [Viadrus - swojego nie znacie - Stowarzyszenie Oldrzyszowice](https://www.facebook.com/viadrusoldrzyszowice/?__cft__\[0\]=AZVcDHQrpkAF5IrzQSl1tXOkIMWPfXNPT9I7hPy7zQLcc48KtsGS5mMzzYtrKJihjSe79zw5a0f1WApp0WIrrIWll7jHJOwZtCXK1Vfu23LCgcTOJ5DYppMhqVvUSvgMvI9WVdKMmFnJc7qprxxdC24hopXfV3DFKeXDZesgDVMo6L0NC7euYzC2UB9DXhUBFeVi1l-aZvKNsGHx9TKTEG_IM8V-CM4h5whpgR3nKDZyZ5YFy3RGTIlfDFpjOi61eac&__tn__=kK-y-R) poprowadziła warsztaty dla naszej młodzieży
 
-At first glance, the 31-year-old, with her Instagram following of 300 000, may give the
-impression of being just another modest influencer, posing in brands like Dulce by Safiya, Culture
-Hijab, and Hayah Collection.
+30 września z okazji Dnia Chłopaka, w świetlicy wiejskiej w Oldrzyszowicach, odbyły się warsztaty mydlarskie dla dzieci i młodzieży. Podczas warsztatów młodzież zdobyła wiedzę z historii (historia mydła i higieny)
 
-“I converted to Islam in 2007, but I never felt like I was fully ready to commit to hijab – my hair
-was a crutch for me,” says burgeoning rap artist Neelam Hakeem. “From a fashion perspective, I didn’t
-realize that you could be modest and fierce at the same time; that you could walk into a room and
-command it. Not that I was ever a skin-shower,” she laughs. “I don’t have a Kardashian body.” The
-diminutive Hakeem, whose face has the full and regal features of an African queen, is speaking from
-her home in Los Angeles, where she lives with her husband, Marquis Henri, their two young children,
-and her mother. At first glance, the 31-year-old, with her Instagram following of 300 000, may give
-the impression of being just another modest influencer, posing in brands like Dulce by Safiya, Culture
-Hijab, and Hayah Collection. Then you play one of her videos, and she starts rapping about everything
-from political and social injustices to women’s rights.
+wiedzę z biologii i chemii - związki chemiczne, eksperymenty
 
+plastyki i techniki - praca twórcza i manualna
 
-> A shoe is not only a design, but it's a part of your body language, the way you walk. The way you're going to move is quite dictated by your shoes.
+zasady BHP
 
-With exposure comes the responsibility and added pressure of being a role model, which is something
-Hart doesn’t take lightly. “By virtue of being a female in the job that I am in, you automatically
-become a role model in some way, whether you choose that or not. I’m careful of the things I advocate
-and the message I put out there,” she explains. “In a world of Instagram and selfies, I hope I can
-offer young women something beyond the aesthetic and demonstrate that power comes from a realm outside
-of the patriarchal gaze. I’d rather offer something relatable than something unattainable.
+Integracja j współpraca stanowiły istotny element warsztatów. Starsi pomagali młodszym, dzięki czemu wszyscy czuli się dobrze w tak zróżnicowanej wiekowo grupie.
 
-##### On the inspiration behind the exhibition
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam architecto
-cupiditate eius fuga fugit illum ipsa itaque maxime, molestias odio praesentium
-quaerat, quam soluta tempora tempore veniam veritatis! Sequi, similique?
+Świetnie się bawiliśmy! Do zobaczenia na kolejnych warsztatach.
