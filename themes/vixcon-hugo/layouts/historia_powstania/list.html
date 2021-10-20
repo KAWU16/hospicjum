@@ -3,8 +3,8 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 <!-- about -->
-{{ if $data.historia_powstania.historia_powstania.enable }}
-{{ with $data.historia_powstania.historia_powstania }}
+{{ if $data.historia_powstania.about.enable }}
+{{ with $data.historia_powstania.about }}
 <section class="about-page section">
 	<div class="container">
 		<div class="row">
