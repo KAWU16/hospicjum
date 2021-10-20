@@ -19,7 +19,6 @@ unsafe = true
 URL = "about"
 name = "O nas"
 weight = 1
-<<<<<<< HEAD
     [[menu.main]]
     URL = "historia_powstania"
     parent = "O nas"
@@ -29,8 +28,6 @@ weight = 1
 URL = "blog"
 name = "Aktualności"
 weight = 2
-=======
->>>>>>> 1f96f689dc8c25e3f3f3f658dcd6b06475c299de
 [[menu.main]]
 URL = "speaker"
 name = "Hospicjum dla zwierząt"
