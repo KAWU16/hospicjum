@@ -29,7 +29,7 @@
           </div>
           <div class="speaker-info">
             <h4 class="mb-0 mt-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-            <p>{{ .Params.Designation }}</p>
+            <!-- <p>{{ .Params.Designation }}</p> -->
           </div>
         </div>
       </div>
@@ -58,15 +58,15 @@
         <div class="speaker-block style-2 mb-5">
           <div class="img-block">
             <img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid rounded-circle">
-            <ul class="list-inline speaker-social">
+            <!-- <ul class="list-inline speaker-social">
               {{ range .Params.Social }}
               <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
               {{ end }}
-            </ul>
+            </ul> -->
           </div>
           <div class="speaker-info text-center">
             <h4 class="mb-0 mt-3"><a href="{{.Permalink}}">{{ .Title }}</a></h4>
-            <p>{{ .Params.Designation}}</p>
+            <!-- <p>{{ .Params.Designation}}</p> -->
           </div>
         </div>
       </div>
