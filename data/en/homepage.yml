@@ -13,7 +13,7 @@ banner:
 ########################## timer #################################
 timer:
   enable : true
-  title : "**Count the day** <br> until conference start"
+  title : "**Test tekst"
   # set timer
   year: "2020"
   month: "09"
