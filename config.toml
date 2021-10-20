@@ -29,6 +29,11 @@ weight = 1
     parent = "O nas"
     name = "Statut i inne dokumenty"
     weight = 2
+     [[menu.main]]
+    URL = "wspieraja_nas"
+    parent = "O nas"
+    name = "Wspierają nas"
+    weight = 3
 [[menu.main]]
 URL = "blog"
 name = "Aktualności"
