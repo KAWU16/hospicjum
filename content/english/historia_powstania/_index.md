@@ -11,11 +11,5 @@ feature:
     enable: true
     label: Get ticket man!!!
     link: pricing
-menu:
-  main:
-    URL: historia_powstania
-    parent: O nas
-    name: Historia powstania
-    weight: 1
 
 ---

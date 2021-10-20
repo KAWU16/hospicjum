@@ -50,6 +50,11 @@ name = "FAQ"
 parent = "Pages"
 weight = 4
 [[menu.main]]
+URL = "historia_powstania"
+name = "Historia powstania"
+parent = "O nas"
+weight = 1
+[[menu.main]]
 URL = "pricing"
 name = "Tickets"
 parent = "Pages"
