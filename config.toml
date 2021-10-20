@@ -21,6 +21,7 @@ name = "O nas"
 weight = 1
     [[menu.main]]
     name = "Historia powstania"
+    URL = "speaker"
     parent = "O nas"
     weight = 1
 [[menu.main]]
