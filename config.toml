@@ -23,6 +23,11 @@ weight = 1
     URL = "historia_powstania"
     parent = "O nas"
     name = "Historia powstania"
+    weight = 1
+    [[menu.main]]
+    URL = "statut_i_inne_dokumenty"
+    parent = "O nas"
+    name = "Statut i inne dokumenty"
     weight = 2
 [[menu.main]]
 URL = "blog"
