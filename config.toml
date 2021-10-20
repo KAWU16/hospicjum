@@ -19,30 +19,6 @@ unsafe = true
 URL = "about"
 name = "O nas"
 weight = 1
-    [[menu.main]]
-    URL = "historia_powstania"
-    parent = "O nas"
-    name = "Historia powstania"
-    weight = 1
-    [[menu.main]]
-    URL = "statut_i_inne_dokumenty"
-    parent = "O nas"
-    name = "Statut i inne dokumenty"
-    weight = 2
-    [[menu.main]]
-    URL = "wspieraja_nas"
-    parent = "O nas"
-    name = "Wspierają nas"
-    weight = 3
-    [[menu.main]]
-    URL = "media_o_nas"
-    parent = "O nas"
-    name = "Media o nas"
-    weight = 4
-[[menu.main]]
-URL = "blog"
-name = "Aktualności"
-weight = 2
 [[menu.main]]
 URL = "speaker"
 name = "Hospicjum dla zwierząt"
@@ -64,10 +40,25 @@ URL = "blog"
 name = "Aktualności"
 weight = 2
 [[menu.main]]
+URL = "media_o_nas"
+name = "Media o nas"
+parent = "O nas"
+weight = 4
+[[menu.main]]
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
+weight = 4
+[[menu.main]]
 URL = "pricing"
 name = "Tickets"
 parent = "Pages"
 weight = 1
+[[menu.main]]
+URL = "statut_i_inne_dokumenty"
+name = "Statut i inne dokumenty"
+parent = "O nas"
+weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
@@ -79,10 +70,10 @@ name = "Schedule"
 parent = "Pages"
 weight = 3
 [[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-weight = 4
+URL = "wspieraja_nas"
+name = "Wspierają nas"
+parent = "O nas"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
