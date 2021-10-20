@@ -9,7 +9,7 @@ feature:
   title: Meet top **digital masters** & influencers in a unique **3-days** experience.
   button:
     enable: true
-    label: Get ticket
+    label: Get ticket man!!!
     link: pricing
 
 ---
