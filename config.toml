@@ -33,7 +33,7 @@ URL = "speaker"
 name = "Hospicjum dla zwierząt"
 weight = 3
 [[menu.main]]
-URL = "speaker"
+URL = "about"
 name = "Działalność lokalna"
 weight = 4
 [[menu.main]]
