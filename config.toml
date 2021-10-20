@@ -19,8 +19,12 @@ unsafe = true
 URL = "about"
 name = "O nas"
 weight = 1
+    [[menu.main]]
+    URL = "about"
+    name = "Historia powstania"
+    weight = 2
 [[menu.main]]
-URL = "speaker"
+URL = "blog"
 name = "Aktualności"
 weight = 2
 [[menu.main]]
