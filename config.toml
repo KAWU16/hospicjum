@@ -19,11 +19,6 @@ unsafe = true
 URL = "about"
 name = "O nas"
 weight = 1
-    [[menu.main]]
-    name = "Historia powstania"
-    URL = "historia_powstania"
-    parent = "O nas"
-    weight = 1
 [[menu.main]]
 URL = "speaker"
 name = "Aktualności"
