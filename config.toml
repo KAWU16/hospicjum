@@ -20,7 +20,7 @@ URL = "about"
 name = "O nas"
 weight = 1
     [[menu.main]]
-    URL = "about"
+    URL = "historia_powstania"
     parent = "O nas"
     name = "Historia powstania"
     weight = 2
