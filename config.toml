@@ -19,6 +19,7 @@ unsafe = true
 URL = "about"
 name = "O nas"
 weight = 1
+<<<<<<< HEAD
     [[menu.main]]
     URL = "historia_powstania"
     parent = "O nas"
@@ -28,14 +29,12 @@ weight = 1
 URL = "blog"
 name = "Aktualności"
 weight = 2
+=======
+>>>>>>> 1f96f689dc8c25e3f3f3f658dcd6b06475c299de
 [[menu.main]]
 URL = "speaker"
 name = "Hospicjum dla zwierząt"
 weight = 3
-[[menu.main]]
-URL = "about"
-name = "Działalność lokalna"
-weight = 4
 [[menu.main]]
 URL = "contact"
 name = "Kontakt"
@@ -44,6 +43,14 @@ weight = 6
 hasChildren = true
 name = "Pages"
 weight = 5
+[[menu.main]]
+URL = "about"
+name = "Działalność lokalna"
+weight = 4
+[[menu.main]]
+URL = "blog"
+name = "Aktualności"
+weight = 2
 [[menu.main]]
 URL = "pricing"
 name = "Tickets"
