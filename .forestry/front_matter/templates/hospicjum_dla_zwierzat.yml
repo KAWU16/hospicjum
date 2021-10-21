@@ -1,4 +1,9 @@
 ---
 label: hospicjum_dla_zwierzat
 hide_body: false
-fields: []
+fields:
+- name: pola_dodatkowe
+  type: include
+  config: {}
+  template: hospicjum_dla_zwierzat
+  label: pola dodatkowe
