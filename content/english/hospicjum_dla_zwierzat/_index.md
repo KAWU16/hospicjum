@@ -6,7 +6,7 @@ bg_image: images/bg/cta-bg.jpg
 subtitle_1: Zwierzęta przebywające w hospicjum
 lead_1: Zdanie opisu
 subtitle_2: Odeszły za „Tęczowy most”
-lead_2: Zdanie opisu 3
+lead_2: Zdanie opisu 2
 
 ---
 ## Zwierzęta przebywające w hospicjum
