@@ -16,6 +16,7 @@ weight = 1
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+hasChildren = true
 URL = "about"
 name = "O nas"
 weight = 1
@@ -27,10 +28,10 @@ weight = 3
 URL = "kontakt"
 name = "Kontakt"
 weight = 6
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 5
+# [[menu.main]]
+# hasChildren = true
+# name = "Pages"
+# weight = 5
 [[menu.main]]
 URL = "about"
 name = "Działalność lokalna"
@@ -59,36 +60,36 @@ URL = "media_o_nas"
 name = "Media o nas"
 parent = "O nas"
 weight = 4
-[[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-weight = 4
+# [[menu.main]]
+# URL = "faq"
+# name = "FAQ"
+# parent = "Pages"
+# weight = 4
 [[menu.main]]
 URL = "historia_powstania"
 name = "Historia powstania"
 parent = "O nas"
 weight = 1
-[[menu.main]]
-URL = "pricing"
-name = "Tickets"
-parent = "Pages"
-weight = 1
+# [[menu.main]]
+# URL = "pricing"
+# name = "Tickets"
+# parent = "Pages"
+# weight = 1
 [[menu.main]]
 URL = "statut_i_inne_dokumenty"
 name = "Statut i inne dokumenty"
 parent = "O nas"
 weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-parent = "Pages"
-weight = 2
-[[menu.main]]
-URL = "schedule"
-name = "Schedule"
-parent = "Pages"
-weight = 3
+# [[menu.main]]
+# URL = "blog"
+# name = "Blog"
+# parent = "Pages"
+# weight = 2
+# [[menu.main]]
+# URL = "schedule"
+# name = "Schedule"
+# parent = "Pages"
+# weight = 3
 [[menu.main]]
 URL = "wspieraja_nas"
 name = "Wspierają nas"
