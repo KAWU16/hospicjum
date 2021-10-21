@@ -24,7 +24,7 @@ URL = "hospicjum_dla_zwierzat"
 name = "Hospicjum dla zwierząt"
 weight = 3
 [[menu.main]]
-URL = "contact"
+URL = "kontakt"
 name = "Kontakt"
 weight = 6
 [[menu.main]]
