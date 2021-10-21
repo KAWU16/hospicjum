@@ -41,6 +41,11 @@ name = "Warsztaty"
 parent = "Działalność lokalna"
 weight = 1
 [[menu.main]]
+URL = "projekty"
+name = "Projekty"
+parent = "Działalność lokalna"
+weight = 2
+[[menu.main]]
 URL = "blog"
 name = "Aktualności"
 weight = 2
