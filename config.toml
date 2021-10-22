@@ -115,7 +115,7 @@ map_marker = "images/marker.png"
 [params.navigation_button]
 enable = true
 label = "Jak nam pomóc"
-link = "pricing"
+link = "jak_nam_pomoc"
 [[params.plugins.css]]
 link = "plugins/bootstrap/css/bootstrap.min.css"
 [[params.plugins.css]]
