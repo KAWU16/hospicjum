@@ -55,7 +55,7 @@
 
       <div class="col-lg-6">
         <div class="row">
-          {{ range .feature_item }}
+          {{ range .Params.feature.feature_item }}
           <div class="col-md-6 mb-4">
             <div class="feature-item" style="background-color: {{if .bg_color}}{{.bg_color}}{{else}}#343a40{{end}};">
               <i class="{{ .icon }}"></i>
