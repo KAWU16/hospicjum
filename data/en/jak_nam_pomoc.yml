@@ -7,7 +7,8 @@ faq:
   faq_item:
     # faq item loop
     - title : "Wesprzyj finansowo"
-      content : "wsparcie finansowe poprzez wpłatę darowizny na cele statutowe na nasze konto,  przez paypal lub code QR
+      content : "wsparcie finansowe poprzez wpłatę darowizny na cele statutowe na nasze konto,  przez paypal
+      </br> lub code QR
       Stowarzyszenie „W ogrodzie Viadrusa”,
       Oldrzyszowice 94, 49-340,
       Lewin Brzeski,
