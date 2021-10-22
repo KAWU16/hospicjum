@@ -13,11 +13,11 @@ feature:
     label: Get ticket man!!!
     link: pricing
 
-    feature_item:
+  feature_item:
     # feature item loop
-    - title : "Global Audience"
-      icon : "tf-ion-android-globe" # check `static/plugins/themefisher-font/demo.html` for more icon
-      bg_color : "#17a2b8"
-      content : "Starting a mentoring program might be the closest you'll ever get."
+  - title : "Zwierzak"
+    icon : "tf-ion-android-globe" # check `static/plugins/themefisher-font/demo.html` for more icon
+    bg_color : "#17a2b8"
+    content : "Opis zwierzaka"
 
 ---
