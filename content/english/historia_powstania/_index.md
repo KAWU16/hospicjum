@@ -6,7 +6,7 @@ bg_image: images/bg/historia_main.jpg
 
 feature:
   enable: true
-  subtitle: 30% Sale offer for early birds
+  subtitle: 40% Sale offer for early birds
   title: Meet top **digital masters** & influencers in a unique **3-days** experience.
   button:
     enable: true
