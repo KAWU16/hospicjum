@@ -33,13 +33,14 @@
 <!-- /sponsor -->
 
 <!-- feature -->
-
+{{ if $data.historia_powstania.feature.enable }}
+{{ with $data.historia_powstania.feature }}
 <section class="section cta-wrap bg-light">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6">
         <div class="cta-content">
-          <span class="lead">{{ .Params.feature.subtitle | markdownify }}</span>
+          <span class="lead">{{ .subtitle | markdownify }}</span>
           <h2 class="mt-3 mb-4 text-md title">{{ .title | markdownify }}</h2>
           {{ if .button.enable }}
           {{ with .button }}
@@ -65,7 +66,8 @@
     </div>
   </div>
 </section>
-
+{{ end }}
+{{ end }}
 <!-- /feature -->
 
 {{ end }}
