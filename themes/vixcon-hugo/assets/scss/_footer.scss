@@ -19,6 +19,9 @@
 	border-top: 1px solid rgba(255, 255, 255, 0.04) !important;
 }
 
+.footer_menu {
+	display: flex;
+}
 
 @include mobile {
 	.sub-form .btn {
