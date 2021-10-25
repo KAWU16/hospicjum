@@ -22,7 +22,19 @@
 .footer_menu {
 	display: flex;
 }
-
+.footer_menu_list{
+	display: flex;
+	list-style: none;
+    text-align: left;
+    color: white;
+	li ul {
+		list-style: none;
+		padding: 0;
+	}
+}
+.footer_menu_container_main {
+	flex: 0 0 100%;
+}
 @include mobile {
 	.sub-form .btn {
 		position: relative;
