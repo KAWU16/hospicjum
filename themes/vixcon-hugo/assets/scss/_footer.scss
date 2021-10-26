@@ -33,7 +33,7 @@
 	}
 }
 .footer_menu_container_main {
-	flex: 0 0 100%;
+	max-width: 100%;
 }
 @include mobile {
 	.sub-form .btn {
