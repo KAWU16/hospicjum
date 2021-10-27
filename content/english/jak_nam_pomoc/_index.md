@@ -17,8 +17,8 @@ faq:
       </br> Stowarzyszenie „W ogrodzie Viadrusa”,
        </br>Oldrzyszowice 94, 49-340, Lewin Brzeski,
        </br>NIP 7471908079 PL70 1750 0012 0000 0000 4076 6391
-       </br>SWIFT: PPABPLPKXXX 
-"
+       </br>SWIFT: PPABPLPKXXX"
+      format : html
       
     # faq item loop
     - title : "Przekaż dary rzeczowe"
