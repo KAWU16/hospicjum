@@ -2,7 +2,7 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-{{ with $data.jak_nam_pomoc.faq }}
+{{ with .Params.faq }}
 <section class="section faq">
   <div class="container">
     <div class="row justify-content-center mb-5">
