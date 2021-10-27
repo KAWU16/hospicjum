@@ -9,7 +9,7 @@ about:
   title: Stowarzyszenie </br> „W ogrodzie Viadrusa” powstało 19 stycznia 2018 r.
   content: Celem działalności jest poprawa losu zwierząt oraz ochrona dziedzictwa
     przyrodniczego,  historycznego i kulturowego. Stowarzyszenie prowadzi hospicjum
-    dla  starych, schorowanych oraz interwencyjnych zwierząt domowych. I co?
+    dla  starych, schorowanych oraz interwencyjnych zwierząt domowych.
 feature:
   enable: true
   subtitle: 40% Sale offer for early birds
