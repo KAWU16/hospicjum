@@ -13,45 +13,23 @@ faq:
   faq_item:
     # faq item loop
     - title : "Wesprzyj finansowo"
-      content : "wsparcie finansowe poprzez wpłatę darowizny na cele statutowe na nasze konto,  przez </br> paypal </br> lub </br> code QR</br> Stowarzyszenie „W ogrodzie Viadrusa”, </br>Oldrzyszowice 94, 49-340, Lewin Brzeski, </br>NIP 7471908079 PL70 1750 0012 0000 0000 4076 6391 </br>SWIFT: PPABPLPKXXX"
+      content : "wsparcie finansowe poprzez wpłatę darowizny na cele statutowe na nasze konto,  przez </br> paypal </br> lub </br> code QR</br> Stowarzyszenie „W ogrodzie Viadrusa”, </br>Oldrzyszowice 94, 49-340, Lewin Brzeski, </br>NIP 7471908079 PL70 1750 0012 0000 0000 4076 6391 </br>SWIFT: PPABPLPKXXX"          
+      
+    # faq item loop
+  fields:
+    - name: naglowek
+      type: include
+      config: {}
+      template: naglowek
+      label: Nagłówek
     - name: opis_pod_naglowiem
       type: textarea
       default: ''
       config:
-      required: false
-      wysiwyg: true
-      schema:
-      format: html
-      label: Opis pod nagłówiem            
-      
-    # faq item loop
-    - title : "Przekaż dary rzeczowe"
-      content : "Karma jest dla nas produktem pierwszej potrzeby.
-
-Prosimy o: mokrą karmę wysokomięsną dla psów np. Rinti, Rocco, Wiejska Zagroda, Dolina Noteci,
-
-suchą karmę dla kotów seniorów oraz kotów kastratów,
-
-mokrą karmę dla kotów np. Dolinę Noteci,
-
-leki ( Karsivan, Sizarol lub Synoquin, Forthyron,  Neurovit, Previcox),
-
-drewniany, zbrylający żwirek dla kotów.
-
-Dary można przywieźć lub wysłać na adres:
-
-Stowarzyszenie “W ogrodzie Viadrusa”
-
-Oldrzyszowice 94
-
-49-340 Lewin Brzeski
-
-tel. 509 794 333
-
-Paczkomat Inpost: 
-
- LBR01M, Hallera 2,  Lewin Brzeski
-"
+       required: false
+       wysiwyg: true
+       schema:
+        format: html
       
     # faq item loop
     - title : "Wrzuć do puszki"
