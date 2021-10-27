@@ -2,12 +2,12 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-6 text-center footer_menu_container_main">
-				<a class="navbar-brand" href="{{ .Site.BaseURL | absLangURL }}">
-					<img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" class="img-fluid logo-b">
-				  </a>
 				<p class="text-white-50">{{ .Site.Params.footer_content | markdownify }}</p>
 				<div class="footer_menu">
 					<ul class="footer_menu_list">
+						<li><a class="navbar-brand" href="{{ .Site.BaseURL | absLangURL }}">
+							<img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" class="img-fluid logo-b">
+						  </a></li>
 						<li>O NAS
 							<ul>
 								<li>Historia powstania</li>
