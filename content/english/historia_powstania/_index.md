@@ -4,6 +4,13 @@ date: 2019-09-10T13:51:25.000+06:00
 description: this is meta description
 bg_image: images/bg/historia_main.jpg
 
+################## about #################################
+about:
+  enable : true
+  image : "images/bg/ctg.jpg"
+  title : "Stowarzyszenie </br> „W ogrodzie Viadrusa” powstało 19 stycznia 2018 r."
+  content : "Celem działalności jest poprawa losu zwierząt oraz ochrona dziedzictwa przyrodniczego,  historycznego i kulturowego. Stowarzyszenie prowadzi hospicjum dla  starych, schorowanych oraz interwencyjnych zwierząt domowych. "
+  
 feature:
   enable: true
   subtitle: 40% Sale offer for early birds
