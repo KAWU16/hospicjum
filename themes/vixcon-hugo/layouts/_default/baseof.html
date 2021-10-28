@@ -10,9 +10,7 @@
 	{{ end }}
 	{{- block "main" . }}{{- end }}
 	{{- partial "footer.html" . -}}
-	{{ if hugo.IsProduction }}
 	{{ partial "cookie-notice.html" }}
-	{{ end }}
 </body>
 
 </html>
