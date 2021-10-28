@@ -31,8 +31,8 @@ event:
               auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
   button:
     enable : true
-    label : "Discover More"
-    link : "service"
+    label : "Zobacz więcej"
+    link : "warsztaty"
 
 ######################### Call to action #########################
 cta:
