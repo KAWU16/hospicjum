@@ -50,7 +50,7 @@ Paczkomat Inpost:
       Prowadzimy zbiórki publiczne zarejestrowane w Ministerstwie Cyfryzacji.
       Chcesz nam pomóc, umieść nasza puszkę w swojej firmie.
       Puszki można znaleźć w tych sklepach:</br>
-      ![Puszka](images/puszka-image-main.jpg)"
+      ![Puszka ze zbiórką dla Stowarzyszenia](/images/puszka-image-main.jpg)"
       
       
     # faq item loop
