@@ -13,27 +13,29 @@ faq:
   faq_item:
     # faq item loop
     - title : "Wesprzyj finansowo"
-      content : "wsparcie finansowe poprzez wpłatę darowizny na cele statutowe na nasze konto,  przez </br> paypal </br> lub </br> code QR</br> Stowarzyszenie „W ogrodzie Viadrusa”, </br>Oldrzyszowice 94, 49-340, Lewin Brzeski, </br>NIP 7471908079 PL70 1750 0012 0000 0000 4076 6391 </br>SWIFT: PPABPLPKXXX"          
+      content : "wsparcie finansowe poprzez wpłatę darowizny na cele statutowe na nasze konto,  przez </br>
+      <button class=\"btn btn-hero btn-rounded mt-3\"> PayPal </button>
+      </br> lub </br> code QR</br> Stowarzyszenie „W ogrodzie Viadrusa”, </br>Oldrzyszowice 94, 49-340, Lewin Brzeski, </br>NIP 7471908079 PL70 1750 0012 0000 0000 4076 6391 </br>SWIFT: PPABPLPKXXX"          
       
     # faq item loop
     - title : "Przekaż dary rzeczowe"
       content : "Karma jest dla nas produktem pierwszej potrzeby.
 
-Prosimy o: mokrą karmę wysokomięsną dla psów np. Rinti, Rocco, Wiejska Zagroda, Dolina Noteci,
+      Prosimy o: mokrą karmę wysokomięsną dla psów np. Rinti, Rocco, Wiejska Zagroda, Dolina Noteci,
 
-suchą karmę dla kotów seniorów oraz kotów kastratów,
+      suchą karmę dla kotów seniorów oraz kotów kastratów,
 
-mokrą karmę dla kotów np. Dolinę Noteci,
+      mokrą karmę dla kotów np. Dolinę Noteci,
 
-leki ( Karsivan, Sizarol lub Synoquin, Forthyron,  Neurovit, Previcox),
+      leki ( Karsivan, Sizarol lub Synoquin, Forthyron,  Neurovit, Previcox),
 
-drewniany, zbrylający żwirek dla kotów.
+      drewniany, zbrylający żwirek dla kotów.
 
-Dary można przywieźć lub wysłać na adres:
+      Dary można przywieźć lub wysłać na adres:
 
-Stowarzyszenie “W ogrodzie Viadrusa”
+      Stowarzyszenie “W ogrodzie Viadrusa”
 
-Oldrzyszowice 94
+      Oldrzyszowice 94
 
 49-340 Lewin Brzeski
 
