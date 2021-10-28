@@ -49,7 +49,9 @@ Paczkomat Inpost:
       content : "wrzucić darowiznę do puszki lub umieścić jedną z naszych puszek w jakimś miejscu ( odnośnik przekieruje do tekstu poniżej. Nie umiem do tego dać komentarza)
       Prowadzimy zbiórki publiczne zarejestrowane w Ministerstwie Cyfryzacji.
       Chcesz nam pomóc, umieść nasza puszkę w swojej firmie.
-      Puszki można znaleźć w tych sklepach:"
+      Puszki można znaleźć w tych sklepach:</br>
+      ![Puszka](images/puszka-image-main.jpg)"
+      
       
     # faq item loop
     - title : "Zbiórki odzieży"
