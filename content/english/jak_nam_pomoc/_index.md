@@ -85,6 +85,6 @@ W sposób ciągły zbieramy uhttps://www.ubraniadooddania.pl/foundations/191
     enable: true
     title : "Need Any further Support?"
     button:
-      lable : "Contact us"
+      label : "Contact us"
       link : "contact"
 ---
