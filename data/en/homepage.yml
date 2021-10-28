@@ -13,7 +13,7 @@ banner:
 ########################## timer #################################
 timer:
   enable : true
-  title : "**Test tekst"
+  title : "Test nagłówka"
   # set timer
   year: "2020"
   month: "09"
@@ -23,8 +23,8 @@ timer:
 ############################## Event ##############################
 event:
   enable : true
-  title_outline : "event"
-  title : "The New Era of Tech Companies"
+  title_outline : "w skrócie"
+  title : "o stowarzyszeniu"
   image_back : "images/about/h1-gallery-img-7.jpg"
   image_front : "images/about/main-home-img-1.jpg"
   content : "Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aeneansollicitudin, lorem quis bibendum
@@ -37,32 +37,35 @@ event:
 ######################### Call to action #########################
 cta:
   enable : true
-  subtitle : "10% Sale offer for early birds"
-  title : "Meet top **digital masters** <br> & influencers in a unique **3-days** experience."
+  subtitle : "O nas"
+  title : "Kim są ludzie stojący za zwierzakami?"
   image : "images/banner/rev-slider-09.png"
   button:
     enable : true
-    label : "get ticket"
-    link : "pricing"
+    label : "Więcej"
+    link : "historia_powstania"
 
 ############################# Feature ###########################
 feature:
   enable: true
   feature_item: 
     # feature item loop
-    - name : "Valuable Insight"
+    - name : "Fakt 1"
       icon : "tf-ion-android-microphone"
-      content : "Events Drinks and Dancing are hosting an After Party and YOU ARE INVITED!!"
+      content : "Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aeneansollicitudin, lorem quis bibendum
+              auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
       
     # feature item loop
-    - name : "Global Audience"
+    - name : "Fakt 2"
       icon : "tf-ion-android-globe"
-      content : "Starting a mentoring program might be the closest you'll ever get to making a business decision that has exclusively positive impact."
+      content : "Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aeneansollicitudin, lorem quis bibendum
+              auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
       
     # feature item loop
-    - name : "Great Community"
+    - name : "Fakt 3"
       icon : "tf-ion-android-share"
-      content : "Networking is the exchange of information and ideas among people with a common profession or special interest, usually in an informal social setting."
+      content : "Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aeneansollicitudin, lorem quis bibendum
+              auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
 
 ####################### Schedule #############################
 schedule:
@@ -77,9 +80,10 @@ pricing:
 ########################## speaker ##########################
 speaker:
   enable : true
-  title_outline : "Speakers"
-  title : "Who're speaking"
-  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  title_outline : "nasi"
+  title : "podopieczni"
+  content : "Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aeneansollicitudin, lorem quis bibendum
+              auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
   # speaker content comes from "content/speaker" folder
 
 ######################### sponsor ############################
@@ -173,7 +177,7 @@ venue:
 ############################### Blog ######################################
 blog:
   enable : true
-  title_outline : "News"
-  title : "Latest News"
+  title_outline : "wiadomości"
+  title : "ze świata Viadrusa"
   content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
   # blog content comes from "content/blog" folder

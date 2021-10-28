@@ -1,8 +1,9 @@
 schedule:
   enable : true
-  title_outline : "schedule"
-  title : "Topic Discussion"
-  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis option."
+  title_outline : "nowe"
+  title : "wydarzenia"
+  content : "Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aeneansollicitudin, lorem quis bibendum
+              auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
   schedule_tab:
     ################# tab itam loop ################
     - title : "Day 1"
@@ -17,7 +18,7 @@ schedule:
 
           ###### By Risabh moinul
 
-          Founder of themefisher
+          Lorem ipsum proin gravida nibh vel velit auctor aliquet.
           "
           
         # schedule loop item
@@ -29,7 +30,7 @@ schedule:
 
           ###### By Risabh moinul
 
-          Founder of themefisher
+          Lorem ipsum proin gravida nibh vel velit auctor aliquet.
           "
           
         # schedule loop item
@@ -41,20 +42,9 @@ schedule:
 
           ###### By Risabh moinul
 
-          Founder of themefisher
+          Lorem ipsum proin gravida nibh vel velit auctor aliquet.
           "
           
-        # schedule loop item
-        - time : "2.00pm"
-          image : "images/about/creativity.jpg"
-          content : "
-          
-          ### Cultures of Creativity
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
           
     ################# tab itam loop ################
     - title : "Day 2"
