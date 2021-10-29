@@ -8,10 +8,10 @@ bg_image : "images/bg/cta-bg.jpg"
 information:
   title_outline : ""
   title : "Informacja dla czytelników"
-  type: textarea
-  config: 
-    wysiwyg: true
-	content : "Informacyjna dla czytelników serwisu www.wogrodzieviadrusa.pl
+  type : textarea
+  config : 
+   wysiwyg : true
+   content : "Informacyjna dla czytelników serwisu www.wogrodzieviadrusa.pl
 				DANE ADMINISTRATORA
 				Administratorem danych osobowych dla osób korzystających ze strony internetowej www.wogrodzieviadrusa.pl jest Stowarzyszenie  „W ogrodzie Viadrusa” z siedzibą w Oldrzyszowicach 94, 49-340 Lewin Brzeski.
 				Z administratorem danych może się Pani/Pan skontaktować za pośrednictwem e-mail:  lub w formie pisemnej na adres siedziby administratora.
