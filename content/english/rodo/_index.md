@@ -62,4 +62,4 @@ information:
   format: ''
 
 ---
-Tekst
+Tekst![](/uploads/logo_stowarzyszenie_viadrusa.png)
