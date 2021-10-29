@@ -1,12 +1,16 @@
 ---
-title: RODO
-date: 2019-09-10T13:51:25.000+06:00
-description: this is meta description
-bg_image: images/bg/cta-bg.jpg
-title_outline : ""
-content : "## DANE ADMINISTRATORA
+title: "RODO"
+date: 2019-09-10T13:51:25+06:00
+draft: false
+description: "this is meta description"
+bg_image : "images/bg/cta-bg.jpg"
+################################# Faq ####################################
+information:
+  title_outline : ""
+  title : "Informacja dla czytelników"
+  content : "DANE ADMINISTRATORA
             Administratorem danych osobowych dla osób korzystających ze strony internetowej www.wogrodzieviadrusa.pl jest Stowarzyszenie  „W ogrodzie Viadrusa” z siedzibą w Oldrzyszowicach 94, 49-340 Lewin Brzeski.
-            Z administratorem danych może się Pani/Pan skontaktować za pośrednictwem e-mail:  lub w formie pisemnej na adres siedziby administratora.\
+            Z administratorem danych może się Pani/Pan skontaktować za pośrednictwem e-mail:  lub w formie pisemnej na adres siedziby administratora.
             
             ## DANE KONTAKTOWE INSPEKTORA OCHRONY DANYCH
                   
@@ -51,3 +55,4 @@ content : "## DANE ADMINISTRATORA
             Pamiętaj, że większość przeglądarek ma domyślnie ustawioną opcję automatycznego zapisu plików Cookies. Pliki Cookies nie zostają nigdzie indziej przekazane."
   ################ support #################
 ---
+				
