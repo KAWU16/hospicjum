@@ -1,16 +1,21 @@
 {{ define "main" }}
 
-<section class="error section">
-	<div class="container">
-		<div class="row align-items-center">
-			<div class="col-lg-6">
-				<div class="error-content mt-5 mt-lg-0">
-					<h3 class="mb-4 h2 mt-2">{{ .title | markdownify }}</h3>
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ with $data.faq.faq }}
+<section class="section faq">
+  <div class="container">
+    <div class="row justify-content-center mb-5">
+      <div class="col-lg-8">
+        <div class="heading">
+          <span class="stroke-text">{{ .title_outline }}</span>
+          <h3 class="mb-4 h2 mt-2">{{ .title | markdownify }}</h3>
 					<p class="mt-3">{{ .content }}</p>
-				</div>
-			</div>
-		</div>
-	</div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
+{{ end }}
 
 {{ end }}
