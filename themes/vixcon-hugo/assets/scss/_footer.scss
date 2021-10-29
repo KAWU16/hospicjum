@@ -21,6 +21,7 @@
 
 .footer_menu {
 	display: flex;
+	flex-direction: column;
 }
 .footer_menu_list{
 	display: flex;
@@ -39,6 +40,10 @@
 .footer_menu_container_main {
 	max-width: 100%;
 	flex: 0 0 100%;
+}
+.rodo_elements {
+	list-style: none;
+	color: white;
 }
 @include mobile {
 	.sub-form .btn {
