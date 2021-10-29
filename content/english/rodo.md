@@ -5,7 +5,7 @@ draft: false
 description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
 ################################# Faq ####################################
-faq:
+information:
   title_outline : ""
   title : "Informacja dla czytelników"
   content : "Informacyjna dla czytelników serwisu www.wogrodzieviadrusa.pl
