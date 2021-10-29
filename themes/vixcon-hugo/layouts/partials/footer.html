@@ -22,11 +22,15 @@
 						<li>Kontakt</li>
 						<li>Jak nam pomóc</li>
 					</ul>
+					<ul class="rodo_elements">
+						<li>RODO</li>
+						<li>Polityka prywatności</li>
+					</ul>
 				</div>
 				{{ if .Site.Params.subscription.enable }}
 				{{ with .Site.Params.subscription }}
 				<form action="{{ .mailchimp_form_action }}" method="post" name="mc-embedded-subscribe-form" target="_blank" class="sub-form mt-4 mb-3">
-					<input type="text" class="form-control" placeholder="Put your email address" id="newsletter" name="newsletter">
+					<input type="text" class="form-control" placeholder="Twój adres e-mail" id="newsletter" name="newsletter">
 					<button type="submit" name="subscribe" class="btn btn-secondary btn-rounded mt-3">{{ i18n "subscribe" }}</button>
 				</form>
 				<p class="mt-3 text-white-50">{{ i18n "not_spam" }}</p>

@@ -23,10 +23,10 @@
   translation: Follow us
 
 - id: subscribe
-  translation: Subscribe now
+  translation: Wyślij
 
 - id: not_spam
-  translation: We will not spam at your inbox .Don't panic
+  translation: Bez obaw, nie zaśmiecamy skrzynki niepotrzebnym spamem. W każdej chwili możesz anulować subskrypcję.
 
 - id: email
   translation: Email
