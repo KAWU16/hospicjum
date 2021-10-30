@@ -5,7 +5,8 @@ fields:
 - name: test
   type: blocks
   label: test
-  template_types: []
+  template_types:
+  - hospicjum_dla_zwierzat
   config:
     min: 
     max: 
