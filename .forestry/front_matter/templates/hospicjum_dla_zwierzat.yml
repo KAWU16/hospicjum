@@ -2,3 +2,7 @@
 label: hospicjum_dla_zwierzat
 hide_body: false
 fields: []
+- name: portret
+  type: file
+  config:
+    maxSize: 1
