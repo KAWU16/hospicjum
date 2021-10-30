@@ -1,8 +1,12 @@
 ---
 label: hospicjum_dla_zwierzat
 hide_body: false
-fields: []
-- name: portret
-  type: file
+fields:
+- name: test
+  type: blocks
+  label: test
+  template_types: []
   config:
-    maxSize: 1
+    min: 
+    max: 
+  description: twsatopis
