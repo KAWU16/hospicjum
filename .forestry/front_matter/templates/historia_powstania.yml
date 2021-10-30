@@ -24,5 +24,4 @@ fields:
       format: markdown
   label: Pole tekstowe
 pages:
-- content/ddasd.md
 - content/english/jak_nam_pomoc/test.md
