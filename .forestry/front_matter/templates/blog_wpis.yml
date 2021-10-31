@@ -1,11 +1,59 @@
 ---
-title: blog_wpis
-date: 2019-09-10T13:51:25.000+06:00
-description: this is meta description
-bg_image: images/bg/cta-bg.jpg
-image: images/blog/blog-2.jpg
-author: Viadrus
-categories: []
-tags: []
-type: post
-
+label: blog_wpis
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: date
+  type: text
+  config:
+    required: false
+  label: date
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+- name: bg
+  type: file
+  config:
+    maxSize: 64
+  label: bg image
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+  default: post
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: summary
+pages:
+- content/english/blog/Drugi wpis.md
