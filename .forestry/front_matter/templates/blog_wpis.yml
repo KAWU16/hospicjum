@@ -2,11 +2,50 @@
 label: blog_wpis
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: date
+  type: text
+  config:
+    required: false
+  label: date
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+- name: bg
+  type: file
+  config:
+    maxSize: 64
+  label: bg image
 - name: image
   type: file
   config:
     maxSize: 64
   label: image
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+  default: post
 - name: summary
   type: textarea
   default: ''
