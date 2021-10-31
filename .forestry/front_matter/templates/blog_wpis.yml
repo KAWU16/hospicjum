@@ -1,6 +1,7 @@
 ---
 label: blog_wpis
 hide_body: true
+type: post
 fields:
 - name: image
   type: file
