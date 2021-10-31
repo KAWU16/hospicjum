@@ -1,7 +1,7 @@
 ---
 label: blog_wpis
 hide_body: true
-type: post
+display_field: tekst_ciagly
 fields:
 - name: image
   type: file
