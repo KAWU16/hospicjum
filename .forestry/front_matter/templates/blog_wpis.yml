@@ -13,14 +13,9 @@ fields:
   default: ''
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
       format: markdown
   label: opis
-- name: tekst_ciagly
-  type: text
-  config:
-    required: false
-  label: tekst ciągły
 pages:
 - content/english/blog/test.md
