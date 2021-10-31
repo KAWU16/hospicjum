@@ -1,21 +1,12 @@
 ---
-label: blog_wpis
-hide_body: true
-display_field: tekst_ciagly
-fields:
-- name: image
-  type: file
-  config:
-    maxSize: 64
-  label: image
-- name: opis
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: opis
-pages:
-- content/english/blog/test.md
+title: blog_wpis
+date: 2019-09-10T13:51:25.000+06:00
+description: this is meta description
+bg_image: images/bg/cta-bg.jpg
+image: images/blog/blog-2.jpg
+author: Viadrus
+categories: []
+tags: []
+type: post
+
+---
