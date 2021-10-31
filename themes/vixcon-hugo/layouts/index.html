@@ -144,7 +144,7 @@
     </div>
     {{ end }}
     <div class="row">
-      {{ range (where .Site.RegularPages "Type" "obecni" ) (where .Site.RegularPages "Type" "odeszli" ) }}
+      {{ range where (where .Site.RegularPages "Type" "obecni" ) .Site.RegularPages "Type" "odeszli" }}
       <div class="col-lg-4 col-sm-6">
         <div class="speaker-block mb-5">
           <div class="img-block">
