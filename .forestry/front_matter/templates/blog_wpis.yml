@@ -16,3 +16,5 @@ fields:
     schema:
       format: markdown
   label: opis
+pages:
+- content/english/blog/test.md
