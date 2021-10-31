@@ -7,7 +7,7 @@ bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/s-5.jpg"
 designation : "UI designer"
 email : "Martin@mail.com"
-type : "speaker"
+type : "obecni"
 social:
   # social site loop
   - icon : "tf-ion-social-facebook"

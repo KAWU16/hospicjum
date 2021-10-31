@@ -6,7 +6,7 @@ bg_image: images/bg/cta-bg.jpg
 image: images/teams/s-2.jpg
 designation: Developer
 email: Martin@mail.com
-type: speaker
+type: "odeszli"
 social:
 - icon: tf-ion-social-facebook
   link: "#"
