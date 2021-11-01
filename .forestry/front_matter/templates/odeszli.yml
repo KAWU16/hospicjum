@@ -32,3 +32,5 @@ fields:
   config:
     required: false
   label: type
+pages:
+- content/english/hospicjum_dla_zwierzat/Kemnitz-Wagon.md
