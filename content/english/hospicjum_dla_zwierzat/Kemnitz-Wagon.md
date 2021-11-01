@@ -6,7 +6,7 @@ bg_image: images/bg/cta-bg.jpg
 image: images/teams/s-3.jpg
 designation: Marketer
 email: Martin@mail.com
-type: hospicjum dla zwierzat
+type: odeszli
 social:
 - icon: tf-ion-social-facebook
   link: "#"

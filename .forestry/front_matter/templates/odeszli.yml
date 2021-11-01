@@ -2,7 +2,8 @@
 label: odeszli
 hide_body: false
 fields:
-type: "hospicjum dla zwierzat"
+type: hospicjum_dla_zwierzat
+layout: single
 - name: title
   type: text
   config:
