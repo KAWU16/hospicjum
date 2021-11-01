@@ -2,6 +2,7 @@
 label: odeszli
 hide_body: false
 fields:
+layout: pets
 - name: title
   type: text
   config:
