@@ -2,12 +2,33 @@
 label: hospicjum_dla_zwierzat
 hide_body: false
 fields:
-- name: test
-  type: blocks
-  label: test
-  template_types:
-  - hospicjum_dla_zwierzat
+- name: title
+  type: text
   config:
-    min: 
-    max: 
-  description: twsatopis
+    required: false
+  label: title
+- name: date
+  type: text
+  config:
+    required: false
+  label: date
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+- name: bg_image
+  type: file
+  config:
+    maxSize: 64
+  label: bg image
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
