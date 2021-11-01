@@ -17,7 +17,7 @@
 
           <div class="content">{{ .Content }}</div>
 
-           <h5 class="mb-3 mt-5">{{ i18n "follow_me"}}</h5>
+          <h5 class="mb-3 mt-5">{{ i18n "follow_me"}}</h5>
           <ul class="list-inline social-single">
             {{ range .Params.Social }}
             <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
