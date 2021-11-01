@@ -2,6 +2,7 @@
 label: odeszli
 hide_body: false
 fields:
+layout: hospicjum_dla_zwierzat
 - name: title
   type: text
   config:
