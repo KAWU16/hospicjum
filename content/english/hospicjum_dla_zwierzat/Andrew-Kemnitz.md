@@ -7,6 +7,7 @@ image: images/teams/s-5.jpg
 designation: UI designer
 email: Martin@mail.com
 type: obecni
+layout: pets
 social:
 - icon: tf-ion-social-facebook
   link: "#"
