@@ -1,6 +1,6 @@
 ---
 label: odeszli
-hide_body: false
+hide_body: true
 fields:
 layout: hospicjum_dla_zwierzat
 - name: title
