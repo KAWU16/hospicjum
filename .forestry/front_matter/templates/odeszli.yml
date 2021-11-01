@@ -32,5 +32,11 @@ fields:
   config:
     required: false
   label: type
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  default: pets
 pages:
 - content/english/hospicjum_dla_zwierzat/Kemnitz-Wagon.md
