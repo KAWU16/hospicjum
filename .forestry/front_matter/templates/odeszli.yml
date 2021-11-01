@@ -2,8 +2,7 @@
 label: odeszli
 hide_body: false
 fields:
-type: hospicjum_dla_zwierzat
-layout: single
+layout: pets
 - name: title
   type: text
   config:
