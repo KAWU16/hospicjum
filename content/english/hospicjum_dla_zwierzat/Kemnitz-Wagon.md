@@ -7,6 +7,7 @@ image: images/teams/s-3.jpg
 designation: Marketer
 email: Martin@mail.com
 type: odeszli
+layout: pets
 social:
 - icon: tf-ion-social-facebook
   link: "#"
