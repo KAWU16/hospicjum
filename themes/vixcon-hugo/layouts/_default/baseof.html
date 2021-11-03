@@ -2,7 +2,7 @@
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 {{- partial "head.html" . -}}
 
-<body data-scroll-container>
+<body>
 	{{- partial "preloader.html" . -}}
 	{{- partial "header.html" . -}}
 	{{ if not .IsHome }}
@@ -14,7 +14,7 @@
 	<script>
 		const scroller = new LocomotiveScroll({
 			el: document.querySelector("[data-scroll-container]"),
-			smooth: true
+			smooth: false
 		  });
 	</script>
 </body>
