@@ -21,3 +21,16 @@
 #decrease-plugin-ac {
     border: none;
 }
+#decrease-plugin-ac{
+    padding: 0 4px;
+}
+#normal-plugin-ac {
+    padding: 3px 11px;
+}
+#increase-plugin-ac {
+    padding: 9px 12px;
+}
+.accessibility-bar button {
+    background: #ffd837;
+    border-radius: 100%;
+}
