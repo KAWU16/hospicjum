@@ -11,6 +11,12 @@
 	{{- block "main" . }}{{- end }}
 	{{- partial "footer.html" . -}}
 	{{ partial "cookie-notice.html" }}
+	<script>
+		const scroller = new LocomotiveScroll({
+			el: document.querySelector("[data-scroll-container]"),
+			smooth: true
+		  });
+	</script>
 </body>
 
 </html>
