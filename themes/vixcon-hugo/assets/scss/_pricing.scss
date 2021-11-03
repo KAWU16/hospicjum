@@ -69,6 +69,6 @@
 	background: url("../images/banner/speakers-bg-black.jpg")no-repeat;
 	background-size: cover;
 	.stroke-text{
-		color: white;
+		-webkit-text-stroke-color: white;
 	}
 }
