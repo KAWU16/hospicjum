@@ -8,13 +8,13 @@
 	{{ if not .IsHome }}
 	{{ partial "page-title.html" . }}
 	{{ end }}
-	<div data-scroll-container> {{- block "main" . }}{{- end }} </div>
+	{{- block "main" . }}{{- end }}
 	{{- partial "footer.html" . -}}
 	{{ partial "cookie-notice.html" }}
 	<script>
 		const scroller = new LocomotiveScroll({
 			el: document.querySelector("[data-scroll-container]"),
-			smooth: true
+			smooth: false
 		  });
 	</script>
 </body>
