@@ -35,3 +35,9 @@
     background: #ffd837;
     vertical-align: bottom;
 }
+#decrease-plugin-ac:hover {
+    transform: scale(0.85);
+}
+#increase-plugin-ac:hover{
+    transform: scale(1.1);
+}
