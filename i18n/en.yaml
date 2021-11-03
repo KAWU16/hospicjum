@@ -1,26 +1,26 @@
 - id: read_more
-  translation: Read More
+  translation: Czytaj więcej
 
 - id: posted_by
-  translation: Posted by this author
+  translation: Wpis autora
 
 - id: message_us
-  translation: Message Us
+  translation: Powiadom nas
 
 - id: send
-  translation: Send
+  translation: Wyślij
 
 - id: search
-  translation: Search
+  translation: Wyszukaj
 
 - id: categories
-  translation: Categories
+  translation: Kategorie
 
 - id: tags
-  translation: Tags
+  translation: Tagi
 
 - id: follow_us
-  translation: Follow us
+  translation: Śledź nas na
 
 - id: subscribe
   translation: Wyślij
@@ -32,4 +32,4 @@
   translation: Email
 
 - id: professional_skills
-  translation: Professional Skills
+  translation: Umiejętności
