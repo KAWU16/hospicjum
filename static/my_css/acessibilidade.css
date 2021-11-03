@@ -10,3 +10,14 @@
 .acessibilidade {
     font-size: inherit;
 }
+
+.accessibility-bar {
+    position: absolute;
+    z-index: 999;
+    right: 2em;
+}
+#increase-plugin-ac,
+#normal-plugin-ac,
+#decrease-plugin-ac {
+    border: none;
+}
