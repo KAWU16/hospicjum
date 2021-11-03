@@ -5,9 +5,9 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-5">
-        <div class="about-img position-relative">
-          <img src="{{ .image_back | absURL }}" alt="" class="img-fluid w-100">
-          <div class="img-block">
+        <div data-scroll-section class="about-img position-relative">
+          <img data-scroll src="{{ .image_back | absURL }}" alt="" class="img-fluid w-100">
+          <div data-scroll class="img-block">
             <img src="{{ .image_front | absURL }}" alt="" class="img-fluid">
           </div>
         </div>
