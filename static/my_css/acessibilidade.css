@@ -14,7 +14,8 @@
 .accessibility-bar {
     position: absolute;
     z-index: 999;
-    right: 2em;
+    right: 1em;
+    top: 1.5rem;
 }
 #increase-plugin-ac,
 #normal-plugin-ac,
@@ -32,5 +33,5 @@
 }
 .accessibility-bar button {
     background: #ffd837;
-    border-radius: 100%;
+    vertical-align: bottom;
 }
