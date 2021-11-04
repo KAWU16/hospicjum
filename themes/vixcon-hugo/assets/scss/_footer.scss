@@ -45,6 +45,10 @@
 	list-style: none;
 	color: white;
 }
+.footer-children-menu{
+	display: flex;
+	flex-direction: column;
+}
 @include mobile {
 	.sub-form .btn {
 		position: relative;
