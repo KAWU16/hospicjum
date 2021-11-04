@@ -98,9 +98,9 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
+author = "Stowarzyszenie W Ogrodzie Viadrusa"
 contact_form_action = "#"
-description = "This is meta description"
+description = "Hospicjum dla zwierząt Stowarzyszenia W Ogrodzie Viadrusa"
 email = "demo@vixcon.com"
 google_analitycs_id = ""
 home = "Home"
