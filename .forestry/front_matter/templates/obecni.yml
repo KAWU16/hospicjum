@@ -66,6 +66,26 @@ fields:
       schema:
         format: markdown
     label: content
+  - name: umiejetnosc_1
+    type: field_group
+    config: {}
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: title
+    - name: icon
+      type: file
+      config:
+        maxSize: 64
+      label: icon
+    - name: content
+      type: text
+      config:
+        required: false
+      label: content
+    label: umiejętność 1
   label: skill
 pages:
 - content/english/hospicjum_dla_zwierzat/basia.md
