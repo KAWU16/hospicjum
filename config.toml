@@ -139,8 +139,8 @@ enable = true
 preloader = ""
 [params.subscription]
 enable = true
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+mailchimp_form_action = "https://gmail.us20.list-manage.com/subscribe/post?u=e7a51a412128117933d864ff9&amp;id=3240521bd7"
+mailchimp_form_name = "mc-embedded-subscribe-form"
 [[params.social]]
 icon = "tf-ion-social-facebook"
 link = "#"
