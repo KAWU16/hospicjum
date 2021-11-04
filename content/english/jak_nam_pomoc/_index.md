@@ -51,9 +51,9 @@ faq:
       możemy pomagać zwierzakom. </br>Szczegóły znajdziecie tutaj ---> https://fanimani.pl/ '
   support:
     enable: true
-    title: Need Any further Support?
+    title: Jeżeli masz jakiekolwiek pytania zapraszamy do kontaktu
     button:
-      label: Contact us
-      link: contact
+      label: Skontaktuj się z nami
+      link: kontakt
 
 ---
