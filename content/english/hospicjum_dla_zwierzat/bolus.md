@@ -16,6 +16,9 @@ social:
 - icon: tf-ion-social-linkedin
   link: "#"
 skill:
+- title: Marudzenie
+  icon: ''
+  content: Lorem ipsum
 - title: Szczekanie
   icon: tf-ion-android-document
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit
