@@ -8,29 +8,24 @@
 						<li><a class="navbar-brand" href="{{ .Site.BaseURL | absLangURL }}">
 							<img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" class="img-fluid logo-b">
 						  </a></li>
-						{{ range .Site.Menus.main }}
-						{{ if .HasChildren }}  
-						<li>O nas
-							<ul>
-								<li><a href="{{ .URL | absLangURL }}">Historia powstania</a></li>
-								<li><a>Statut i inne dokumenty</a></li>
-								<li><a>Wspierają nas</a></li>
-								<li><a>Media o nas</a></li>
-							</ul>
-						</li>
-						<li><a>Aktualności</a></li>
-						<li><a>Hospicjum dla zwierząt</a></li>
-						<li>Działalność lokalna
-							<ul>
-								<li><a>Warsztaty</a></li>
-								<li><a>Projekty</a></li>
-								<li><a>Działania ekologiczne</a></li>
-							</ul>
-						</li>
-						<li><a>Kontakt</a></li>
-						<li><a>Jak nam pomóc</a></li>
-						{{ end }}
-         				{{ end }}
+						  {{ range .Site.Menus.main }}
+						  {{ if .HasChildren }}
+						  <li class="">
+							<a class="" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							  {{ .Name }}
+							</a>
+							<div class="">
+							  {{ range .Children }}
+							  <a class="" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+							  {{ end }}
+							</div>
+						  </li>
+						  {{ else }}
+						  <li class="nav-item">
+							<a class="nav-link" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+						  </li>
+						  {{ end }}
+						  {{ end }}
 					</ul>
 					<ul class="rodo_elements">
 						<li>RODO</li>
