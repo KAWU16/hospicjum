@@ -11,9 +11,7 @@
 						  {{ range .Site.Menus.main }}
 						  {{ if .HasChildren }}
 						  <li class="">
-							<a class="" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							  {{ .Name }}
-							</a>
 							<div class="footer-children-menu">
 							  {{ range .Children }}
 							  <a class="" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
@@ -21,8 +19,8 @@
 							</div>
 						  </li>
 						  {{ else }}
-						  <li class="nav-item">
-							<a class="nav-link" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+						  <li class="">
+							<a class="" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
 						  </li>
 						  {{ end }}
 						  {{ end }}
