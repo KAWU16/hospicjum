@@ -1,10 +1,10 @@
 baseURL = "https://hospicjum.onrender.com"
 disableLanguages = []
-disqusShortname = "vixcon"
+disqusShortname = "viadrus"
 paginate = "4"
 summaryLength = "10"
 theme = "vixcon-hugo"
-title = "Vixcon"
+title = "Hospicjum dla zwierząt Stowarzyszenia W Ogrodzie Viadrusa"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2021 Stowarzyszenie w Ogrodzie Viadrusa"

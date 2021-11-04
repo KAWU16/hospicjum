@@ -98,7 +98,7 @@ function initialize() {
     position: nottingham,
     map: map,
     icon: pinIcon,
-    title: 'Vixcon'
+    title: 'Hospicjum dla zwierząt Stowarzyszenia W Ogrodzie Viadrusa'
   });
 }
 var map = document.getElementById('map');
