@@ -99,7 +99,7 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Stowarzyszenie W Ogrodzie Viadrusa"
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/f/mdoyrlny"
 description = "Hospicjum dla zwierząt Stowarzyszenia W Ogrodzie Viadrusa"
 email = "demo@vixcon.com"
 google_analitycs_id = ""
