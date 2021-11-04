@@ -149,11 +149,11 @@
         <div class="speaker-block mb-5">
           <div class="img-block">
             <img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid">
-            <ul class="list-inline speaker-social">
+            <!-- <ul class="list-inline speaker-social">
               {{ range .Params.Social }}
               <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
               {{ end }}
-            </ul>
+            </ul> -->
           </div>
           <div class="speaker-info">
             <h4 class="mb-0 mt-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
