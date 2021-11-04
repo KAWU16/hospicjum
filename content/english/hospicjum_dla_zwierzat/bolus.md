@@ -1,6 +1,6 @@
 ---
 title: Boluś
-date: '2019-09-10T13:51:25.000+06:00'
+date: 2019-09-10T13:51:25.000+06:00
 description: this is meta description
 bg_image: "/uploads/main-photo_2.jpg"
 image: "/uploads/bolus.jpg"
@@ -16,7 +16,7 @@ social:
 - icon: tf-ion-social-linkedin
   link: "#"
 skill:
-- title: Course Correction
+- title: Szczekanie
   icon: tf-ion-android-document
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit
     elit turpis, a porttitor tellus sollicitudin at.
