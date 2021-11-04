@@ -9,10 +9,6 @@ faq:
   content: 'Zachęcamy do pomocy wszystkich, którym los skrzywdzonych, starych i chorych
       zwierząt  nie jest obojętny. Dzięki Waszemu bezinteresownemu wsparciu możemy o
       wiele więcej. Można nam pomagać na wielu płaszczyznach: '
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
   faq_item:
   - title: Wesprzyj finansowo
     content: 'Wsparcie finansowe poprzez wpłatę darowizny na cele statutowe na nasze
