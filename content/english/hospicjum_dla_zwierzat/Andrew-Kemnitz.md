@@ -1,9 +1,9 @@
 ---
-title: Andrew Kemnitz
+title: Boluś
 date: '2019-09-10T13:51:25.000+06:00'
 description: this is meta description
 bg_image: "/uploads/main-photo_2.jpg"
-image: "/uploads/pies_2.jpg"
+image: "/uploads/bolus.jpg"
 designation: UI designer
 email: Martin@mail.com
 type: obecni
