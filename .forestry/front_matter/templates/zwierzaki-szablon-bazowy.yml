@@ -52,3 +52,5 @@ fields:
   - type: text
     name: content
     label: content
+pages:
+- content/english/hospicjum_dla_zwierzat/basia.md
