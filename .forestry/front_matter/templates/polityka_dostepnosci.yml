@@ -1,9 +1,23 @@
 ---
-title: Polityka dostępności
-date: 2019-09-10T13:51:25.000+06:00
-description: this is meta description
-bg_image: images/bg/cta-bg.jpg
-information:
-  title_outline: ''
-  subtitle: Status pod względem zgodności z ustawą
-  content: ''
+label: polityka_dostepnosci
+hide_body: false
+fields:
+- name: title_outline
+  type: text
+  config:
+    required: false
+  label: title_outline
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: subtitle
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: content
