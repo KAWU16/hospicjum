@@ -7,8 +7,8 @@ faq:
   title_outline: ''
   title: Jak nam pomóc?
   content: 'Zachęcamy do pomocy wszystkich, którym los skrzywdzonych, starych i chorych
-      zwierząt  nie jest obojętny. Dzięki Waszemu bezinteresownemu wsparciu możemy o
-      wiele więcej. Można nam pomagać na wielu płaszczyznach: '
+    zwierząt  nie jest obojętny. Dzięki Waszemu bezinteresownemu wsparciu możemy o
+    wiele więcej. Można nam pomagać na wielu płaszczyznach: '
   faq_item:
   - title: Wesprzyj finansowo
     content: 'Wsparcie finansowe poprzez wpłatę darowizny na cele statutowe na nasze
