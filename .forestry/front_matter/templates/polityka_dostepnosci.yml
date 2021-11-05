@@ -1,0 +1,38 @@
+---
+label: polityka_dostepnosci
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: bg_image
+  label: bg_image
+- type: field_group
+  name: information
+  label: information
+  fields:
+  - type: text
+    name: title_outline
+    label: title_outline
+  - type: text
+    name: subtitle
+    label: subtitle
+  - type: text
+    name: content
+    label: content
+- type: text
+  name: subtitle
+  label: subtitle
+- type: textarea
+  name: content
+  label: content
+- type: text
+  name: title_outline
+  label: title_outline
