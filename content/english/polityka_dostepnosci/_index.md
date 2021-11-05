@@ -1,12 +1,12 @@
 ---
 title: Polityka dostępności
-date: '2019-09-10T13:51:25.000+06:00'
+date: 2019-09-10T13:51:25.000+06:00
 description: this is meta description
 bg_image: images/bg/cta-bg.jpg
 information:
   title_outline: ''
   subtitle: Status pod względem zgodności z ustawą
-  content: 
+  content: ''
 subtitle: Status pod względem zgodności z ustawą
 content: |-
   Strona internetowa jest **częściowo zgodna** z ustawą o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych z powodu niezgodności lub wyłączeń wymienionych poniżej.
