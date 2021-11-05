@@ -165,10 +165,12 @@ sponsor:
 ################################ venue ########################
 venue:
   enable : true
-  title : "Venue location"
+  title : "Gdzie nas szukać?"
   image : "images/bg/cta-bg.jpg"
   date : "18 - 21 December, 2019"
-  location : "85 Golden Street, Darlinghurst <br>ERP 2019, United States"
+  location : "„Stowarzyszenie W ogrodzie Viadrusa”
+              </br>Oldrzyszowice 94
+              </br>49-340 Lewin Brzeski"
   button: 
     enable : true
     label : "View Map location"
