@@ -11,12 +11,12 @@ faq:
     wiele więcej. Można nam pomagać na wielu płaszczyznach: '
   faq_item:
   - title: Wesprzyj finansowo
-    content: 'Wsparcie finansowe poprzez wpłatę darowizny na cele statutowe na nasze
-      konto,  przez </br> <button class="btn btn-hero btn-rounded mt-3"> PayPal </button>
-      </br> lub </br> code QR</br> ![QR kod do wpłat na Stowarzyszenie](/images/qr_viadrus.png)
-      </br> Stowarzyszenie „W ogrodzie Viadrusa”, </br>Oldrzyszowice 94, 49-340, Lewin
-      Brzeski, </br>NIP 7471908079 PL70 1750 0012 0000 0000 4076 6391 </br>SWIFT:
-      PPABPLPKXXX'
+    content: "Wsparcie finansowe poprzez wpłatę darowizny na cele statutowe na nasze
+      konto,  przez  \n  \n<button class=\"btn btn-hero btn-rounded mt-3\"> PayPal
+      </button>\n\nlub kod QR\n\n ![QR kod do wpłat na Stowarzyszenie](/images/qr_viadrus.png)
+      \  \nStowarzyszenie „W ogrodzie Viadrusa”,  \nOldrzyszowice 94, 49-340, Lewin
+      Brzeski,  \nNIP **7471908079 PL70 1750 0012 0000 0000 4076 6391**  \nSWIFT:
+      **PPABPLPKXXX**"
   - title: Przekaż dary rzeczowe
     content: "Karma jest dla nas produktem pierwszej potrzeby.  \nProsimy o: mokrą
       karmę wysokomięsną dla psów np. Rinti, Rocco, Wiejska Zagroda, Dolina Noteci,
