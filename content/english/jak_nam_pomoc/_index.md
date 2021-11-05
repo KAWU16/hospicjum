@@ -44,12 +44,12 @@ faq:
       \ \nWszystkie informacje znajdziecie na stronie internetowej:  \n[https://www.ubraniadooddania.pl/campaigns/718](https://www.ubraniadooddania.pl/campaigns/718)
       \ \nW sposób ciągły zbieramy:  \n[https://www.ubraniadooddania.pl/foundations/191](https://www.ubraniadooddania.pl/foundations/191)"
   - title: Zakupy z Fanimani
-    content: 'Wesprzeć na można  również  przy okazji zakupów w Internecie. I jest
-      to bardzo proste, a  sam  kupujący nie ponosi żadnych kosztów.  Wystarczy na
-      stronie fanimiani.pl wskazać Stowarzyszenie „W ogrodzie Viadrusa” jako beneficjenta
+    content: "Wesprzeć na można  również  przy okazji zakupów w Internecie. Jest to
+      bardzo proste, a sam kupujący nie ponosi żadnych kosztów.  \nWystarczy na stronie
+      fanimiani.pl wskazać Stowarzyszenie „W ogrodzie Viadrusa” jako beneficjenta
       darowizn, a od każdego Waszego zakupu, w sklepach biorących udział w aukcji,
       my otrzymujemy niewielką darowiznę. Was nic to nie kosztuje, a my dzięki temu
-      możemy pomagać zwierzakom. </br>Szczegóły znajdziecie tutaj ---> https://fanimani.pl/ '
+      możemy pomagać zwierzakom.  \nSzczegóły znajdziecie tutaj ---> [https://fanimani.pl/](https://fanimani.pl/)"
   support:
     enable: true
     title: Jeżeli masz jakiekolwiek pytania zapraszamy do kontaktu
