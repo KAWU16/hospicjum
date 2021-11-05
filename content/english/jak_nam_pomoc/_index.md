@@ -32,16 +32,17 @@ faq:
       \ \nChcesz nam pomóc, umieść nasza puszkę w swojej firmie.  \nPuszki można znaleźć
       w tych sklepach:  \n  \n![Puszka ze zbiórką dla Stowarzyszenia](/images/puszka-image-main.jpg)"
   - title: Zbiórki odzieży
-    content: "przekazywać na naszą rzecz używane, ale w dobrym stanie ubrania.  Pomóc
-      możecie nam również, nie wydając ani jednej własnej złotówki. Jak?\nWystarczy,
-      że w kampanii ubraniadooddania.pl przekażecie  ubrania, w których już nie chodzicie
-      lub nie są Wam potrzebne (ale w dobrym stanie) , a my za każdy kilogram otrzymamy
-      1 zł.\nZbiórki odzieży prowadzimy w sposób ciągły i są one widoczne na profilu
-      naszej organizacji: https://www.ubraniadooddania.pl/foundations/191\nJak przekazać
-      ubrania: https://www.ubraniadooddania.pl/.../jak-przekazac-darowizne\nJakie
-      rzeczy można przekazać: https://www.ubraniadooddania.pl/.../jakie-rzeczy-mozesz...\nWszystkie
-      informacje znajdziecie na stronie internetowej - link poniżej\nhttps://www.ubraniadooddania.pl/campaigns/718\nW
-      sposób ciągły zbieramy uhttps://www.ubraniadooddania.pl/foundations/191 "
+    content: "Możesz przekazać na naszą rzecz używane, ale **w dobrym stanie,** ubrania.
+      \  \nPomóc możecie nam również, nie wydając ani jednej własnej złotówki. Jak?
+      \ \nWystarczy, że w kampanii [ubraniadooddania.pl](www.ubraniadooddania.pl \"Ubrania
+      do oddania\") przekażecie  ubrania, w których już nie chodzicie lub nie są Wam
+      potrzebne (ale w dobrym stanie), a my za każdy kilogram otrzymamy 1 zł. Zbiórki
+      odzieży prowadzimy w sposób ciągły i są one widoczne na profilu naszej organizacji:
+      \ \n[https://www.ubraniadooddania.pl/foundations/191](https://www.ubraniadooddania.pl/foundations/191
+      \"Ubrania do oddania zbiórka\")  \nJak przekazać ubrania:  \n[https://www.ubraniadooddania.pl/.../jak-przekazac-darowizne](https://www.ubraniadooddania.pl/.../jak-przekazac-darowizne)
+      \ \nJakie rzeczy można przekazać:  \n[https://www.ubraniadooddania.pl/.../jakie-rzeczy-mozesz...](https://www.ubraniadooddania.pl/.../jakie-rzeczy-mozesz...)
+      \ \nWszystkie informacje znajdziecie na stronie internetowej:  \n[https://www.ubraniadooddania.pl/campaigns/718](https://www.ubraniadooddania.pl/campaigns/718)
+      \ \nW sposób ciągły zbieramy:  \n[https://www.ubraniadooddania.pl/foundations/191](https://www.ubraniadooddania.pl/foundations/191)"
   - title: Zakupy z Fanimani
     content: 'Wesprzeć na można  również  przy okazji zakupów w Internecie. I jest
       to bardzo proste, a  sam  kupujący nie ponosi żadnych kosztów.  Wystarczy na
