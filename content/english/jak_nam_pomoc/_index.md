@@ -27,11 +27,10 @@ faq:
       94, 49-340 Lewin Brzeski  \ntel. 509 794 333  \nPaczkomat Inpost: LBR01M, Hallera
       2,  Lewin Brzeski"
   - title: Wrzuć do puszki
-    content: wrzucić darowiznę do puszki lub umieścić jedną z naszych puszek w jakimś
-      miejscu ( odnośnik przekieruje do tekstu poniżej. Nie umiem do tego dać komentarza)
-      Prowadzimy zbiórki publiczne zarejestrowane w Ministerstwie Cyfryzacji. Chcesz
-      nam pomóc, umieść nasza puszkę w swojej firmie. Puszki można znaleźć w tych
-      sklepach:</br> ![Puszka ze zbiórką dla Stowarzyszenia](/images/puszka-image-main.jpg)
+    content: "Wrzucić darowiznę do puszki lub umieścić jedną z naszych puszek w jakimś
+      miejscu.  \nProwadzimy zbiórki publiczne zarejestrowane w Ministerstwie Cyfryzacji.
+      \ \nChcesz nam pomóc, umieść nasza puszkę w swojej firmie.  \nPuszki można znaleźć
+      w tych sklepach:  \n  \n![Puszka ze zbiórką dla Stowarzyszenia](/images/puszka-image-main.jpg)"
   - title: Zbiórki odzieży
     content: "przekazywać na naszą rzecz używane, ale w dobrym stanie ubrania.  Pomóc
       możecie nam również, nie wydając ani jednej własnej złotówki. Jak?\nWystarczy,
