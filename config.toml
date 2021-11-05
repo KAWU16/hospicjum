@@ -108,9 +108,9 @@ logo = "uploads/logo_stowarzyszenie_viadrusa.png"
 search = true
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCtJrYWACnKLdhpfql7pky42O26qSY3QCc"
+map_latitude = "50.718455812025105"
+map_longitude = "17.615895678419783"
 map_marker = "images/marker.png"
 [params.navigation_button]
 enable = true
