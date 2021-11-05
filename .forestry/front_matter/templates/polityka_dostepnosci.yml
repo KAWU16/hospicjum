@@ -24,8 +24,14 @@ fields:
   - type: text
     name: subtitle
     label: subtitle
-  - type: text
-    name: content
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: content
 pages:
 - content/english/polityka_dostepnosci/_index.md
