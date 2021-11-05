@@ -2,8 +2,8 @@
 bg_image = "/uploads/main-photo_2.jpg"
 date = 2019-09-10T07:51:25Z
 description = "this is meta description"
-designation = "UI designer"
-email = "Martin@mail.com"
+designation = "Kot"
+email = ""
 image = "/uploads/cziri_vel_ufokotek.jpg"
 layout = "pets"
 title = "Cziri vel Ufokotek"
