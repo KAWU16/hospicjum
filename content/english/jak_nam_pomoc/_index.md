@@ -18,13 +18,14 @@ faq:
       Brzeski,  \nNIP **7471908079 PL70 1750 0012 0000 0000 4076 6391**  \nSWIFT:
       **PPABPLPKXXX**"
   - title: Przekaż dary rzeczowe
-    content: "Karma jest dla nas produktem pierwszej potrzeby.  \nProsimy o: mokrą
-      karmę wysokomięsną dla psów np. Rinti, Rocco, Wiejska Zagroda, Dolina Noteci,
-      suchą karmę dla kotów seniorów oraz kotów kastratów, mokrą karmę dla kotów np.
-      Dolinę Noteci, leki ( Karsivan, Sizarol lub Synoquin, Forthyron,  Neurovit,
-      Previcox), drewniany, zbrylający żwirek dla kotów.  \nDary można przywieźć lub
-      wysłać na adres: Stowarzyszenie “W ogrodzie Viadrusa” Oldrzyszowice 94 49-340
-      Lewin Brzeski tel. 509 794 333 Paczkomat Inpost: LBR01M, Hallera 2,  Lewin Brzeski"
+    content: "**Karma jest dla nas produktem pierwszej potrzeby.**  \nProsimy o: **mokrą
+      karmę wysokomięsną dla psów**  \nnp. Rinti, Rocco, Wiejska Zagroda, Dolina Noteci,
+      \ \n**suchą karmę dla kotów seniorów oraz kotów kastratów, mokrą karmę dla kotów**
+      \ \nnp. Dolinę Noteci, leki ( Karsivan, Sizarol lub Synoquin, Forthyron,  Neurovit,
+      Previcox),  \n**drewniany, zbrylający żwirek dla kotów.**  \nDary można przywieźć
+      lub wysłać na adres:  \nStowarzyszenie „W ogrodzie Viadrusa”  \nOldrzyszowice
+      94, 49-340 Lewin Brzeski  \ntel. 509 794 333  \nPaczkomat Inpost: LBR01M, Hallera
+      2,  Lewin Brzeski"
   - title: Wrzuć do puszki
     content: wrzucić darowiznę do puszki lub umieścić jedną z naszych puszek w jakimś
       miejscu ( odnośnik przekieruje do tekstu poniżej. Nie umiem do tego dać komentarza)
