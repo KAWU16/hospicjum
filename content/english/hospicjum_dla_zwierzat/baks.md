@@ -2,16 +2,12 @@
 bg_image = "/uploads/main-photo_2.jpg"
 date = 2019-09-10T07:51:25Z
 description = "this is meta description"
-designation = "UI designer"
-email = "Martin@mail.com"
-image = "/uploads/bolus.jpg"
+designation = "Pies"
+email = ""
+image = "/uploads/baksiu.jpg"
 layout = "pets"
 title = "Baks"
-type = "obecni"
-[[skill]]
-content = "Lorem ipsum"
-icon = ""
-title = "Marudzenie"
+type = "odeszli"
 [[skill]]
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
 icon = "tf-ion-android-document"
