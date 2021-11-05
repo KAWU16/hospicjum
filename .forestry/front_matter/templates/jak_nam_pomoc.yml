@@ -27,6 +27,10 @@ fields:
   - type: textarea
     name: content
     label: content
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   - type: field_group_list
     name: faq_item
     label: faq_item
@@ -61,3 +65,5 @@ fields:
       - type: text
         name: link
         label: link
+pages:
+- content/english/jak_nam_pomoc/_index.md
