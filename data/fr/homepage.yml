@@ -163,13 +163,13 @@ venue:
   title : "Gdzie nas szukać?"
   image : "images/bg/cta-bg.jpg"
   date : "18 - 21 December, 2019"
-  location : "„Stowarzyszenie “W ogrodzie Viadrusa”
+  location : "„Stowarzyszenie W ogrodzie Viadrusa”
               </br>Oldrzyszowice 94
               </br>49-340 Lewin Brzeski"
   button: 
     enable : true
     label : "Zobacz lokalizację na mapie"
-    link : "contact"
+    link : "kontakt"
 
 ############################### Blog ######################################
 blog:
