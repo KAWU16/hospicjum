@@ -143,16 +143,4 @@ mailchimp_form_action = "https://gmail.us20.list-manage.com/subscribe/post?u=e7a
 mailchimp_form_name = "mc-embedded-subscribe-form"
 [[params.social]]
 icon = "tf-ion-social-facebook"
-link = "#"
-[[params.social]]
-icon = "tf-ion-social-twitter"
-link = "#"
-[[params.social]]
-icon = "tf-ion-social-linkedin"
-link = "#"
-[[params.social]]
-icon = "tf-ion-social-pinterest"
-link = "#"
-[[params.social]]
-icon = "tf-ion-social-rss"
-link = "#"
+link = "https://www.facebook.com/WOgrodzieViadrusa/"
