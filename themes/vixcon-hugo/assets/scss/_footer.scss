@@ -48,6 +48,13 @@
 .footer-children-menu{
 	display: flex;
 	flex-direction: column;
+	a{
+		text-decoration: none;
+		&:hover{
+			text-decoration: underline;
+			color: $primary-color;
+		}
+	}
 }
 @include mobile {
 	.sub-form .btn {
