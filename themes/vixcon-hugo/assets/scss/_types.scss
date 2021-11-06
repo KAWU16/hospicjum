@@ -33,8 +33,9 @@ a:hover,
 button,
 button:focus {
   transition: all .3s;
-  text-decoration: none;
+  text-decoration: underline;
   outline: 0;
+  color: #93a916;
 }
 
 h1, .h1,
