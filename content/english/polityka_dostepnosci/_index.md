@@ -63,7 +63,7 @@ information:
 
     Skargę można złożyć również do \[Rzecznika Praw Obywatelskich\]
 
-        <a class="text_links" href="https://www.rpo.gov.pl/content/jak-zglosic-sie-do-rzecznika-praw-obywatelskich" title="" rel="">https://www.rpo.gov.pl/content/jak-zglosic-sie-do-rzecznika-praw-obywatelskich</a>
+    <a class="text_links" href="" title="" rel="">https://www.rpo.gov.pl/content/jak-zglosic-sie-do-rzecznika-praw-obywatelskich</a>
 subtitle: Status pod względem zgodności z ustawą
 content: ''
 title_outline: ''
