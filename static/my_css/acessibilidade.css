@@ -21,6 +21,8 @@
 #normal-plugin-ac,
 #decrease-plugin-ac {
     border: none;
+    color: black;
+    text-decoration: none;
 }
 #decrease-plugin-ac{
     padding: 0 4px;
