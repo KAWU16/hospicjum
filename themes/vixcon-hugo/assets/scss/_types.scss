@@ -20,8 +20,9 @@ body, html {
 }
 
 a {
-  color: $black;
+  color: #93a916;
   transition: .3s all;
+  text-decoration: underline;
   &:hover{
     color: $primary-color;
   }
