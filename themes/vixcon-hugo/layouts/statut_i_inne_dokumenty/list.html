@@ -14,20 +14,19 @@
 			</div>
 		</div>
 	</div>
-</section>
-
-<div class="row justify-content-center">
-  <div class="col-lg-8">
-    {{ $.Scratch.Set "counter" 0 }}
-    {{ range .statut }}
-    {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
-    <div class="mb-4">
-      <h4 class="mb-3 border-bottom pb-3">{{$.Scratch.Get `counter`}}. {{ .title | markdownify }}</h4>
-      <p>{{ .content | markdownify }}</p>
+  <div class="row justify-content-center">
+    <div class="col-lg-8">
+      {{ $.Scratch.Set "counter" 0 }}
+      {{ range .statut }}
+      {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+      <div class="mb-4">
+        <h4 class="mb-3 border-bottom pb-3">{{$.Scratch.Get `counter`}}. {{ .title | markdownify }}</h4>
+        <p>{{ .content | markdownify }}</p>
+      </div>
+      {{ end }}
     </div>
-    {{ end }}
   </div>
-</div>
+</section>
 
 {{ end }}
 {{ end }}
