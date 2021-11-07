@@ -7,10 +7,10 @@
 	<div class="container">
 		<div class="row mt-5">
 			<div class="col-lg-6">
-				<h2 class="mb-4 text-lg title">{{ .title | markdownify }}</h2>
+				<h2 class="mb-4 text-lg title">{{ .about.title | markdownify }}</h2>
 			</div>
 			<div class="col-lg-6">
-				<p>{{ .content | markdownify }}</p>
+				<p>{{ .about.content | markdownify }}</p>
 			</div>
 		</div>
 	</div>
