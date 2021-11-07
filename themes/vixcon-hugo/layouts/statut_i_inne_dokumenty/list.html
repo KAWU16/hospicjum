@@ -3,8 +3,8 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 <!-- about -->
-{{ if $data.statut_i_inne_dokumenty.about.enable }}
-{{ with $data.statut_i_inne_dokumenty.about }}
+{{ if .Params.statut_i_inne_dokumenty.about.enable }}
+{{ with .Params.statut_i_inne_dokumenty.about }}
 <section class="about-page section">
 	<div class="container">
 		<div class="row mt-5">
@@ -20,49 +20,16 @@
 {{ end }}
 {{ end }}
 <!-- /about -->
-
-<!-- sponsor -->
-{{ if $data.statut_i_inne_dokumenty.sponsor.enable }}
-{{ partial "sponsor.html" . }}
-{{ end }}
-<!-- /sponsor -->
-
-<!-- feature -->
-{{ if $data.statut_i_inne_dokumenty.feature.enable }}
-{{ with $data.statut_i_inne_dokumenty.feature }}
-<section class="section cta-wrap bg-light">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6">
-        <div class="cta-content">
-          <span class="lead">{{ .subtitle | markdownify }}</span>
-          <h2 class="mt-3 mb-4 text-md title">{{ .title | markdownify }}</h2>
-          {{ if .button.enable }}
-          {{ with .button }}
-          <a href="{{ .link | absURL }}" class="btn btn-secondary btn-rounded my-4">{{ .label }}</a>
-          {{ end }}
-          {{ end }}
-        </div>
-      </div>
-
-      <div class="col-lg-6">
-        <div class="row">
-          {{ range .feature_item }}
-          <div class="col-md-6 mb-4">
-            <div class="feature-item" style="background-color: {{if .bg_color}}{{.bg_color}}{{else}}#343a40{{end}};">
-              <i class="{{ .icon }}"></i>
-              <h4 class="mt-3 mb-3">{{ .title | markdownify }}</h4>
-              <p>{{ .content | markdownify }}</p>
-            </div>
-          </div>
-          {{ end }}
-        </div>
-      </div>
+<div class="row justify-content-center">
+  <div class="col-lg-8">
+    {{ $.Scratch.Set "counter" 0 }}
+    {{ range .statut_item }}
+    {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+    <div class="mb-4">
+      <h4 class="mb-3 border-bottom pb-3">{{$.Scratch.Get `counter`}}. {{ .title | markdownify }}</h4>
+      <p>{{ .content | markdownify }}</p>
     </div>
+    {{ end }}
   </div>
-</section>
-{{ end }}
-{{ end }}
-<!-- /feature -->
-
+</div>
 {{ end }}
