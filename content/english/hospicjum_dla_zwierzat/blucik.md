@@ -1,11 +1,10 @@
 +++
 bg_image = "/uploads/main-photo_2.jpg"
-date = 2019-09-10T07:51:25Z
+date = "2019-09-10T07:51:25.000+00:00"
 description = "this is meta description"
 designation = "Pies"
-draft = true
 email = ""
-image = "/uploads/baksiu.jpg"
+image = "/uploads/blucik.jpg"
 layout = "pets"
 title = "Blucik"
 type = "odeszli"
