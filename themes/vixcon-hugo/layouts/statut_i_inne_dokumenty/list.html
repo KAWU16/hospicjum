@@ -2,15 +2,15 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-{{ with .Params.statut_i_inne_dokumenty.about }}
+{{ with $data.statut_i_inne_dokumenty.about }}
 <section class="about-page section">
 	<div class="container">
 		<div class="row mt-5">
 			<div class="col-lg-6">
-				<h2 class="mb-4 text-lg title">{{ .about.title | markdownify }}</h2>
+				<h2 class="mb-4 text-lg title">{{ .title | markdownify }}</h2>
 			</div>
 			<div class="col-lg-6">
-				<p>{{ .about.content | markdownify }}</p>
+				<p>{{ .content | markdownify }}</p>
 			</div>
 		</div>
 	</div>
