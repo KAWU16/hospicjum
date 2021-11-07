@@ -19,7 +19,7 @@
       <div class="mb-4">
         <h4 class="mb-3 border-bottom pb-3">{{ .title | markdownify }}</h4>
         <p class="paragraph">{{ .paragraph | markdownify }}</p>
-        <p>{{$.Scratch.Get `counter`}}. {{ .content | markdownify }}</p>
+        <p>{{ .content | markdownify }}</p>
       </div>
       {{ end }}
     </div>
