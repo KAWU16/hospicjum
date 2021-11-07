@@ -79,6 +79,7 @@ a.nav-link:hover {
   padding: 10px 12px 10px 25px;
   border-bottom: 1px dashed $border-color;
   border-left: 3px solid transparent;
+  text-decoration: none;
 
   &:hover {
     color: $primary-color;
