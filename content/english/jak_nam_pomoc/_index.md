@@ -17,7 +17,7 @@ faq:
       \  \nStowarzyszenie „W ogrodzie Viadrusa”,  \nOldrzyszowice 94, 49-340, Lewin
       Brzeski,  \nNIP **7471908079 PL70 1750 0012 0000 0000 4076 6391**  \nSWIFT:
       **PPABPLPKXXX**"
-  - title: Przekaż dary rzeczowe
+  - title2: Przekaż dary rzeczowe
     content: "**Karma jest dla nas produktem pierwszej potrzeby.**  \nProsimy o: **mokrą
       karmę wysokomięsną dla psów**  \nnp. Rinti, Rocco, Wiejska Zagroda, Dolina Noteci,
       \ \n**suchą karmę dla kotów seniorów oraz kotów kastratów, mokrą karmę dla kotów**
