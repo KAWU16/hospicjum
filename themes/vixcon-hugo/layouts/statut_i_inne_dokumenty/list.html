@@ -2,6 +2,7 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
+{{ if $data.statut_i_inne_dokumenty.enable }}
 {{ with $data.statut_i_inne_dokumenty.about }}
 <section class="about-page section">
 	<div class="container">
@@ -28,5 +29,6 @@
     {{ end }}
   </div>
 </div>
+{{ end }}
 {{ end }}
 {{ end }}
