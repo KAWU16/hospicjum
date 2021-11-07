@@ -76,6 +76,7 @@
 
 .btn-rounded {
   border-radius: 60px;
+  text-decoration: none;
 }
 
 .btn-hero {
@@ -154,5 +155,12 @@ a {
   margin-top: -200px;
 }
 .reference_buttons{
-  margin-bottom: 4em;
+  display: flex;
+    margin: 0 auto 4em;
+    justify-content: space-evenly;
+    max-width: 1300px;
+    a{
+      font-size: .8em;
+      background: white;
+    }
 }
