@@ -12,7 +12,7 @@ about:
         paragraph : "§ 1"
         content : "1. Stowarzyszenie „W ogrodzie Viadrusa” zwane dalej Stowarzyszeniem, działa na podstawie Ustawy Prawo o stowarzyszeniach oraz postanowień niniejszego statutu."
         
-      - title1 : ""
+      - title : ""
         paragraph : "§ 2"
         content : "Siedzibą Stowarzyszenia jest wieś Oldrzyszowice."
 
