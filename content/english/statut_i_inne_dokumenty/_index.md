@@ -13,18 +13,8 @@ about:
         content : "1. Stowarzyszenie „W ogrodzie Viadrusa” zwane dalej Stowarzyszeniem, działa na podstawie Ustawy Prawo o stowarzyszeniach oraz postanowień niniejszego statutu."
         
       # faq item loop
-      - title : "Which payments method are avaliable?"
+      - title : ""
+        paragraph : "§ 2"
         content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
         
-      # faq item loop
-      - title : "Is refund is avalaible for valid reason?"
-        content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
-        
-      # faq item loop
-      - title : "How to buy a Tickets"
-        content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
-        
-      # faq item loop
-      - title : "When i wil have to reach?"
-        content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
 ---
