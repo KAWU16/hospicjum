@@ -6,11 +6,11 @@ bg_image: images/bg/cta-bg.jpg
 
 about:
   image : "images/bg/ctg.jpg"
-  title : "Statut Connect People"
-  content : "The Event Company is an event design and production company that specializes in corporate and social events as well as non-profit fundraisers. We consider ourselves experts when it comes to event fundraising and public/media relations and offer consultation services to our clients to help make their event a sensational success."
+  title : "Statut Stowarzyszenia „W ogrodzie Viadrusa”"
   statut:
-      - title : "How to buy a Tickets"
-        content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
+      - title : "Rozdział I. Postanowienia ogólne"
+        paragraph : "§ 1"
+        content : "1. Stowarzyszenie „W ogrodzie Viadrusa” zwane dalej Stowarzyszeniem, działa na podstawie Ustawy Prawo o stowarzyszeniach oraz postanowień niniejszego statutu."
         
       # faq item loop
       - title : "Which payments method are avaliable?"

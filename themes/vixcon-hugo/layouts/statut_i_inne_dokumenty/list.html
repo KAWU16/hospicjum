@@ -6,11 +6,8 @@
 <section class="about-page section">
 	<div class="container">
 		<div class="row mt-5">
-			<div class="col-lg-6">
+			<div class="col-lg-8">
 				<h2 class="mb-4 text-lg title">{{ .title | markdownify }}</h2>
-			</div>
-			<div class="col-lg-6">
-				<p>{{ .content | markdownify }}</p>
 			</div>
 		</div>
 	</div>
@@ -21,6 +18,7 @@
       {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
       <div class="mb-4">
         <h4 class="mb-3 border-bottom pb-3">{{$.Scratch.Get `counter`}}. {{ .title | markdownify }}</h4>
+        <p>{{ .paragraph | markdownify }}</p>
         <p>{{ .content | markdownify }}</p>
       </div>
       {{ end }}
