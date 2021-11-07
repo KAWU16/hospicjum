@@ -8,24 +8,23 @@ about:
   image : "images/bg/ctg.jpg"
   title : "Statut Connect People"
   content : "The Event Company is an event design and production company that specializes in corporate and social events as well as non-profit fundraisers. We consider ourselves experts when it comes to event fundraising and public/media relations and offer consultation services to our clients to help make their event a sensational success."
-
-statut:
-    - title : "How to buy a Tickets"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
-      
-    # faq item loop
-    - title : "Which payments method are avaliable?"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
-      
-    # faq item loop
-    - title : "Is refund is avalaible for valid reason?"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
-      
-    # faq item loop
-    - title : "How to buy a Tickets"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
-      
-    # faq item loop
-    - title : "When i wil have to reach?"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
+  statut:
+      - title : "How to buy a Tickets"
+        content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
+        
+      # faq item loop
+      - title : "Which payments method are avaliable?"
+        content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
+        
+      # faq item loop
+      - title : "Is refund is avalaible for valid reason?"
+        content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
+        
+      # faq item loop
+      - title : "How to buy a Tickets"
+        content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
+        
+      # faq item loop
+      - title : "When i wil have to reach?"
+        content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
 ---
