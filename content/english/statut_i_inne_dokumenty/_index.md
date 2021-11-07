@@ -5,7 +5,6 @@ description: this is meta description
 bg_image: images/bg/cta-bg.jpg
 
 about:
-  enable : true
   image : "images/bg/ctg.jpg"
   title : "Statut Connect People"
   content : "The Event Company is an event design and production company that specializes in corporate and social events as well as non-profit fundraisers. We consider ourselves experts when it comes to event fundraising and public/media relations and offer consultation services to our clients to help make their event a sensational success."
