@@ -31,3 +31,4 @@ statut_item:
     # faq item loop
     - title : "When i wil have to reach?"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
+---
