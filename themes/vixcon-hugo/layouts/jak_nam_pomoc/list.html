@@ -3,11 +3,11 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 {{ with .Params.faq }}
-<a href="https://hospicjum.onrender.com/jak_nam_pomoc/#title_reference" class="btn btn-hero btn-rounded">Wesprzyj nas finasowo</a>
 <section class="section faq">
   <div class="container">
     <div class="row justify-content-center mb-5">
       <div class="col-lg-8">
+        <a href="https://hospicjum.onrender.com/jak_nam_pomoc/#title_reference" class="btn btn-hero btn-rounded">Wesprzyj nas finasowo</a>
         <div class="heading">
           <span class="stroke-text">{{ .title_outline }}</span>
           <h3 class="mb-4 h2 mt-2">{{ .title | markdownify }}</h3>
