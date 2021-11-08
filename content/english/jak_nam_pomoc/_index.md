@@ -76,7 +76,9 @@ faq:
       (Google Play, AppStore)**  \n   Możesz nam pomagać także z telefonem w dłoni!
       Zainstaluj Aplikację i korzystaj z oferty ponad 1500 partnerów FaniMani, robiąc
       zakupy i przekazując nam darowiznę! W aplikacji w prosty sposób sprawdzisz również
-      swoje ostatnie darowizny.\n\nDziękujemy, że jesteś z nami!"
+      swoje ostatnie darowizny.\n\nDziękujemy, że jesteś z nami!\n\n[![Baner na zbiórkę
+      pieniędzy dla Viadrusa](/uploads/fanimani-pl-baner750x100.jpg \"Zbieraj pieniądze
+      z fanimani\")](https://fanimani.pl/wogrodzieviadrusa/zbieraj-wiecej/www/)"
     color: ''
   support:
     enable: true
