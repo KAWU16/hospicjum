@@ -1,6 +1,6 @@
 +++
 bg_image = "/uploads/main-photo_2.jpg"
-date = "2019-09-10T13:51:25.000+06:00"
+date = 2019-09-10T07:51:25Z
 description = "this is meta description"
 designation = "Kot"
 email = "Martin@mail.com"
@@ -31,4 +31,7 @@ icon = "tf-ion-social-linkedin"
 link = "#"
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Smoku vel. Gruby został odłowiony przez inną organizację, gdyż w wyniku jakiegoś nieszczęśliwego wypadku miał połamaną łapkę. Na rekonwalescencji trochę się roztył 😉, a perspektyw na nowy dom nie było widać. Trafił więc do nas „na odchudzanie”. Dziś jest solidnie zbudowanym kotem, ale już nie grubaskiem.
+
+**Potrzeby:**  
+Karma dla kota (Dolina Noteci, Animonda), Vetomune
