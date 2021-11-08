@@ -31,7 +31,7 @@ fields:
 - type: field_group_list
   name: skill
   label: skill
-  extra_fields:
+  fields:
   - type: text
     name: title
     label: title
