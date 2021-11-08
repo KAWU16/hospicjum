@@ -13,9 +13,9 @@ content = "Piątek trzynastego okazał się nie pechowy, a tragiczny dla naszej 
 icon = "/uploads/myszka2.jpg"
 title = "13.08.2021"
 [[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-desktop"
-title = "Execute the Decision"
+content = "Dzień dobry. Kontrola. Myszka jest już w [Przychodni weterynaryjnej GRYF dr n. wet. Aneta Bocheńska](https://www.facebook.com/GryfWet/?__cft__%5b0%5d=AZVhUvBrHitpa3796agkFnGOQcbkGrf_FPVXCoAx3oKIhpTmjPD9zeaGAztNBtoQhLLcesuDDTAmEvdUStBILaYwlikiRrcv4Sps1wfgoYquaMN3nen14pdye_tCQKJOKGBxHjLDuGOGuyVyFhQ3jGSIISREjm7J960Gy0eOAp3ZnfhMh602ybyoxs_OxQTtB_o&__tn__=kK-R) i sprawdza czy gabinet jest przystosowany do potrzeb kotków niepełnosprawnych. Co kotka - inspektorka ustaliła, napiszemy później."
+icon = "/uploads/myszka1.jpg"
+title = "14.09.2021"
 [[skill]]
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
 icon = "tf-ion-android-bulb"
