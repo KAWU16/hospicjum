@@ -5,47 +5,9 @@ about:
   title : "Media o nas"
   content : "Na początek zapraszamy do przeczytania i obejrzenia reportażu o naszym Hospicjum na stronie TVP3 Opole"
   link : "https://opole.tvp.pl/50668161/zapraszamy-na-reportaz-o-niezwyklym-hospicjum-dla-psow-w-cyklu-ludzie-sprawy-historie"
-################## sponsor ###############################
-button:
-  label: Zobacz artykuł
-  link: https://opole.tvp.pl/50668161/zapraszamy-na-reportaz-o-niezwyklym-hospicjum-dla-psow-w-cyklu-ludzie-sprawy-historie
 
-sponsor:
-  enable : true
-  # sponsor data comes from "homepage.yml" file
-
-
-################## Feature ##############################
-feature:
-  enable : true
-  subtitle : "10% Sale offer for early birds"
-  title : "Meet top **digital masters** & influencers in a unique **3-days** experience."
   button:
-    enable : true
-    label : "Get ticket"
-    link : "pricing"
-  
-  feature_item:
-    # feature item loop
-    - title : "Global Audience"
-      icon : "tf-ion-android-globe" # check `static/plugins/themefisher-font/demo.html` for more icon
-      bg_color : "#17a2b8"
-      content : "Starting a mentoring program might be the closest you'll ever get."
-      
-    # feature item loop
-    - title : "Valuable Insight"
-      icon : "tf-ion-android-microphone" # check `static/plugins/themefisher-font/demo.html` for more icon
-      bg_color : "" # if color is empty, it will get the default dark color
-      content : "Starting a mentoring program might be the closest you'll ever get."
-      
-    # feature item loop
-    - title : "Global Audience"
-      icon : "tf-ion-android-globe" # check `static/plugins/themefisher-font/demo.html` for more icon
-      bg_color : "#ff4747"
-      content : "Starting a mentoring program might be the closest you'll ever get."
-      
-    # feature item loop
-    - title : "Global Audience"
-      icon : "tf-ion-android-microphone" # check `static/plugins/themefisher-font/demo.html` for more icon
-      bg_color : "#4125dd"
-      content : "Starting a mentoring program might be the closest you'll ever get."
+    label: Zobacz artykuł
+    link: https://opole.tvp.pl/50668161/zapraszamy-na-reportaz-o-niezwyklym-hospicjum-dla-psow-w-cyklu-ludzie-sprawy-historie
+
+
