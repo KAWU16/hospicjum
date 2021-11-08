@@ -29,10 +29,12 @@ skill:
     otrzymał dziś paczkę na jego dane osobowe od Agi Pietruckiej. Misiek pamięta te
     czasy, jak przychodziły paczki od ciotki z Ameryki i nie będzie dziś mógł spać.
     Zwija go z zazdrości. Ciekawe czy Boluś się podzieli?
-- title: Planning the Moves
-  icon: tf-ion-android-bulb
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit
-    elit turpis, a porttitor tellus sollicitudin at.
+- title: ''
+  icon: "/uploads/bolus-3.jpg"
+  content: Spójrzcie jak pięknie Bolusiowi schodzi wielki strupol po ranie, która
+    powstała na skutek pogryzienia przez schroniskowe psy. Staruszek już powoli o
+    tym zapomina, jeszcze chwila strup całkiem zejdzie i Boluś będzie myślał, że to
+    był tylko zły sen.
 
 ---
 Boluś ma około 17 lat, a 15 lat, czyli praktycznie całe swoje życie spędził w schronisku. W 2020 roku pogryzły go schroniskowe psy, co stało się dla niego szczęściem w nieszczęściu. Dzięki temu tragicznemu wydarzeniu, zaczęto intensywnie szukać dla niego domu. I tak ciocia Ula Srowron przywiozła go do naszego hospicjum. Boluś jest kochanym, cichutkim, nikomu nie wadzącym pieskiem. Lubi spędzać czas w swoim relaksującym legowisku, chętnie przekąsi smaczek. Dopomina się pieszczot i obecności człowieka, ale robi to nienachalnie, wręcz jakby przepraszał, że angażuje swoją osobą.
