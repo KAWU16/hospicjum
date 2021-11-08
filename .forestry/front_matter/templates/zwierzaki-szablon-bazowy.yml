@@ -50,6 +50,7 @@ fields:
         format: markdown
     label: content
 pages:
+- content/english/hospicjum_dla_zwierzat/baks.md
 - content/english/hospicjum_dla_zwierzat/basia.md
 - content/english/hospicjum_dla_zwierzat/bolus.md
 - content/english/hospicjum_dla_zwierzat/cziri-vel-ufokotek.md

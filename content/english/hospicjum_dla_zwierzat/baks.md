@@ -6,20 +6,9 @@ designation = "Pies"
 email = ""
 image = "/uploads/baksiu.jpg"
 layout = "pets"
+skill = []
 title = "Baks"
 type = "odeszli"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-document"
-title = "Szczekanie"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-desktop"
-title = "Execute the Decision"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-bulb"
-title = "Planning the Moves"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
@@ -31,4 +20,4 @@ icon = "tf-ion-social-linkedin"
 link = "#"
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Baks pojawił się na długo zanim utworzyliśmy hospicjum. Był to psiak w typie doga niemieckiego. Żył sobie u pewnych ludzi w mieszkaniu i żałośnie spoglądał przez okno. Na skutek różnych sytuacji życiowych, państwo postanowili go oddać. Chętnych do przyjęcia takiego psa nie było, więc ludzie rozważali eutanazję. Wiadomo, żaden weterynarz nie uśpi zdrowego psa…., ale jak ktoś chce pozbyć się zwierzęcia, to sposób znajdzie. Baksiu był śmiesznym ciapkiem, ale bywały z nim nieprzyjemne i niebezpieczne sytuacje. Odszedł w 2020 r. na skutek nowotworu mając 12 lat. Jak na doga, to piękny wiek.
