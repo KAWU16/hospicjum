@@ -32,7 +32,14 @@ faq:
     content: "Wrzucić darowiznę do puszki lub umieścić jedną z naszych puszek w jakimś
       miejscu.  \nProwadzimy zbiórki publiczne zarejestrowane w Ministerstwie Cyfryzacji.
       \ \nChcesz nam pomóc, umieść nasza puszkę w swojej firmie.  \nPuszki można znaleźć
-      w tych sklepach:  \n  \n![Puszka ze zbiórką dla Stowarzyszenia](/images/puszka-image-main.jpg)"
+      w tych sklepach:\n\n![Puszka ze zbiórką dla Stowarzyszenia](/images/puszka-image-main.jpg)\n\n**Zakupy
+      w akcji dlaschroniska.pl**\n\nViadrusową ferajnę można wspierać za pośrednictwem
+      platformy [www.dlaschroniska.pl.](http://www.dlaschroniska.pl/?fbclid=IwAR0Kftyn9cHhWaWgbZ1w5q8hEsjzGctBDA-9M2rclF9LmGxNJvHhk7H2F4U)
+      Zasada jest prosta, możesz kupić jeden lub kilka produktów z listy naszych potrzeb,
+      umieszczonej w serwisie np. puszkę dla psa lub kota, preparat przeciwpchelny
+      czy tez witaminki, a my raz w miesiącu otrzymamy paczkę na adres hospicjum (jeśli
+      łączna wartość produktów zebranych przez wszystkie zwierzaki wyniesie min. 100
+      zł)."
     color: ''
   - title: Zbiórki odzieży
     content: "Możesz przekazać na naszą rzecz używane, ale **w dobrym stanie,** ubrania.
