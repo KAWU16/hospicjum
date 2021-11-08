@@ -23,24 +23,11 @@ fields:
   name: designation
   label: designation
 - type: text
-  name: email
-  label: email
-- type: text
   name: type
   label: type
 - type: text
   name: layout
   label: layout
-- type: field_group_list
-  name: social
-  label: social
-  fields:
-  - type: text
-    name: icon
-    label: icon
-  - type: text
-    name: link
-    label: link
 - type: field_group_list
   name: skill
   label: skill
