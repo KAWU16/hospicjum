@@ -41,3 +41,5 @@ fields:
         wysiwyg: true
         schema:
           format: markdown
+pages:
+- content/english/statut_i_inne_dokumenty/_index.md
