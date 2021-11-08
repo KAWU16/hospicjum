@@ -20,6 +20,8 @@
 
       @include tablet {
         font-size: 3.5em;
+        margin-bottom: 0.2em!important;
+        margin-top: 1em!important;
       }
     }
 
@@ -58,7 +60,7 @@
 
 @include tablet {
   .section-banner {
-    min-height: 515px;
+    min-height: 650px;
   }
 }
 .banner-cover::before{
