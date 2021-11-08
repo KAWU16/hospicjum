@@ -90,7 +90,58 @@ a.nav-link:hover {
     border-left: 3px solid $primary-color;
   }
 }
+/* hide the checkbox */
+#menu {
+  visibility: hidden;
+}
 
+/* hamburguer */
+label,
+label::before,
+label::after {
+  position: absolute;
+  width: 100px;
+  height: 15px;
+  border-radius: 25px;
+  background: #ffffff;
+  transition: 0.6s;
+}
+
+label {
+  cursor: pointer;
+  top: 50%;
+  left: 50%;
+  margin-left: -50px;
+  margin-top: -7.5px;
+}
+
+label::before {
+  content: "";
+  transform: translateY(-30px);
+  transition-duration: 0.5s;
+
+}
+
+label::after {
+  content: "";
+  transform: translateY(30px);
+  transition-duration: 0.5s;
+
+}
+
+/* animation */
+#menu:checked + label {
+  width: 0px;
+  transition-duration: 0s;
+}
+
+#menu:checked + label::before {
+  transform: rotate(45deg) translate(0px);
+}
+
+#menu:checked + label::after {
+  transform: rotate(-45deg) translate(0px);
+}
 .dropdown-menu {
   min-width: 250px;
   border: 0px;
