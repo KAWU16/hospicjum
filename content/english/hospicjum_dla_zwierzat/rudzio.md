@@ -13,9 +13,9 @@ content = "Rudoś staruszek ze swoją postępującą demencją, jest coraz bardz
 icon = "/uploads/rudzio1.jpg"
 title = "21.09.2021"
 [[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-desktop"
-title = "Execute the Decision"
+content = "Rudoś od wczoraj leczony jest objawowo, gdyż ma problemy z układem moczowym. W tygodniu prowadzona będzie diagnostyka, w tym USG. Rudo bardzo nie lubi badań. Robi się wówczas zły niczym wilk."
+icon = "/uploads/rudzio2.jpg"
+title = "27.09.2021"
 [[skill]]
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
 icon = "tf-ion-android-bulb"
