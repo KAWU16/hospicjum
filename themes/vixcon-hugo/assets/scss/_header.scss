@@ -164,7 +164,12 @@ label{
   content: "\f2D7";
   font-size: 3em;
 }
-
+.navbar-collapse {
+  height: 80vh;
+}
+.mx-auto {
+  margin-top: 30%;
+}
 // page-header
 // 
 .page-header {
