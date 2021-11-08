@@ -13,9 +13,9 @@ content = "Misiu był na badaniu echa serca w Przychodni Weterynaryjnej Aksman w
 icon = "/uploads/misiek1.jpg"
 title = "29.01.2021"
 [[skill]]
-content = "Prezes Misiek i pozostała ferajna zazdroszczą Bolusiowi. Powód - Bolutek otrzymał dziś paczkę na jego dane osobowe od Agi Pietruckiej. Misiek pamięta te czasy, jak przychodziły paczki od ciotki z Ameryki i nie będzie dziś mógł spać. Zwija go z zazdrości. Ciekawe czy Boluś się podzieli?"
-icon = "/uploads/bolus-2.jpg"
-title = "3.11.2021"
+content = "Misiu miał dziś powtórzone USG, gdyż poprzednie dało niewyraźny obraz. Niestety na śledzionie doktor stwierdził około 3 cm. zmianę. Wyniki badania krwi też nie są idealne, zatem jutro do dr. Janeczka Misiu pojedzie jedynie na konsultację. Pusia i Rudek także muszą poczekać. Anestezjolog uznał, że zabieg byłby zbyt ryzykowny w ich stanie. Viadrusową ekipę w Ośrodku Stomatologii i Ortodoncji Weterynaryjnej Witold Janeczek we Wrocławiu reprezentować będzie Saba i jej nadziąślak. Trzymajcie kciuki."
+icon = "/uploads/misiek2.jpg"
+title = "19.08.2021"
 [[skill]]
 content = "Spójrzcie jak pięknie Bolusiowi schodzi wielki strupol po ranie, która powstała na skutek pogryzienia przez schroniskowe psy. Staruszek już powoli o tym zapomina, jeszcze chwila strup całkiem zejdzie i Boluś będzie myślał, że to był tylko zły sen."
 icon = "/uploads/bolus-3.jpg"
