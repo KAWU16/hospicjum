@@ -68,7 +68,6 @@ fields:
     label: content
   label: skill
 pages:
-- content/english/hospicjum_dla_zwierzat/rudzio.md
 - content/english/hospicjum_dla_zwierzat/saba.md
 - content/english/hospicjum_dla_zwierzat/smerfetka.md
 - content/english/hospicjum_dla_zwierzat/smoku.md
