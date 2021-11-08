@@ -13,9 +13,15 @@ social:
   link: "#"
 skill:
 - title: 31.10.2020
-  icon: tf-ion-android-document
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit
-    elit turpis, a porttitor tellus sollicitudin at.
+  icon: "/uploads/bolus-1.jpg"
+  content: 'Cześć, jestem Bolek, mam około 17 lat. 15 lat spędziłem w schronisku.
+    Jestem malutki, chudziutki oraz bardzo kruchy i sam się zastanawiam, jak przez
+    te wszystkie lata dałem sobie radę. Życie miałem smutne, a ostatnio pogryźli mnie
+    bracia w niedoli. Dwie ciocie Ula SKowron i Jadwiga Silicka, niezależnie od siebie,
+    bardzo chciały znaleźć mi dom. I tak trafiłem do viadrusowej ferajny, bo właśnie
+    dziś ciocia Ula SKowron wraz z rodziną przywiozła mnie do mojego nowego domu.
+    Na razie trochę tylko popatrzyłem w kąty i poczułem się zmęczony, więc teraz będę
+    spał, ale zostańmy w kontakcie.  '
 - title: Execute the Decision
   icon: tf-ion-android-desktop
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit
