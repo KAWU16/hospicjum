@@ -17,9 +17,9 @@ content = "Rudoś od wczoraj leczony jest objawowo, gdyż ma problemy z układem
 icon = "/uploads/rudzio2.jpg"
 title = "27.09.2021"
 [[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
+content = "Rudoś także lubi przytulić się do tygryska."
 icon = "tf-ion-android-bulb"
-title = "Planning the Moves"
+title = "3.08.2020"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
