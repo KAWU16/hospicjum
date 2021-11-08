@@ -17,9 +17,9 @@ content = "Radzieccy metoropatolodzy :) stwierdzili, że wieje jak w kieleckiem.
 icon = "/uploads/saba2.jpg"
 title = "13.03.2021"
 [[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-bulb"
-title = "Planning the Moves"
+content = "Saba dochodzi do siebie po zabiegu sanacji jamy ustnej. Z naszymi seniorkami na sanację zawsze jeździmy do kliniki doktora Janeczka we Wrocławiu."
+icon = "/uploads/saba3.jpg"
+title = "13.08.021"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
