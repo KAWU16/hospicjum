@@ -91,8 +91,8 @@ weight = 2
 # parent = "Pages"
 # weight = 3
 [[menu.main]]
-URL = "wspieraja_nas"
-name = "Wspierają nas"
+URL = "wsparli_nas"
+name = "Wsparli nas"
 parent = "O nas"
 weight = 3
 [outputs]
