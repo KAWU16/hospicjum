@@ -45,9 +45,9 @@
       {{ range .Params.skill }}
       <div class="col-lg-4 col-md-6 mb-5">
         <div class="skill-item">
-          <img src="{{ .Params.fields.icon | absURL }}" alt="{{ .Title }}" class="img-fluid w-100">
           <h4 class="mb-3">{{ .title | markdownify }}</h4>
           <p>{{ .content | markdownify }}</p>
+          <img src="{{ .Params.extra_fields.icon | absURL }}" alt="{{ .Title }}" class="img-fluid w-100">
         </div>
       </div>
       {{ end }}
