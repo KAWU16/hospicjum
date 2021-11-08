@@ -39,5 +39,5 @@ skill:
 ---
 Boluś ma około 17 lat, a 15 lat, czyli praktycznie całe swoje życie spędził w schronisku. W 2020 roku pogryzły go schroniskowe psy, co stało się dla niego szczęściem w nieszczęściu. Dzięki temu tragicznemu wydarzeniu, zaczęto intensywnie szukać dla niego domu. I tak ciocia Ula Srowron przywiozła go do naszego hospicjum. Boluś jest kochanym, cichutkim, nikomu nie wadzącym pieskiem. Lubi spędzać czas w swoim relaksującym legowisku, chętnie przekąsi smaczek. Dopomina się pieszczot i obecności człowieka, ale robi to nienachalnie, wręcz jakby przepraszał, że angażuje swoją osobą.
 
-**Potrzeby:  
-**Karma dla seniora, Karsivan, Synoquin lub Sizarol, Vetomune
+**Potrzeby:**  
+Karma dla seniora, Karsivan, Synoquin lub Sizarol, Vetomune
