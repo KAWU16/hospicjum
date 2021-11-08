@@ -2,7 +2,7 @@
 bg_image = "/uploads/main-photo_2.jpg"
 date = 2019-09-10T07:51:25Z
 description = "this is meta description"
-designation = "Kocica"
+designation = ""
 email = ""
 image = "/uploads/basia.jpg"
 layout = "pets"
