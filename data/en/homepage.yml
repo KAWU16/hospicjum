@@ -96,19 +96,19 @@ sponsor:
     - title : "Amazing Partners & Sponsors"
       sponsor:
         # sponcor loop
-        - logo : "images/clients/client-img-1.png"
-          link : "https://examplesite.org"
-          description : "test"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-2.png"
+        - logo : "images/clients/misericordia.png"
           link : "#"
-          description : ""
+          description : "Kameralny Chór Misericordia"
           
         # sponcor loop
-        - logo : "images/clients/client-img-3.png"
-          link : "https://examplesite.org"
-          description : ""
+        - logo : "images/clients/kakadu.png"
+          link : "#"
+          description : "Sklep Kakdu w CH Turawa Park"
+          
+        # sponcor loop
+        - logo : "images/clients/dogcat.png"
+          link : "#"
+          description : "DogCat Academy"
           
         # sponcor loop
         - logo : "images/clients/client-img-4.png"
@@ -116,9 +116,9 @@ sponsor:
           description : ""
           
         # sponcor loop
-        - logo : "images/clients/client-img-5.png"
-          link : "https://examplesite.org"
-          description : ""
+        - logo : "images/clients/fizjo.png"
+          link : "#"
+          description : "FizjoActiv Rehabilitacja Zwierząt"
           
     ############################ sponsor group loop
     - title : "Platinum Sponsors"
