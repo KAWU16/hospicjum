@@ -32,14 +32,14 @@ fields:
   name: skill
   label: skill
   fields:
-  - type: text
-    name: title
-    label: title
   - name: icon
     type: file
     config:
       maxSize: 64
     label: icon
+  - type: text
+    name: title
+    label: title
   - name: content
     type: textarea
     default: ''
