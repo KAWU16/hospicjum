@@ -40,10 +40,6 @@ fields:
   default: pets
 pages:
 - content/english/hospicjum_dla_zwierzat/Kemnitz-Wagon.md
-- content/english/hospicjum_dla_zwierzat/blucik.md
-- content/english/hospicjum_dla_zwierzat/feniu.md
-- content/english/hospicjum_dla_zwierzat/frotek.md
-- content/english/hospicjum_dla_zwierzat/krecik.md
 - content/english/hospicjum_dla_zwierzat/maksiu.md
 - content/english/hospicjum_dla_zwierzat/malinka.md
 - content/english/hospicjum_dla_zwierzat/snajperek.md
