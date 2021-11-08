@@ -17,9 +17,9 @@ content = "Dzień dobry. Kontrola. Myszka jest już w [Przychodni weterynaryjnej
 icon = "/uploads/myszka1.jpg"
 title = "14.09.2021"
 [[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-bulb"
-title = "Planning the Moves"
+content = "Dziś na dobranoc, opowiemy Wam bajeczkę...o Alicji w Krainie Czarów. Gdzieś niedaleko, w domu pełnym zwierząt mieszkała pewna czarowna istotka, która mimo wielu trudności i niepowodzeń miała w sobie ogromną wolę życia i radość. Przyszedł jednak taki dzień, kiedy przyleciały anioły i mała, drobna istotka nagle znalazła się po drugiej stronie lustra..... No, może bajka nie całkiem tak brzmiała, ale zapewne wiecie, jakie wydarzenia są kanwą naszej bajeczki. Tak, historia viadrusowej Kotki Myszki, która w trakcie rutynowego zabiegu sterylizacji, odeszła na 5 minut do aniołków. Wróciła jednak, niczym Alicja z Krainy Czarów i podjęła walkę o powrót do zdrowia, bo Myszka wróciła, ale jej oczka już nic nie widziały (a przez pierwsze dni Mysia również nie jadła, nie piła, nie potrafiła nawet podnieść główki, nie mówiąc już o przemieszczaniu się o własnych silach). Zrobiliśmy ile tylko mogliśmy, by jej pomóc. Codziennie leki, magnetoterapia, masaże i zauważaliśmy poprawę jej stanu zdrowia. I dziś stało się, Myszka zauważyła odbicie Celki w lustrze. Teraz już będzie tylko lepiej, a lustro będzie służyło Myszce, tylko po to by mogła spoglądać w swoje piękne oczęta."
+icon = "/uploads/myszka3.jpg"
+title = "10.10.2021"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
