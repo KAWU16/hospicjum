@@ -3,7 +3,6 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 <!-- about -->
-{{ if .Params.wsparli_nas.about.enable }}
 {{ with .Params.wsparli_nas.about }}
 <section class="about-page section">
 	<div class="container">
@@ -22,7 +21,6 @@
 		</div>
 	</div>
 </section>
-{{ end }}
 {{ end }}
 <!-- /about -->
 
