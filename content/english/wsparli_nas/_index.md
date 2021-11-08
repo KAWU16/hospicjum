@@ -1,5 +1,5 @@
 ---
-title: Wsparli nas
+title: Działalność edukacyjna i ekologiczna
 date: 2019-09-10T13:51:25.000+06:00
 description: this is meta description
 bg_image: images/bg/cta-bg.jpg
@@ -7,8 +7,8 @@ bg_image: images/bg/cta-bg.jpg
 about:
   enable : true
   image : "images/bg/ctg.jpg"
-  title : "Wspieraja Nas"
-  content : "The Event Company is an event design and production company that specializes in corporate and social events as well as non-profit fundraisers. We consider ourselves experts when it comes to event fundraising and public/media relations and offer consultation services to our clients to help make their event a sensational success."
+  title : "Publikacje"
+  content : "Lorem ipsum"
 ################## sponsor ###############################
 sponsor:
   enable : true
