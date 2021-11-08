@@ -7,7 +7,7 @@
 {{ with $data.media_o_nas.about }}
 <section class="about-page section">
 	<div class="container">
-		<div class="row mt-5">
+		<div class="row mt-5 media_o_nas_text_sec">
 			<div class="col-lg-6">
 				<h2 class="mb-4 text-lg title">{{ .title | markdownify }}</h2>
 			</div>
@@ -16,16 +16,14 @@
         <p>{{ .link | markdownify }}</p>
 			</div>
 		</div>
-    <div class="row">
-			<div class="col-lg-12">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/NGkdoOuH_ZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
+   <div class="video_embed_sec">
+    <div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/NGkdoOuH_ZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
-    <div class="row">
-			<div class="col-lg-12">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/qX5fHsgnWxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
+    <div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/qX5fHsgnWxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
+  </div>
 </section>
 {{ end }}
 {{ end }}
