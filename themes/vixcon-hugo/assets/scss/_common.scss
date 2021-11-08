@@ -164,12 +164,22 @@ a {
       background: white;
     }
 }
+// statut
 .nav-tabs {
   width: 50%;
   margin: 0 auto;
   .nav-link.active{
     background-color: #ffd837;
     border-color: #ffd837;
+  }
+}
+// media o nas
+.video_embed_sec {
+  display: flex;
+  justify-content: space-between;
+  div {
+    width: 50%;
+    margin: 0 1em 0 0;
   }
 }
 
