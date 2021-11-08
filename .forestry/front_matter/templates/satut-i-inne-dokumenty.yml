@@ -40,6 +40,6 @@ fields:
       config:
         wysiwyg: true
         schema:
-          format: html-blocks
+          format: markdown
 pages:
 - content/english/statut_i_inne_dokumenty/_index.md
