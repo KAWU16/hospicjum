@@ -3,8 +3,8 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 <!-- about -->
-{{ if $data.wspieraja_nas.about.enable }}
-{{ with $data.wspieraja_nas.about }}
+{{ if $data.wsparli_nas.about.enable }}
+{{ with $data.wsparli_nas.about }}
 <section class="about-page section">
 	<div class="container">
 		<div class="row">
@@ -27,14 +27,14 @@
 <!-- /about -->
 
 <!-- sponsor -->
-{{ if $data.wspieraja_nas.sponsor.enable }}
+{{ if $data.wsparli_nas.sponsor.enable }}
 {{ partial "sponsor.html" . }}
 {{ end }}
 <!-- /sponsor -->
 
 <!-- feature -->
-{{ if $data.wspieraja_nas.feature.enable }}
-{{ with $data.wspieraja_nas.feature }}
+{{ if $data.wsparli_nas.feature.enable }}
+{{ with $data.wsparli_nas.feature }}
 <section class="section cta-wrap bg-light">
   <div class="container">
     <div class="row align-items-center">
