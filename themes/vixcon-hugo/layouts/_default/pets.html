@@ -47,7 +47,7 @@
         <div class="skill-item">
           <h4 class="mb-3">{{ .title | markdownify }}</h4>
           <p>{{ .content | markdownify }}</p>
-          <img src="{{ .Params.extra_fields.icon | absURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+          <img src="{{ .extra_fields.icon | absURL }}" alt="{{ .Title }}" class="img-fluid w-100">
         </div>
       </div>
       {{ end }}
