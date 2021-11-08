@@ -1,0 +1,39 @@
+---
+label: satut i inne dokumenty
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: bg_image
+  label: bg_image
+- type: field_group
+  name: about
+  label: about
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: statut
+    label: statut
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: paragraph
+      label: paragraph
+    - type: textarea
+      name: content
+      label: content
