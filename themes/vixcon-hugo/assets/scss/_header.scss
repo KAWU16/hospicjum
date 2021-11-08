@@ -148,6 +148,11 @@ a.nav-link:hover {
   display: flex;
   max-width: 60vw;
   margin: 0 auto;
+  @media (max-width: 480px){
+    max-width: 95%;
+    margin: 0;
+    padding: 0;
+  }
 }
 .logos-bar ul li{
   width: 25%;
@@ -157,6 +162,9 @@ a.nav-link:hover {
 }
 .logos-bar ul li img {
   width: 7em;
+  @media (max-width: 480px){
+    width: 100%;
+  }
 }
 .finance-claim {
   width: 70vw;
