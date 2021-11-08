@@ -18,7 +18,7 @@ icon = "/uploads/rudzio2.jpg"
 title = "27.09.2021"
 [[skill]]
 content = "Rudoś także lubi przytulić się do tygryska."
-icon = "tf-ion-android-bulb"
+icon = "/uploads/rudzio3.jpg"
 title = "3.08.2020"
 [[social]]
 icon = "tf-ion-social-facebook"
