@@ -13,8 +13,8 @@ content = "Minęło 5 lat jak z jednej spod lewińskich wsi, odebraliśmy interw
 icon = "/uploads/saba1.jpg"
 title = "15.09.2021"
 [[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-desktop"
+content = "Radzieccy metoropatolodzy :) stwierdzili, że wieje jak w kieleckiem. Saba jest przygotowana na każdą ewentualność, to i takie niedogodności jej nie straszne. Tak czy siak, WIOSNO przybywaj!"
+icon = "/uploads/saba2.jpg"
 title = "Execute the Decision"
 [[skill]]
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
