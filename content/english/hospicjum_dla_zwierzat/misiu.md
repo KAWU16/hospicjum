@@ -17,7 +17,7 @@ content = "Misiu miał dziś powtórzone USG, gdyż poprzednie dało niewyraźny
 icon = "/uploads/misiek2.jpg"
 title = "19.08.2021"
 [[skill]]
-content = "Misiu miał taszkę z grubą forsą, ale mu ukradli ją jak spał i nikt się nie przyznaje. A życie kosztuje, pobyt w tym przytułku kosztuje, jedzenie kosztuje, wygody kosztują i niewygody też kosztują. Jeżeli chcesz wesprzeć Misia, wpłać złotówkę albo dwie, a psiak ucieszy się.  \nKonto Misia  \n20 1750 0012 0000 0000 3882 8746  \nBNP Paribas Stowarzyszenie „W ogrodzie Viadrusa”"
+content = "Misiu miał taszkę z grubą forsą, ale mu ukradli ją jak spał i nikt się nie przyznaje. A życie kosztuje, pobyt w tym przytułku kosztuje, jedzenie kosztuje, wygody kosztują i niewygody też kosztują. Jeżeli chcesz wesprzeć Misia, wpłać złotówkę albo dwie, a psiak ucieszy się.  \nKonto Misia  \n**20 1750 0012 0000 0000 3882 8746**  \nBNP Paribas Stowarzyszenie „W ogrodzie Viadrusa”"
 icon = "/uploads/misiek3.jpg"
 title = "27.09.2021"
 [[social]]
