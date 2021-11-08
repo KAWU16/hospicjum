@@ -285,7 +285,9 @@ label{
   .navbar-collapse {
     height: 80vh;
   }
+}
+@media (max-width: 480px){
   .mx-auto{
     margin-top: 30%;
-  }
+}
 }
