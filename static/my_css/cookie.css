@@ -38,3 +38,10 @@
   border-radius: 9999px;
   background-color: #4299e1;
 }
+
+@media (max-width: 480px){
+  #cookie-banner div span:first-child {
+    font-size: .7rem;
+    line-height: 1.4;
+  }
+}
