@@ -109,12 +109,7 @@ sponsor:
         - logo : "images/clients/dogcat.png"
           link : "#"
           description : "DogCat Academy"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-4.png"
-          link : "#"
-          description : ""
-          
+                 
         # sponcor loop
         - logo : "images/clients/fizjo.png"
           link : "#"
