@@ -23,10 +23,12 @@ skill:
     ferajny, bo właśnie dziś ciocia [Ula SKowron](https://www.facebook.com/profile.php?id=100009144237427&__cft__%5b0%5d=AZUOaDroHvmdCcactk5C-xWtet-gnxLufwQtWb2Vafm71LluzNAp1aKrtpxKmnIRvFs0MtK0zAcqD6NdW_C25LwCtoQZItwXgV7hsoBvsvL9foTmaxA4Q8N4pcZXA_oFoql6v9iSRQ6fvqI6Cg3uyVZcbKlK4ccgtY3PWP9ssOH2NdOwUXpaN3_lzbR5okw-Nqo&__tn__=-%5dK-R)
     wraz z rodziną przywiozła mnie do mojego nowego domu. Na razie trochę tylko popatrzyłem
     w kąty i poczułem się zmęczony, więc teraz będę spał, ale zostańmy w kontakcie.
-- title: Execute the Decision
-  icon: tf-ion-android-desktop
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit
-    elit turpis, a porttitor tellus sollicitudin at.
+- title: 3.11.2021
+  icon: "/uploads/bolus-2.jpg"
+  content: Prezes Misiek i pozostała ferajna zazdroszczą Bolusiowi. Powód - Bolutek
+    otrzymał dziś paczkę na jego dane osobowe od Agi Pietruckiej. Misiek pamięta te
+    czasy, jak przychodziły paczki od ciotki z Ameryki i nie będzie dziś mógł spać.
+    Zwija go z zazdrości. Ciekawe czy Boluś się podzieli?
 - title: Planning the Moves
   icon: tf-ion-android-bulb
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit
