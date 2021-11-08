@@ -1,6 +1,6 @@
 +++
 bg_image = "/uploads/main-photo_2.jpg"
-date = "2019-09-10T13:51:25.000+06:00"
+date = 2019-09-10T07:51:25Z
 description = "this is meta description"
 designation = ""
 email = "Martin@mail.com"
@@ -9,9 +9,9 @@ layout = "pets"
 title = "Rudzio"
 type = "obecni"
 [[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-document"
-title = "Course Correction"
+content = "Rudoś staruszek ze swoją postępującą demencją, jest coraz bardziej nieporadny, a przez to tak rozczulający. Potrzebna mu jedynie pełna miseczka, miękka podusia i dużo miłości. Adoptujcie staruszki."
+icon = "/uploads/rudzio1.jpg"
+title = "21.09.2021"
 [[skill]]
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
 icon = "tf-ion-android-desktop"
