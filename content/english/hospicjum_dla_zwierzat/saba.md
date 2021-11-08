@@ -10,7 +10,7 @@ title = "Saba"
 type = "obecni"
 [[skill]]
 content = "Minęło 5 lat jak z jednej spod lewińskich wsi, odebraliśmy interwencyjnie Sabę. Zdjęcia są drastyczne, ale będziemy je publikować do znudzenia. Po co? Aby pokazać, do czego doprowadza ludzka znieczulica. Cała wieś widziała umierającego z głodu i zaniedbania psa, a dopiero konflikt sąsiedzki był przyczynkiem do tego, by ktoś zareagował. Tego dnia Saba dostała nowe życie, a wystarczyło zaledwie kilka dni, aby umarła śmiercią głodową (co stwierdził biegły). Dziś Saba jest piękna i znów potrafiła zaufać człowiekowi."
-icon = "tf-ion-android-document"
+icon = "/uploads/saba1.jpg"
 title = "15.09.2021"
 [[skill]]
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
