@@ -43,3 +43,8 @@
 #increase-plugin-ac:hover{
     transform: scale(1.1);
 }
+@media (max-width: 480px{
+    .accessibility-bar{
+        top: 5.3rem;
+    }
+})
