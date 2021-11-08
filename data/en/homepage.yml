@@ -98,22 +98,27 @@ sponsor:
         # sponcor loop
         - logo : "images/clients/client-img-1.png"
           link : "https://examplesite.org"
+          description : "test"
           
         # sponcor loop
         - logo : "images/clients/client-img-2.png"
           link : "#"
+          description : ""
           
         # sponcor loop
         - logo : "images/clients/client-img-3.png"
           link : "https://examplesite.org"
+          description : ""
           
         # sponcor loop
         - logo : "images/clients/client-img-4.png"
           link : "#"
+          description : ""
           
         # sponcor loop
         - logo : "images/clients/client-img-5.png"
           link : "https://examplesite.org"
+          description : ""
           
     ############################ sponsor group loop
     - title : "Platinum Sponsors"
