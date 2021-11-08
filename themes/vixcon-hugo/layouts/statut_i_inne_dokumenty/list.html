@@ -11,17 +11,40 @@
 			</div>
 		</div>
 	</div>
-  <div class="row justify-content-center">
-    <div class="col-lg-8">
-      {{ $.Scratch.Set "counter" 0 }}
-      {{ range .statut }}
-      {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
-      <div class="mb-4">
-        <h4 class="mb-3 pb-3">{{ .title | markdownify }}</h4>
-        <p class="paragraph">{{ .paragraph | markdownify }}</p>
-        <p>{{ .content | markdownify }}</p>
+  <ul class="nav nav-pills nav-fill">
+    <li class="nav-item">
+      <a class="nav-link active" href="statut">Statut</a>
+    </li>
+    <li class="nav-item">Drugi link</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Trzeci link</a>
+    </li>
+  </ul>
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div id="home" class="container tab-pane active"><br>
+      <div class="row justify-content-center">
+        <div class="col-lg-8">
+          {{ $.Scratch.Set "counter" 0 }}
+          {{ range .statut }}
+          {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+          <div class="mb-4">
+            <p class="mb-3 pb-3">{{ .title | markdownify }}</p>
+            <p class="paragraph">{{ .paragraph | markdownify }}</p>
+            <p>{{ .content | markdownify }}</p>
+          </div>
+          {{ end }}
+        </div>
       </div>
-      {{ end }}
+    </div>
+    <div id="menu1" class="container tab-pane fade"><br>
+      <h3>Menu 1</h3>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    </div>
+    <div id="menu2" class="container tab-pane fade"><br>
+      <h3>Menu 2</h3>
+      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
     </div>
   </div>
 </section>
