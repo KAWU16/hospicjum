@@ -164,3 +164,14 @@ a {
       background: white;
     }
 }
+.nav-tabs {
+  width: 50%;
+  margin: 0 auto;
+  .nav-link{
+    .active{
+      background-color: #ffd837;
+      border-color: #ffd837;
+    }
+  }
+}
+
