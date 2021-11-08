@@ -3,16 +3,15 @@ bg_image = "/uploads/main-photo_2.jpg"
 date = 2019-09-10T07:51:25Z
 description = "this is meta description"
 designation = ""
-draft = true
 email = ""
-image = "/uploads/bolus.jpg"
+image = "/uploads/misiek.jpg"
 layout = "pets"
 title = "Misiu"
 type = "obecni"
 [[skill]]
-content = "Cześć, jestem Bolek, mam około 17 lat. 15 lat spędziłem w schronisku. Jestem malutki, chudziutki oraz bardzo kruchy i sam się zastanawiam, jak przez te wszystkie lata dałem sobie radę. Życie miałem smutne, a ostatnio pogryźli mnie bracia w niedoli. Dwie ciocie [Ula SKowron](https://www.facebook.com/profile.php?id=100009144237427&__cft__%5b0%5d=AZUOaDroHvmdCcactk5C-xWtet-gnxLufwQtWb2Vafm71LluzNAp1aKrtpxKmnIRvFs0MtK0zAcqD6NdW_C25LwCtoQZItwXgV7hsoBvsvL9foTmaxA4Q8N4pcZXA_oFoql6v9iSRQ6fvqI6Cg3uyVZcbKlK4ccgtY3PWP9ssOH2NdOwUXpaN3_lzbR5okw-Nqo&__tn__=-%5dK-R) i [Jadwiga Silicka](https://www.facebook.com/profile.php?id=100008676721448&__cft__%5b0%5d=AZUOaDroHvmdCcactk5C-xWtet-gnxLufwQtWb2Vafm71LluzNAp1aKrtpxKmnIRvFs0MtK0zAcqD6NdW_C25LwCtoQZItwXgV7hsoBvsvL9foTmaxA4Q8N4pcZXA_oFoql6v9iSRQ6fvqI6Cg3uyVZcbKlK4ccgtY3PWP9ssOH2NdOwUXpaN3_lzbR5okw-Nqo&__tn__=-%5dK-R), niezależnie od siebie, bardzo chciały znaleźć mi dom. I tak trafiłem do viadrusowej ferajny, bo właśnie dziś ciocia [Ula SKowron](https://www.facebook.com/profile.php?id=100009144237427&__cft__%5b0%5d=AZUOaDroHvmdCcactk5C-xWtet-gnxLufwQtWb2Vafm71LluzNAp1aKrtpxKmnIRvFs0MtK0zAcqD6NdW_C25LwCtoQZItwXgV7hsoBvsvL9foTmaxA4Q8N4pcZXA_oFoql6v9iSRQ6fvqI6Cg3uyVZcbKlK4ccgtY3PWP9ssOH2NdOwUXpaN3_lzbR5okw-Nqo&__tn__=-%5dK-R) wraz z rodziną przywiozła mnie do mojego nowego domu. Na razie trochę tylko popatrzyłem w kąty i poczułem się zmęczony, więc teraz będę spał, ale zostańmy w kontakcie."
-icon = "/uploads/bolus-1.jpg"
-title = "31.10.2020"
+content = "Misiu był na badaniu echa serca w Przychodni Weterynaryjnej Aksman w Oławie. Cóż, staruszek z niego, zatem serduszko ma prawo do niedomagania. Teraz czas na konsultacje z prof. Janeczko z Wrocławia, gdyż ząbki psiaczka wymagają interwencji. Dziękujemy Schronisku \"Przytul Psisko\" w Brzegu oraz osobom je wspierającym za sfinansowania badań Misiaczka."
+icon = "/uploads/misiek1.jpg"
+title = "29.01.2021"
 [[skill]]
 content = "Prezes Misiek i pozostała ferajna zazdroszczą Bolusiowi. Powód - Bolutek otrzymał dziś paczkę na jego dane osobowe od Agi Pietruckiej. Misiek pamięta te czasy, jak przychodziły paczki od ciotki z Ameryki i nie będzie dziś mógł spać. Zwija go z zazdrości. Ciekawe czy Boluś się podzieli?"
 icon = "/uploads/bolus-2.jpg"
@@ -26,7 +25,7 @@ icon = "tf-ion-social-facebook"
 link = "#"
 
 +++
-Boluś ma około 17 lat, a 15 lat, czyli praktycznie całe swoje życie spędził w schronisku. W 2020 roku pogryzły go schroniskowe psy, co stało się dla niego szczęściem w nieszczęściu. Dzięki temu tragicznemu wydarzeniu, zaczęto intensywnie szukać dla niego domu. I tak ciocia Ula Srowron przywiozła go do naszego hospicjum. Boluś jest kochanym, cichutkim, nikomu nie wadzącym pieskiem. Lubi spędzać czas w swoim relaksującym legowisku, chętnie przekąsi smaczek. Dopomina się pieszczot i obecności człowieka, ale robi to nienachalnie, wręcz jakby przepraszał, że angażuje swoją osobą.
+Misiu trafił do hospicjum ze schroniska w Małopolsce. Ma około 16 lat, ale jest to wiek orientacyjny, trudny do końca do ocenienia ze względu na duże zaniedbania. Na cito musiał mieć robione zęby, które były w tragicznym stanie, miał wykonane badanie serca, regularnie ma badaną krew. Jak na swój wiek trzyma się całkiem nieźle pomimo, że bierze leki na tarczycę, niedowidzi już i niedosłyszy. Regularnie jest poddawany zabiegom magnetoterapii, gdyż odzywają się stany zwyrodnieniowe układu kostnego. Misiu to kochany słodziak. Piękny, przecudny, robi słodkie minki, ale jednocześnie myśli, że jest rottweilerem i próbuje kąsać po nogach przechodzące inne hospicyjne psy.
 
 **Potrzeby:**  
-Karma dla seniora, Karsivan, Synoquin lub Sizarol, Vetomune
+Karma dla seniora, Karsivan, Synoquin lub Sizarol, Vetomune, Forthyron 200 mg
