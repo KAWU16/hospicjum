@@ -3,7 +3,8 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 <!-- about -->
-{{ with .Params.wsparli_nas.about }}
+{{ if .Params.about.enable }}
+{{ with .Params.about }}
 <section class="about-page section">
 	<div class="container">
 		<div class="row">
@@ -22,16 +23,17 @@
 	</div>
 </section>
 {{ end }}
+{{ end }}
 <!-- /about -->
 
 <!-- sponsor -->
-{{ if .Params.wsparli_nas.sponsor.enable }}
+{{ if .Params.sponsor.enable }}
 {{ partial "sponsor.html" . }}
 {{ end }}
 <!-- /sponsor -->
 
 <!-- feature -->
-{{ with .Params.wsparli_nas.feature }}
+{{ with .Params.feature }}
 <section class="section cta-wrap bg-light">
   <div class="container">
     <div class="row align-items-center">
