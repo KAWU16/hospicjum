@@ -1,25 +1,14 @@
 +++
 bg_image = "/uploads/main-photo_2.jpg"
-date = "2019-09-10T07:51:25.000+00:00"
+date = 2019-09-10T07:51:25Z
 description = "this is meta description"
-designation = "Pies"
+designation = ""
 email = ""
 image = "/uploads/feniu.jpg"
 layout = "pets"
+skill = []
 title = "Feniu"
 type = "odeszli"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-document"
-title = "Szczekanie"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-desktop"
-title = "Execute the Decision"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-bulb"
-title = "Planning the Moves"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
@@ -31,4 +20,4 @@ icon = "tf-ion-social-linkedin"
 link = "#"
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Fenek przybłąkał się jesienią do zakładu rolniczego w Bąkowie. Zabezpieczyły go wolontariuszki z grodkowskiego Stowarzyszenia Pomocy Zwierzętom "Misiek" i trafił do gminnego kojca. Zauważyliśmy informację o nim na fb i zabraliśmy go 9 listopada 2018r. tj. w dniu, kiedy miał trafić do Miedar. Nie znamy jego przeszłości, ale wiemy, że był mocno zaniedbany. Miał też powykrzywiane przednie łapki, a przyczyn tego nie znamy i nie będziemy dywagować. Psiaczek był bardzo towarzyski i wesoły, lubił też brykać na krótkich łapkach niczym wesoły źrebak. Fenek nie lubił Saby, zresztą z wzajemnością, z resztą stada dogadywał się bez problemów. Odszedł 20 listopada 2019r.
