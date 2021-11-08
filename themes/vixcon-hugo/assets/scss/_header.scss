@@ -164,9 +164,6 @@ label{
   content: "\f2D7";
   font-size: 3em;
 }
-.navbar-collapse {
-  height: 80vh;
-}
 .mx-auto {
   margin-top: 30%;
 }
@@ -282,5 +279,13 @@ label{
   @include desktop {
     display: block;
     margin: auto !important;
+  }
+}
+@media (max-width: 480px){
+  .navbar-collapse {
+    height: 80vh;
+  }
+  .mx-auto{
+    margin-top: 30%;
   }
 }
