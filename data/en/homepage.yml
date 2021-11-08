@@ -167,7 +167,7 @@ sponsor:
   # call to action in sponsor
   sponsorship:
     enable : true
-    title : "Cchesz nam pomóc?"
+    title : "Chesz nam pomóc?"
     #button
     label : "Zobacz jak"
     link : "jak_nam_pomoc"
