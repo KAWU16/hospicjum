@@ -15,7 +15,7 @@ title = "15.09.2021"
 [[skill]]
 content = "Radzieccy metoropatolodzy :) stwierdzili, że wieje jak w kieleckiem. Saba jest przygotowana na każdą ewentualność, to i takie niedogodności jej nie straszne. Tak czy siak, WIOSNO przybywaj!"
 icon = "/uploads/saba2.jpg"
-title = "Execute the Decision"
+title = "13.03.2021"
 [[skill]]
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
 icon = "tf-ion-android-bulb"
