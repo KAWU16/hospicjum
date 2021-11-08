@@ -12,7 +12,7 @@ social:
 - icon: tf-ion-social-facebook
   link: "#"
 skill:
-- title: Szczekanie
+- title: 31.10.2020
   icon: tf-ion-android-document
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit
     elit turpis, a porttitor tellus sollicitudin at.
