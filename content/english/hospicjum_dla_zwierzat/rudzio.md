@@ -2,7 +2,7 @@
 bg_image = "/uploads/main-photo_2.jpg"
 date = "2019-09-10T13:51:25.000+06:00"
 description = "this is meta description"
-designation = "UI designer"
+designation = ""
 email = "Martin@mail.com"
 image = "/uploads/rudzio.jpg"
 layout = "pets"
@@ -31,4 +31,7 @@ icon = "tf-ion-social-linkedin"
 link = "#"
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Rudoś kilka lat temu został odebrany interwencyjnie od kata, który się nad nim znęcał, trzymał w klatce z kozą i głodził. Piesek miał przetrącony ogonek, jadł obierki i przeraźliwie bał się ludzi. Lata pracy i miłości dały pozytywny efekt, choć przykra przeszłość nadal potrafi odezwać się w umyśle Rodosia. Dziś Rudek choruje na niedoczynność tarczycy, ma problemy ze stawami, niedowidzi i niedosłyszy, cierpi również na demencję. Bierze szereg leków i suplementów, które pozwalają mu funkcjonować w maksymalnym dla niego komforcie.
+
+**Potrzeby:**  
+Karma dla seniora, Karsivan, Synoquin lub Sizarol, Vetomune, Frthyron 200 mg, pasta konopna (CDB), Zylkene 75 mg
