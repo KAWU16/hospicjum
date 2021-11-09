@@ -7,31 +7,24 @@ bg_image : "images/bg/cta-bg.jpg"
 ################################# publikacje ####################################
 publikacje:
   title_outline : "Działania ekologiczne"
-  title : "Działania ekologiczne"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis fugit doloribus sunt sapiente,
-            corrupti numquam, earum molestiae iure maxime in nostrum sit facilis nemo. Magnam quam voluptate consequatur
-            inventore numquam?"
+  title : "Publikacje"
+  content : "W tym miejscu zamieszczamy publikacje poświęcone działalności ekologicznej w regionie"
   faq_item:
-    # faq item loop
-    - title : "How to buy a Tickets"
+    - title : "Zabytki dawnej jurysdykcji karnej na obszarze działania Brzesko-Oławskiej Wsi Historycznej"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
-      
-    # faq item loop
-    - title : "Which payments method are avaliable?"
+      image: ""
+      button: 
+       label : "Pobierz plik"
+       link : ""
+    
+    - title : "Historia zakonu joannitów  na obecnym terenie działania  Stowarzyszenia Brzesko – Oławskiej Wsi Historycznej "
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
-      
-    # faq item loop
-    - title : "Is refund is avalaible for valid reason?"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
-      
-    # faq item loop
-    - title : "How to buy a Tickets"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
-      
-    # faq item loop
-    - title : "When i wil have to reach?"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
-
+      image: ""
+      button: 
+       label : "Pobierz plik"
+       link : ""
+  
+   
   ################ support #################
   support:
     title : "Need Any further Support?"
