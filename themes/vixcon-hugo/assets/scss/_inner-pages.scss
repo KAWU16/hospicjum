@@ -19,6 +19,16 @@
 	background: $secondary-color;
 	opacity: .90;
 }
+.overly-sponsor {
+	position: absolute;
+	content:"";
+	left: 0px;
+	top:0px;
+	width: 100%;
+	height: 100%;
+	opacity: .6;
+    background: #ffd837;
+}
 
 // FAQ
 
