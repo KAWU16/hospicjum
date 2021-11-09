@@ -93,7 +93,7 @@ sponsor:
   title : "za co jesteśmy niezmiernie wdzięczni"
   sponsor_group:
     ############################ sponsor group loop
-    - title : "Amazing Partners & Sponsors"
+    - title : ""
       sponsor:
         # sponcor loop
         - logo : "images/clients/misericordia.png"
