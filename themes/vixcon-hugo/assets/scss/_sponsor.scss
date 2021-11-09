@@ -70,3 +70,19 @@
 .bg-gray {
 	background: #eee;
 }
+.stroke-text-sponsors {
+	color: transparent;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #252a07;
+    font-size: 120px;
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 1;
+    font-family: grandstander,cursive;
+}
+.text-white-sponsors {
+	color: #383a09!important;
+	&:before {
+		background: #383a09;
+	}
+}
