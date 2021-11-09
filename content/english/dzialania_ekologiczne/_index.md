@@ -9,7 +9,7 @@ publikacje:
   title_outline : "Działania ekologiczne"
   title : "Publikacje"
   content : "W tym miejscu zamieszczamy publikacje poświęcone działalności ekologicznej w regionie"
-  faq_item:
+  publikacje_item:
     - title : "Zabytki dawnej jurysdykcji karnej na obszarze działania Brzesko-Oławskiej Wsi Historycznej"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
       image: ""
