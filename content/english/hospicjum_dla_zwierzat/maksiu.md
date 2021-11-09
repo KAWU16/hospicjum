@@ -1,25 +1,14 @@
 +++
 bg_image = "/uploads/main-photo_2.jpg"
-date = "2019-09-10T07:51:25.000+00:00"
+date = 2019-09-10T07:51:25Z
 description = "this is meta description"
 designation = "Pies"
 email = ""
 image = "/uploads/maksiu.jpg"
 layout = "pets"
+skill = []
 title = "Maksiu"
 type = "odeszli"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-document"
-title = "Szczekanie"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-desktop"
-title = "Execute the Decision"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-bulb"
-title = "Planning the Moves"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
@@ -31,4 +20,4 @@ icon = "tf-ion-social-linkedin"
 link = "#"
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Maksiu przez 15 lat, czyli całe swoje życie był żywym alarmem na łańcuchu przy wiejskiej budzie. Pewnie tak by skończyła się jego wegetacja, ale gdy był już niedołężny jego „pan” był łaskaw odpiąć mu łańcuch od szyi. Dzięki temu Maks opuścił podwórko swojego właściciela. I tutaj zaczyna się dobry początek ostatnich miesięcy jego życia. Dzięki osobie, która w ostatni dzień grudnia nie przeszła obojętnie obok leżącego na ziemi, skrajnie zaniedbanego psa, na jego drodze stanęły [Natalka Walczak](https://www.facebook.com/natalia.walczak.31?__cft__%5b0%5d=AZXEW702yHgwQyK9ivCewNMpTfrwskbL4DMEo0nUqkw8Y3l5aXc-pO4qmkjxXYMidWm5E3UY7B0TfeSd3_rBdYw3x1XWXBqFl5tkJowPW0PXrghAPpebVZQUtkejoo6KLUdUhuwSgxk-sHULNyur4a_aCFWCeG2ahOzd2_q1BnkPoaXk1tnSxnWUVbrQjVKgMo8&__tn__=-%5dK-R) i [Jolanta Seremet](https://www.facebook.com/Serciu23?__cft__%5b0%5d=AZXEW702yHgwQyK9ivCewNMpTfrwskbL4DMEo0nUqkw8Y3l5aXc-pO4qmkjxXYMidWm5E3UY7B0TfeSd3_rBdYw3x1XWXBqFl5tkJowPW0PXrghAPpebVZQUtkejoo6KLUdUhuwSgxk-sHULNyur4a_aCFWCeG2ahOzd2_q1BnkPoaXk1tnSxnWUVbrQjVKgMo8&__tn__=-%5dK-R) z Grodkowskiego Stowarzyszenia Pomocy dla Zwierząt Misiek. Mieliśmy miejsce w naszym hospicjum i tak Maksiu trawił do nas. Z nami był 9,5 miesiąca. Przez ten czas poznał czym jest dotyk człowieka, nauczył się, że jest to coś miłego. Wiedział już, że w nocy można spać, nie trzeba cały czas czuwać. Stał się pięknym, szczęśliwym pieskiem. Pożegnaliśmy go 19 października 2018r.
