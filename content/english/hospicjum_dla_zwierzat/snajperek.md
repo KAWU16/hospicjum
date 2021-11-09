@@ -1,25 +1,14 @@
 +++
 bg_image = "/uploads/main-photo_2.jpg"
-date = "2019-09-10T07:51:25.000+00:00"
+date = 2019-09-10T07:51:25Z
 description = "this is meta description"
-designation = "Pies"
+designation = ""
 email = ""
 image = "/uploads/snajperek.jpg"
 layout = "pets"
+skill = []
 title = "Snajperek"
 type = "odeszli"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-document"
-title = "Szczekanie"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-desktop"
-title = "Execute the Decision"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-bulb"
-title = "Planning the Moves"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
@@ -31,4 +20,4 @@ icon = "tf-ion-social-linkedin"
 link = "#"
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Snajperka przywieźliśmy 2 maja 2017r. z Brzeskiego Schroniska „Przytulisko Przytul Psisko”, gdzie spędził wiele lat swojego życia. Kto chce psa bez oka z przekrzywioną dziwnie głową. Zepsute zabawki raczej nie znajdują nowych domów, Snajper również miał wady, więc wyglądał smutno z kojca, wyglądając swojej rodziny. Staruszek dostawał szereg leków dzięki czemu całkiem nieźle przy naszej pomocy sobie radził. Niestety starość, to starość. Snajperek przeżył z nami dwa miesiące, w tym piękny maj i czerwiec. Z początkiem lipca postanowił, że będzie nas pilnował i obserwował z góry.
