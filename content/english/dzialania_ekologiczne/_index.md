@@ -4,8 +4,8 @@ date: 2019-09-10T13:51:25+06:00
 draft: false
 description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
-################################# Faq ####################################
-faq:
+################################# publikacje ####################################
+publikacje:
   title_outline : "Działania ekologiczne"
   title : "Działania ekologiczne"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis fugit doloribus sunt sapiente,
@@ -38,4 +38,3 @@ faq:
     button:
       lable : "Contact us"
       link : "contact"
----
