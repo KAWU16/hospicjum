@@ -27,6 +27,8 @@
   margin-right: 0.5rem;
   font-weight: 300;
   flex: 1 1 auto;
+  font-size: .8em;
+  line-height: 1.6;
 }
 
 #cookie-banner div span:second-child {
