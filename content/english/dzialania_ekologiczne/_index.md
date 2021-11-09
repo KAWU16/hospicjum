@@ -24,7 +24,7 @@ publikacje:
     image: ''
     button:
       label: Pobierz plik
-      link: ''
+      link: "/uploads/historia-zakonu-joannitow-na-obecnym-terenie-dzialania-stowarzyszenia-brzesko-olawskiej-wsi-historycznej.pdf"
   support:
     title: Need Any further Support?
     button:
