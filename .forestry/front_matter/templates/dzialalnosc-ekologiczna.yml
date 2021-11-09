@@ -1,0 +1,69 @@
+---
+label: Działalność ekologiczna
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: bg_image
+  label: bg_image
+- type: field_group
+  name: publikacje
+  label: publikacje
+  fields:
+  - type: text
+    name: title_outline
+    label: title_outline
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: content
+    label: content
+  - type: field_group_list
+    name: publikacje_item
+    label: publikacje_item
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: content
+      label: content
+    - type: text
+      name: image
+      label: image
+    - type: field_group
+      name: button
+      label: button
+      fields:
+      - type: text
+        name: label
+        label: label
+      - type: text
+        name: link
+        label: link
+  - type: field_group
+    name: support
+    label: support
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: field_group
+      name: button
+      label: button
+      fields:
+      - type: text
+        name: lable
+        label: lable
+      - type: text
+        name: link
+        label: link
