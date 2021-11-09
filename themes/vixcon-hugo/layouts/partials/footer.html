@@ -26,6 +26,9 @@
 						  {{ end }}
 					</ul>
 					<ul class="rodo_elements">
+						{{ range .Site.Params.social }}
+						<li class="list-inline-item list-inline footer-socails"><a href="{{ .link | safeURL }}" rel="nofollow"><i class="{{ .icon }}"></i></a></li>
+						{{ end }}
 						<li><a class="" href="{{ "rodo/" | absLangURL }}">RODO</a></li>
 						<li><a class="" href="{{ "polityka_dostepnosci/" | absLangURL }}">Polityka dostępności</a></li>
 					</ul>
@@ -39,12 +42,6 @@
 				<p class="mt-3 text-white-50">{{ i18n "not_spam" }}</p>
 				{{ end }}
 				{{ end }} -->
-
-				<ul class="list-inline footer-socails">
-					{{ range .Site.Params.social }}
-					<li class="list-inline-item"><a href="{{ .link | safeURL }}" rel="nofollow"><i class="{{ .icon }}"></i></a></li>
-					{{ end }}
-				</ul>
 			</div>
 		</div>
 
