@@ -47,8 +47,10 @@ fields:
       - type: text
         name: label
         label: label
-      - type: text
-        name: link
+      - name: link
+        type: file
+        config:
+          maxSize: 64
         label: link
   - type: field_group
     name: support
@@ -64,6 +66,10 @@ fields:
       - type: text
         name: lable
         label: lable
-      - type: text
-        name: link
+      - name: link
+        type: file
+        config:
+          maxSize: 64
         label: link
+pages:
+- content/english/dzialania_ekologiczne/_index.md
