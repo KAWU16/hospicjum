@@ -1,25 +1,14 @@
 +++
 bg_image = "/uploads/main-photo_2.jpg"
-date = "2019-09-10T07:51:25.000+00:00"
+date = 2019-09-10T07:51:25Z
 description = "this is meta description"
 designation = "Pies"
 email = ""
 image = "/uploads/wandzia.jpg"
 layout = "pets"
+skill = []
 title = "Wandzia"
 type = "odeszli"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-document"
-title = "Szczekanie"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-desktop"
-title = "Execute the Decision"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-bulb"
-title = "Planning the Moves"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
@@ -31,4 +20,4 @@ icon = "tf-ion-social-linkedin"
 link = "#"
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Z Wandzią to dopiero były historie. Mała, śmieszna, wesoła i zapatrzona w człowieka. Żyła sobie z dnia na dzień, nie wadziła nikomu, z żadnym psiakiem jednak też się nie zaprzyjaźniła, choć nie raz spała przytulona do innych hospicyjnych psów. Z Wandzią było chyba z tysiąc śmiesznych sytuacji, miewała różne dziwne pomysły, a im bardzie demencja postępowała, tym bardziej staruszka zadziwiała nas swoimi zachowaniami. Przez kilka ostatnich tygodni, nie przespaliśmy ani jednej nocy, gdyż Wanda regularnie budziła nas swoim szczekaniem o północy, 2 i 4 nad ranem. Jakby miała zegarek na łapce. Gdy się sobie poszczekała, głośne szerokie ziewnięcie świadczyło, że teraz idzie spać. I tak przez prawie 2 miesiące. Wandeczka odeszła w październiku 2017r.
