@@ -10,6 +10,7 @@
   bottom: 0;
   left: 0;
   background-color: #2a4365;
+  z-index: 999;
 }
 
 #cookie-banner div {
