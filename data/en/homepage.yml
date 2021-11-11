@@ -12,7 +12,7 @@ banner:
   button:
     enable : "Zobacz więcej"
     label : "Zobacz więcej"
-    link : "dzialania_ekologiczne"
+    link2 : "dzialania_ekologiczne"
 
 ########################## timer #################################
 timer:
