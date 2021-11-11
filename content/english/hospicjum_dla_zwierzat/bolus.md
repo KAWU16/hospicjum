@@ -7,7 +7,7 @@ image: "/uploads/bolus.jpg"
 designation: ''
 email: ''
 type: obecni
-layout: pets
+layout: obecni
 social:
 - icon: tf-ion-social-facebook
   link: "#"
