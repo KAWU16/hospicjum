@@ -192,28 +192,32 @@ label{
 
 /*upper header section*/
 
-.logos-bar ul {
-  display: flex;
-  max-width: 60vw;
-  margin: 0 auto;
-  @media (max-width: 480px){
-    max-width: 95%;
-    margin: 0;
-    padding: 0;
+.logos-bar {
+    background: aliceblue;
+    padding-bottom: .7rem;
+  ul {
+    display: flex;
+    max-width: 60vw;
+    margin: 0 auto;
+    @media (max-width: 480px){
+      max-width: 95%;
+      margin: 0;
+      padding: 0;
+      li{
+        width: 25%;
+        text-align: center;
+        list-style: none;
+        margin: auto 0;
+        img {
+          width: 5em;
+          @media (max-width: 480px){
+            width: 100%;
+          }
+        }
+      }
   }
 }
-.logos-bar ul li{
-  width: 25%;
-  text-align: center;
-  list-style: none;
-  margin: auto 0;
-}
-.logos-bar ul li img {
-  width: 7em;
-  @media (max-width: 480px){
-    width: 100%;
-  }
-}
+ 
 .finance-claim {
   width: 70vw;
   font-size: .8em;
