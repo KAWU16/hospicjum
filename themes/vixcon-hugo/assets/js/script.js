@@ -18,9 +18,9 @@
     hour: Hour,
     minute: 0
   });
-
+  $(window).enllax();
 })(jQuery);
-$(window).enllax();
+
 // const scroller = new LocomotiveScroll({
 //   el: document.querySelector('[data-scroll-container]'),
 //   smooth: false
