@@ -18,7 +18,6 @@
     hour: Hour,
     minute: 0
   });
-  $(window).enllax();
 })(jQuery);
 
 // const scroller = new LocomotiveScroll({
