@@ -209,16 +209,17 @@ label{
       text-align: center;
       list-style: none;
       margin: auto 0;
+      img {
+        width: 7em;
+        @media (max-width: 480px){
+          width: 100%;
+        }
+      }
     }
   }
 }
 
-.logos-bar ul li img {
-  width: 7em;
-  @media (max-width: 480px){
-    width: 100%;
-  }
-}
+.logos-bar ul li 
 .finance-claim {
   width: 70vw;
   font-size: .8em;
