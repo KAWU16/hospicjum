@@ -2,10 +2,10 @@
 bg_image = "/uploads/main-photo_2.jpg"
 date = 2019-09-10T07:51:25Z
 description = "this is meta description"
-designation = "UI designer"
+designation = ""
 email = "Martin@mail.com"
 image = "/uploads/pusia.jpg"
-layout = "pets"
+layout = "obecni"
 title = "Pusia"
 type = "obecni"
 [[skill]]
