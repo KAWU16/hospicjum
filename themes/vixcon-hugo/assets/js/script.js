@@ -20,7 +20,8 @@
   });
 
 })(jQuery);
-const scroller = new LocomotiveScroll({
-  el: document.querySelector('[data-scroll-container]'),
-  smooth: false
-});
+$(window).enllax();
+// const scroller = new LocomotiveScroll({
+//   el: document.querySelector('[data-scroll-container]'),
+//   smooth: false
+// });
