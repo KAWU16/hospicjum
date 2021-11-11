@@ -5,7 +5,7 @@ description = "this is meta description"
 designation = "Kot"
 email = ""
 image = "/uploads/cziri_vel_ufokotek.jpg"
-layout = "pets"
+layout = "obecni"
 title = "Cziri vel Ufokotek"
 type = "obecni"
 [[skill]]
