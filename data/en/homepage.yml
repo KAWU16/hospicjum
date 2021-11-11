@@ -7,7 +7,7 @@ banner:
   button:
     enable : "Zobacz więcej"
     label : "Zobacz więcej"
-    link : "hospicjum_dla_zwierzat"
+    link1 : "hospicjum_dla_zwierzat"
   title2 : "Działalność </br> ekologiczna"
   button:
     enable : "Zobacz więcej"
