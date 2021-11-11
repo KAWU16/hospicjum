@@ -55,5 +55,3 @@ fields:
     schema:
       format: markdown
   label: summary
-pages:
-- content/english/blog/Drugi wpis.md
