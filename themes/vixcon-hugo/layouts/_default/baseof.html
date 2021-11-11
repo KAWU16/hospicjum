@@ -11,10 +11,11 @@
 	{{- block "main" . }}{{- end }}
 	{{- partial "footer.html" . -}}
 	{{ partial "cookie-notice.html" }}
-	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-	<script>
-		AOS.init();
-	  </script>
+	<script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.min.js"></script>
+	<script>const scroller = new LocomotiveScroll({
+		el: document.querySelector('[data-scroll-container]'),
+		smooth: true
+	  });</script>
 </body>
 
 </html>
