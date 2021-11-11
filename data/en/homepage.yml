@@ -2,13 +2,17 @@
 banner:
   enable : true
   title : "Hospicjum </br> dla zwierząt"
-  title2 : "Działalność </br> ekologiczna"
   bg_image: "images/banner/main-photo_3.jpg"
   date_time : "November 12, at 10.00am"
   button:
     enable : "Zobacz więcej"
     label : "Zobacz więcej"
     link : "hospicjum_dla_zwierzat"
+  title2 : "Działalność </br> ekologiczna"
+  button:
+    enable : "Zobacz więcej"
+    label : "Zobacz więcej"
+    link : "dzialania_ekologiczne"
 
 ########################## timer #################################
 timer:
