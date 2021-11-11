@@ -31,7 +31,7 @@
     </div>
   </div>
 </section>
-{{ if .Params.type "obecni"}}
+{{ range where .Params.type "obecni"}}
 <section class="section bg-light">
   <div class="container">
     <div class="row">
@@ -54,6 +54,5 @@
     </div>
   </div>
 </section>
-{{ else }}
 {{ end }}
 {{ end }}
