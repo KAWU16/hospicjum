@@ -6,20 +6,9 @@ designation = ""
 email = ""
 image = "/uploads/basia.jpg"
 layout = "obecni"
+skill = []
 title = "Basia"
 type = "obecni"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-document"
-title = "Miałkanie"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-desktop"
-title = "Execute the Decision"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-bulb"
-title = "Planning the Moves"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
