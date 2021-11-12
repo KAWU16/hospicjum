@@ -32,8 +32,13 @@ faq:
     content: "Wrzucić darowiznę do puszki lub umieścić jedną z naszych puszek w jakimś
       miejscu.  \nProwadzimy zbiórki publiczne zarejestrowane w Ministerstwie Cyfryzacji.
       \ \nChcesz nam pomóc, umieść nasza puszkę w swojej firmie.  \nPuszki można znaleźć
-      w tych miejscach:\n\n![Puszka ze zbiórką dla Stowarzyszenia](/images/puszka-image-main.jpg)\n\n**Zakupy
-      w akcji dlaschroniska.pl**\n\nViadrusową ferajnę można wspierać za pośrednictwem
+      w tych miejscach:\n\n* [Gabinet weterynaryjny Primo-Vet](https://www.facebook.com/Gabinet-weterynaryjny-Primo-Vet-109353447525607/?__cft__\\[0\\]=AZVjJEh3edlpgtzqtHy0D42aINoEguH-EMOF7zPucci2pSoGSrLfZ5u-sHJDslT9MBXmKbFXKyj6MnW8JbMPz22DKCC21L4tbjG9MczXVEHfkxe33_Z43w-T_UhrTudtzbzy3RNgj1VOsvP2fyLC2PjXNAQ8UUYMBhzi0qU9arjXHz1KwqQUIrKfHcpIEdYBRLl2kAEclmWCW5cWw1vRSU1sfCGaUhTWSLab8An8Z0lbMQ&__tn__=kK-R)\n*
+      [No Logo Salon](https://www.facebook.com/nologosalon/?__cft__\\[0\\]=AZVG4ikw480vJzQFgU4mATr3vxdtWby8sJ2b3gesm_o5Gs0mClrTulsVpDbgdI3mzTgc-YibitWp7bm5QNb0v1CoLme38f1LNqFG9S27bYhWVUL_b9IbwZWyvs72jGRZXUXxNscSALoLznjuAQ4gz53_emm_RM_L8cTfQ57pg8IfbysulUxSP9L-MvWO570mjQM&__tn__=kK-R)
+      - salon fryzjerski w Opolu\n* Restauracja [Vegetujemy](https://www.facebook.com/Vegetujemy-100657668485835/?__cft__\\[0\\]=AZXtI1jqEcW5ZqPge23IEsihicNF4mcQCZ4aYXrW_PrW81lJmdyKncmxy0Aa6lUlh6owY9kqJk3IhIlvm-7L0-z8PDY25e6uIp_4jIpW6cd-QzJAXRr4RlTvj-9xG2Q1vJ1gkEb8DLlVLKkMkX3lilmOwkW-CvK91UzFDCu1cFIUoSWJlvZmTIAsxy8_YVm0Rdk&__tn__=kK-R)
+      w Opolu\n* [Cultura y Vino Opole](https://www.facebook.com/CulturaYVinoOpole/?__cft__\\[0\\]=AZXljjxpcMIw3CqA7rrXXlf4HqDB0sLOAk1PBcAfaHuRZ-ITxVR4LQ5qGef67aBayvJ2iGZPO_nVeGj5QX5Z9zvqxUVpZz09yATPWIRxaOtYwzw3PpcD91c2RN28YTfNufPlfqQK6aKCHHT-osGllzR8-I4hwA1d5hsuX079sNgh-oyIKqCIHUmitnLjtpG2_Ys&__tn__=kK-R)\n*
+      [Młodzieżowy Dom Kultury w Opolu](https://www.facebook.com/mdkopole/?__cft__\\[0\\]=AZWw69W8mqehwxIBFW-mSD4OBUsohnfbOLtEpGsmBsAnIwyvSQNSAqywLj7OjqR5ITG9Q9gUzmeWm1nhlJq0JWvZ7dCV-6lyz_Fsy8XAj2yTUkiE2zWpyvzPVOauF4gCXRXBhl-nha-1uUUOPFouZvOlPY0sa1b8Wvybi2tfoVRZZ-aP7wFr7a8oRTVIiyzcPKA&__tn__=kK-R)\n\n![Puszka
+      ze zbiórką dla Stowarzyszenia](/images/puszka-image-main.jpg)\n\n**Zakupy w
+      akcji dlaschroniska.pl**\n\nViadrusową ferajnę można wspierać za pośrednictwem
       platformy [www.dlaschroniska.pl.](http://www.dlaschroniska.pl/?fbclid=IwAR0Kftyn9cHhWaWgbZ1w5q8hEsjzGctBDA-9M2rclF9LmGxNJvHhk7H2F4U)
       Zasada jest prosta, możesz kupić jeden lub kilka produktów z listy naszych potrzeb,
       umieszczonej w serwisie np. puszkę dla psa lub kota, preparat przeciwpchelny
