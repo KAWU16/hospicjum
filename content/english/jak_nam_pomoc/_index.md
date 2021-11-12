@@ -38,8 +38,8 @@ faq:
       Zasada jest prosta, możesz kupić jeden lub kilka produktów z listy naszych potrzeb,
       umieszczonej w serwisie np. puszkę dla psa lub kota, preparat przeciwpchelny
       czy tez witaminki, a my raz w miesiącu otrzymamy paczkę na adres hospicjum (jeśli
-      łączna wartość produktów zebranych przez wszystkie zwierzaki wyniesie min. 100
-      zł)."
+      łączna wartość produktów zebranych przez wszystkie zwierzaki wyniesie min. 500
+      zł).\n\n![](/uploads/baner-dla-schroniska-2.jpg)"
     color: ''
   - title: Zbiórki odzieży
     content: "Możesz przekazać na naszą rzecz używane, ale **w dobrym stanie,** ubrania.
