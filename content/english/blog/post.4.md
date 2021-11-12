@@ -1,6 +1,6 @@
 ---
 title: Dzień chłopaka z Viadrusem
-date: 2019-09-10T13:51:25.000+06:00
+date: 2021-11-11T08:51:25+00:00
 description: this is meta description
 bg_image: images/bg/cta-bg.jpg
 image: images/blog/blog-2.jpg
