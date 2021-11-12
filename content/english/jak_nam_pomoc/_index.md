@@ -22,11 +22,11 @@ faq:
     content: "**Karma jest dla nas produktem pierwszej potrzeby.**  \nProsimy o:\n\n*
       **mokrą karmę wysokomięsną dla psów**  \n  np. Rinti, Rocco, Wiejska Zagroda,
       Dolina Noteci,\n* **suchą karmę dla kotów seniorów oraz kotów kastratów, mokrą
-      karmę dla kotów**  \n  np. Dolinę Noteci, leki ( Karsivan, Sizarol lub Synoquin,
-      Forthyron,  Neurovit, Previcox),\n* **drewniany, zbrylający żwirek dla kotów.**
-      \ \n  Dary można przywieźć lub wysłać na adres:  \n  Stowarzyszenie „W ogrodzie
-      Viadrusa”  \n  Oldrzyszowice 94, 49-340 Lewin Brzeski  \n  tel. 509 794 333
-      \ \n  Paczkomat Inpost: LBR01M, Hallera 2,  Lewin Brzeski"
+      karmę dla kotów**  \n  np. Dolinę Noteci,  \n  leki ( Karsivan, Sizarol lub
+      Synoquin, Forthyron,  Neurovit, Previcox),\n* **drewniany, zbrylający żwirek
+      dla kotów.**  \n  Dary można przywieźć lub wysłać na adres:  \n  Stowarzyszenie
+      „W ogrodzie Viadrusa”  \n  Oldrzyszowice 94, 49-340 Lewin Brzeski  \n  tel.
+      509 794 333  \n  Paczkomat Inpost: LBR01M, Hallera 2,  Lewin Brzeski"
     color: ''
   - title: Wrzuć do puszki
     content: "Wrzucić darowiznę do puszki lub umieścić jedną z naszych puszek w jakimś
