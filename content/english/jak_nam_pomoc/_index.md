@@ -19,27 +19,27 @@ faq:
       **PPABPLPKXXX**"
     color: ''
   - title: Przekaż dary rzeczowe
-    content: "**Karma jest dla nas produktem pierwszej potrzeby.**  \nProsimy o: **mokrą
-      karmę wysokomięsną dla psów**  \nnp. Rinti, Rocco, Wiejska Zagroda, Dolina Noteci,
-      \ \n**suchą karmę dla kotów seniorów oraz kotów kastratów, mokrą karmę dla kotów**
-      \ \nnp. Dolinę Noteci, leki ( Karsivan, Sizarol lub Synoquin, Forthyron,  Neurovit,
-      Previcox),  \n**drewniany, zbrylający żwirek dla kotów.**  \nDary można przywieźć
-      lub wysłać na adres:  \nStowarzyszenie „W ogrodzie Viadrusa”  \nOldrzyszowice
-      94, 49-340 Lewin Brzeski  \ntel. 509 794 333  \nPaczkomat Inpost: LBR01M, Hallera
-      2,  Lewin Brzeski"
+    content: "**Karma jest dla nas produktem pierwszej potrzeby.**  \nProsimy o:\n\n*
+      **mokrą karmę wysokomięsną dla psów**  \n  np. Rinti, Rocco, Wiejska Zagroda,
+      Dolina Noteci,\n* **suchą karmę dla kotów seniorów oraz kotów kastratów, mokrą
+      karmę dla kotów**  \n  np. Dolinę Noteci,  \n  leki ( Karsivan, Sizarol lub
+      Synoquin, Forthyron,  Neurovit, Previcox),\n* **drewniany, zbrylający żwirek
+      dla kotów.**  \n  Dary można przywieźć lub wysłać na adres:  \n  Stowarzyszenie
+      „W ogrodzie Viadrusa”  \n  Oldrzyszowice 94, 49-340 Lewin Brzeski  \n  tel.
+      509 794 333  \n  Paczkomat Inpost: LBR01M, Hallera 2,  Lewin Brzeski"
     color: ''
   - title: Wrzuć do puszki
     content: "Wrzucić darowiznę do puszki lub umieścić jedną z naszych puszek w jakimś
       miejscu.  \nProwadzimy zbiórki publiczne zarejestrowane w Ministerstwie Cyfryzacji.
       \ \nChcesz nam pomóc, umieść nasza puszkę w swojej firmie.  \nPuszki można znaleźć
-      w tych sklepach:\n\n![Puszka ze zbiórką dla Stowarzyszenia](/images/puszka-image-main.jpg)\n\n**Zakupy
+      w tych miejscach:\n\n![Puszka ze zbiórką dla Stowarzyszenia](/images/puszka-image-main.jpg)\n\n**Zakupy
       w akcji dlaschroniska.pl**\n\nViadrusową ferajnę można wspierać za pośrednictwem
       platformy [www.dlaschroniska.pl.](http://www.dlaschroniska.pl/?fbclid=IwAR0Kftyn9cHhWaWgbZ1w5q8hEsjzGctBDA-9M2rclF9LmGxNJvHhk7H2F4U)
       Zasada jest prosta, możesz kupić jeden lub kilka produktów z listy naszych potrzeb,
       umieszczonej w serwisie np. puszkę dla psa lub kota, preparat przeciwpchelny
       czy tez witaminki, a my raz w miesiącu otrzymamy paczkę na adres hospicjum (jeśli
-      łączna wartość produktów zebranych przez wszystkie zwierzaki wyniesie min. 100
-      zł)."
+      łączna wartość produktów zebranych przez wszystkie zwierzaki wyniesie min. 500
+      zł).\n\n![](/uploads/baner-dla-schroniska-2.jpg)"
     color: ''
   - title: Zbiórki odzieży
     content: "Możesz przekazać na naszą rzecz używane, ale **w dobrym stanie,** ubrania.

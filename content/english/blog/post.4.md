@@ -1,6 +1,6 @@
 ---
 title: Dzień chłopaka z Viadrusem
-date: 2019-09-10T13:51:25.000+06:00
+date: 2021-11-11T08:51:25+00:00
 description: this is meta description
 bg_image: images/bg/cta-bg.jpg
 image: images/blog/blog-2.jpg
@@ -10,8 +10,6 @@ tags: []
 type: post
 
 ---
-Wczoraj z okazji Dnia Chłopaka Pani Celina z [Viadrus - swojego nie znacie - Stowarzyszenie Oldrzyszowice](https://www.facebook.com/viadrusoldrzyszowice/?__cft__\[0\]=AZVcDHQrpkAF5IrzQSl1tXOkIMWPfXNPT9I7hPy7zQLcc48KtsGS5mMzzYtrKJihjSe79zw5a0f1WApp0WIrrIWll7jHJOwZtCXK1Vfu23LCgcTOJ5DYppMhqVvUSvgMvI9WVdKMmFnJc7qprxxdC24hopXfV3DFKeXDZesgDVMo6L0NC7euYzC2UB9DXhUBFeVi1l-aZvKNsGHx9TKTEG_IM8V-CM4h5whpgR3nKDZyZ5YFy3RGTIlfDFpjOi61eac&__tn__=kK-y-R) poprowadziła warsztaty dla naszej młodzieży
-
 30 września z okazji Dnia Chłopaka, w świetlicy wiejskiej w Oldrzyszowicach, odbyły się warsztaty mydlarskie dla dzieci i młodzieży. Podczas warsztatów młodzież zdobyła wiedzę z historii (historia mydła i higieny)
 
 wiedzę z biologii i chemii - związki chemiczne, eksperymenty
