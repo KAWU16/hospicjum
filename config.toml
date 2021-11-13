@@ -122,7 +122,7 @@ link = "plugins/bootstrap/css/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themefisher-font/themefisher-font.min.css"
 [[params.plugins.js]]
-link = "plugins/magnific-popup/magnific-popup.min.css"
+link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.js"
 [[params.plugins.js]]
