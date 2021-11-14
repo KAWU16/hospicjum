@@ -6,9 +6,12 @@ designation = ""
 email = "Martin@mail.com"
 image = "/uploads/smerfetka.jpg"
 layout = "obecni"
-skill = []
 title = "Smerfetka"
 type = "obecni"
+[[skill]]
+content = "Oglądamy wszyscy „Fakty po faktach”, a jak widać polityka jest i śmieszna, poważna i nużąca jednocześnie. Boluś, sowa Felicja i Smerfetka."
+icon = "/uploads/smerfetka1.jpg"
+title = "Wspólne chwile"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
