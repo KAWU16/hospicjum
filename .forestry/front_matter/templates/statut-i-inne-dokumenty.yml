@@ -1,0 +1,45 @@
+---
+label: Statut i inne dokumenty
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: bg_image
+  label: bg_image
+- type: field_group
+  name: about
+  label: about
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: dokumenty
+    label: dokumenty
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: content
+      label: content
+  - type: field_group_list
+    name: rejestr
+    label: rejestr
+    fields:
+    - type: text
+      name: content
+      label: content
+pages:
+- content/english/statut_i_inne_dokumenty/_index.md
