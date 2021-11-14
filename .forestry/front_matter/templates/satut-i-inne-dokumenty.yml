@@ -14,34 +14,29 @@ fields:
 - type: file
   name: bg_image
   label: bg_image
-- type: field_group
-  name: about
-  label: about
+- name: about
+  type: field_group
+  config: {}
   fields:
-  - type: file
-    name: image
+  - name: image
+    type: file
+    config:
+      maxSize: 64
     label: image
-  - type: text
-    name: title
+  - name: title
+    type: text
+    config:
+      required: false
     label: title
-  - type: field_group_list
-    name: statut
-    label: statut
-    fields:
-    - type: text
-      name: title
-      label: title
-    - type: textarea
-      name: content
-      label: content
-      config:
-        wysiwyg: true
-        schema:
-          format: markdown
-  - name: rejestr
+  - name: dokumenty
     type: field_group
     config: {}
     fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: title
     - name: content
       type: textarea
       default: ''
@@ -51,6 +46,16 @@ fields:
         schema:
           format: markdown
       label: content
+    label: dokumenty
+  - name: rejestr
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: rejestr
+  label: about
 pages:
 - content/english/statut_i_inne_dokumenty/_index.md
