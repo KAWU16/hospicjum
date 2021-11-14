@@ -156,5 +156,8 @@ about:
       Stowarzyszenia, Walne Zebranie Członków określa sposób jego likwidacji oraz
       przeznaczenia majątku Stowarzyszenia. Statut przyjęto uchwałą w dniu 12.12.2017
       r."
+  rejestr:
+  - title: ''
+    content:  ''  
 
 ---
