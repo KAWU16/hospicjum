@@ -6,7 +6,7 @@ bg_image: images/bg/cta-bg.jpg
 about:
   image: images/bg/ctg.jpg
   title: Statut Stowarzyszenia „W ogrodzie Viadrusa”
-  statut:
+  dokumenty:
   - title: ''
     content: "**Rozdział I. Postanowienia ogólne**\n\n1\\. Stowarzyszenie „W ogrodzie
       Viadrusa” zwane dalej Stowarzyszeniem, działa na podstawie Ustawy Prawo o stowarzyszeniach
@@ -155,7 +155,5 @@ about:
       Stowarzyszenia, Walne Zebranie Członków określa sposób jego likwidacji oraz
       przeznaczenia majątku Stowarzyszenia. Statut przyjęto uchwałą w dniu 12.12.2017
       r."
-  rejestr:
-  - content: ""
 
 ---
