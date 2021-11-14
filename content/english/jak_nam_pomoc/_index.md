@@ -10,6 +10,8 @@ faq:
     zwierząt  nie jest obojętny. Dzięki Waszemu bezinteresownemu wsparciu możemy o
     wiele więcej. Można nam pomagać na wielu płaszczyznach: '
   faq_item:
+  - title: Zakupy w akcji dlaschroniska.pl
+    content: ''
   - title: Wesprzyj finansowo
     content: "Wsparcie finansowe poprzez wpłatę darowizny na cele statutowe na nasze
       konto,  przez  \n  \n<button class=\"btn btn-hero btn-rounded mt-3\"> PayPal
