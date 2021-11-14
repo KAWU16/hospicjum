@@ -31,9 +31,6 @@ fields:
     - type: text
       name: title
       label: title
-    - type: text
-      name: paragraph
-      label: paragraph
     - type: textarea
       name: content
       label: content
@@ -41,5 +38,24 @@ fields:
         wysiwyg: true
         schema:
           format: markdown
+  - name: rejestr
+    type: field_group
+    config: {}
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: title
+    - name: content
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: true
+        schema:
+          format: markdown
+      label: content
+    label: rejestr
 pages:
 - content/english/statut_i_inne_dokumenty/_index.md
