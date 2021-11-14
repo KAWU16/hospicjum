@@ -157,10 +157,6 @@ about:
       r."
   rejestr:
   - title: ''
-<<<<<<< HEAD
-    content: ''  
-=======
-    content: ''
->>>>>>> 12ca0557c623805f8643ae4ed63ae27cf1151d4a
+    content: ""
 
 ---
