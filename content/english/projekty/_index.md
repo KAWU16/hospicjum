@@ -20,15 +20,18 @@ projekty:
       src="/uploads/78692841_3203850722965090_6312407211247140864_o.jpg"></p><p><img
       src="/uploads/kobieta-natura3.jpg"></p>
     color: ''
-  - title: Przekaż dary rzeczowe
-    content: "**Karma jest dla nas produktem pierwszej potrzeby.**  \nProsimy o:\n\n*
-      **mokrą karmę wysokomięsną dla psów**  \n  np. Rinti, Rocco, Wiejska Zagroda,
-      Dolina Noteci,\n* **suchą karmę dla kotów seniorów oraz kotów kastratów, mokrą
-      karmę dla kotów**  \n  np. Dolinę Noteci,  \n  **leki ( Karsivan, Sizarol lub
-      Synoquin, Forthyron,  Neurovit, Previcox),**\n* **drewniany, zbrylający żwirek
-      dla kotów.**  \n  Dary można przywieźć lub wysłać na adres:  \n  Stowarzyszenie
-      „W ogrodzie Viadrusa”  \n  Oldrzyszowice 94, 49-340 Lewin Brzeski  \n  tel.
-      509 794 333  \n  Paczkomat Inpost: LBR01M, Hallera 2,  Lewin Brzeski"
+  - title: Mamy FIO (1.05.2019 r.)
+    content: "<p>Na majówkę otrzymaliśmy miły prezent. Ogłoszono wyniki konkursu FIO.
+      Uzyskaliśmy dotację na szkolenia, które podniosą naszą wiedzę i umiejętności,
+      co spożytkujemy na rzecz rozwoju naszej organizacji i społeczności lokalnej.
+      Część zajęć - jak winiarskie i ogrodniczo-sadownicze- będzie się odbywać na
+      Uniwersytecie Przyrodniczym we Wrocławiu, część w Instytucie Hortiterapii w
+      Radomiu, a pozostałe tj. warsztat wytwarzania olejków kurs instruktora warsztatów
+      ceramicznych szkolenie winiarskie (winifikacja, enoturystyka,<br>warsztaty ekologia
+      w sadzie, ogrodzie i gospodarstwie - cykl 5 warsztatów, warsztat mydlarski,
+      warsztat wytwarzania produktów ekologicznych) są rozsiane po niewielkich miejscowościach.<br>To
+      już nasz kolejny projekt, który uzyskał akceptację komisji grantowych w ostatnim
+      roku, co nas bardzo cieszy i dodaje skrzydeł.</p>"
     color: ''
   - title: Wrzuć do puszki
     content: "Wrzucić darowiznę do puszki lub umieścić jedną z naszych puszek w jakimś
