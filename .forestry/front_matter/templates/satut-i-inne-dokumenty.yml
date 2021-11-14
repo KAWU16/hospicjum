@@ -42,11 +42,6 @@ fields:
     type: field_group
     config: {}
     fields:
-    - name: title
-      type: text
-      config:
-        required: false
-      label: title
     - name: content
       type: textarea
       default: ''
