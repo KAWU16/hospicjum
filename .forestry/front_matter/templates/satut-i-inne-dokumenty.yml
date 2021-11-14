@@ -48,13 +48,18 @@ fields:
       label: content
     label: dokumenty
   - name: rejestr
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: true
-      schema:
-        format: markdown
+    type: field_group
+    config: {}
+    fields:
+    - name: content
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: true
+        schema:
+          format: markdown
+      label: content
     label: rejestr
   label: about
 pages:
