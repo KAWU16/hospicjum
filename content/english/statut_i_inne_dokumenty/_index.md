@@ -159,6 +159,6 @@ about:
   - content: "![](/uploads/wpis_do_rejestru.jpg)"
     title: Rejestr
   rejestr:
-    content: ''
+    content: "![](/uploads/wpis_do_rejestru.jpg)"
 
 ---
