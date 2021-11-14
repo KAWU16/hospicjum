@@ -2,24 +2,13 @@
 bg_image = "/uploads/main-photo_2.jpg"
 date = 2019-09-10T07:51:25Z
 description = "this is meta description"
-designation = "UI designer"
+designation = ""
 email = "Martin@mail.com"
 image = "/uploads/kukul.jpg"
 layout = "obecni"
+skill = []
 title = "Kukul"
 type = "obecni"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-document"
-title = "Course Correction"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-desktop"
-title = "Execute the Decision"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-bulb"
-title = "Planning the Moves"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
@@ -31,4 +20,4 @@ icon = "tf-ion-social-linkedin"
 link = "#"
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Kukuś jako małe kociątko, został przez nas znaleziony w zimny, deszczowy wrześniowy dzień. Biedak przebiegł tuż przed przejeżdżającym samochodem i uciekł w kukurydzę. Widzieliśmy, że słabo wygląda, więc zatrzymaliśmy samochód i rozpoczęliśmy poszukiwanie kociątka. Na nawoływanie kotek przeraźliwie krzyczał , ale bał się podejść. Udało się jednak go złapać. Chudy, zabiedzony, zarobaczony, z pchłami jak czołgi i świerzbem w uszach. Po przeprowadzeniu wszelkich zabiegów pielęgnacyjnych, odrobaczeniem itd.itp, okazało się, że jest ślicznym, słodkim kociątkiem. Kukuś został u nas, gdyż miał ciekawą manierę. Głośnym darciem domagał się swego, a to jedzenia, a to akurat tego krzesła, na którym człowiek siedział, a to by mu otworzyć drzwi. Kukul do dziś ma zachowania kotka specjalnej troski. Nie uznaje standardowych rozwiązań, a wręcz zawsze wszystko robi na opak. Taki jego urok. Kochamy go za to i wbrew temu ;-).

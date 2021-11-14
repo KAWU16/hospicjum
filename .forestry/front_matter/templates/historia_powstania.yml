@@ -23,5 +23,3 @@ fields:
     schema:
       format: markdown
   label: Pole tekstowe
-pages:
-- content/english/jak_nam_pomoc/test.md
