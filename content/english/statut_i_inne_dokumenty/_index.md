@@ -159,6 +159,5 @@ about:
   rejestr:
   - title: ''
     content: ''
-draft: true
 
 ---
