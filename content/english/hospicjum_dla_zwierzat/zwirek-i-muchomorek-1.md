@@ -12,14 +12,6 @@ type = "obecni"
 content = "Hator! Żwirek życzy dobrych snów, a jego brat bliźniak, Muchomorek . . . już śpi."
 icon = "/uploads/zwirek_i_muchomorek1.jpg"
 title = "Dobrej nocy"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-desktop"
-title = "Execute the Decision"
-[[skill]]
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-icon = "tf-ion-android-bulb"
-title = "Planning the Moves"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
