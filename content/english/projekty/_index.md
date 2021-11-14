@@ -15,7 +15,10 @@ projekty:
       własnych, naturalnych kosmetyków. Zajęcia prowadziła Celina z naszego Stowarzyszenia.
       Podczas warsztatów uczestniczki wykonywały mydła glicerynowe, olejnowe, odświeżacze
       powietrza, kule kąpielowe czy też tabliczki zapachowe do szafy. Zajęcia sprzyjały
-      rozmowom oraz wymianie doświadczeń, nie tylko z zakresu kosmetyków.</p>
+      rozmowom oraz wymianie doświadczeń, nie tylko z zakresu kosmetyków.</p><p><img
+      src="/uploads/kobieta-natura.jpg"></p><p><img src="/uploads/kobieta-natura1.jpg"></p><p><img
+      src="/uploads/78692841_3203850722965090_6312407211247140864_o.jpg"></p><p><img
+      src="/uploads/kobieta-natura3.jpg"></p>
     color: ''
   - title: Przekaż dary rzeczowe
     content: "**Karma jest dla nas produktem pierwszej potrzeby.**  \nProsimy o:\n\n*
