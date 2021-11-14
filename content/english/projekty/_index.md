@@ -21,7 +21,7 @@ projekty:
       src="/uploads/kobieta-natura3-1.jpg"></p>
     color: ''
   - title: Mamy FIO (1.05.2019 r.)
-    content: "<p>Na majówkę otrzymaliśmy miły prezent. Ogłoszono wyniki konkursu FIO.
+    content: <p>Na majówkę otrzymaliśmy miły prezent. Ogłoszono wyniki konkursu FIO.
       Uzyskaliśmy dotację na szkolenia, które podniosą naszą wiedzę i umiejętności,
       co spożytkujemy na rzecz rozwoju naszej organizacji i społeczności lokalnej.
       Część zajęć - jak winiarskie i ogrodniczo-sadownicze- będzie się odbywać na
@@ -31,7 +31,7 @@ projekty:
       w sadzie, ogrodzie i gospodarstwie - cykl 5 warsztatów, warsztat mydlarski,
       warsztat wytwarzania produktów ekologicznych) są rozsiane po niewielkich miejscowościach.<br>To
       już nasz kolejny projekt, który uzyskał akceptację komisji grantowych w ostatnim
-      roku, co nas bardzo cieszy i dodaje skrzydeł.</p>"
+      roku, co nas bardzo cieszy i dodaje skrzydeł.</p><p><img src="/uploads/fio.jpg"></p>
     color: ''
   - title: Wrzuć do puszki
     content: "Wrzucić darowiznę do puszki lub umieścić jedną z naszych puszek w jakimś
