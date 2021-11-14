@@ -23,4 +23,4 @@ icon = "tf-ion-social-linkedin"
 link = "#"
 
 +++
-Basia jako malutki kotek została znaleziona przez naszą wolontariuszkę. W tej chwili jest to już kocia babcia bez zębów, z chorą tarczycą, ale nadal potrafi ustawić stado. Swego czasu, jednym machnięciem łapki, potrafiła przywołać do porządku Baksa, czyli psa w typie doga niemieckiego.
+Cziri to podrzutek z Lewina Brzeskiego. Znaleziona przez dzieci i oddana pod opiekę gminy, która z kolei poprosiła o przyjęcia kotka do siebie.
