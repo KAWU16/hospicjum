@@ -37,14 +37,14 @@ faq:
       - salon fryzjerski w Opolu\n* Restauracja [Vegetujemy](https://www.facebook.com/Vegetujemy-100657668485835/?__cft__%5B0%5D=AZXtI1jqEcW5ZqPge23IEsihicNF4mcQCZ4aYXrW_PrW81lJmdyKncmxy0Aa6lUlh6owY9kqJk3IhIlvm-7L0-z8PDY25e6uIp_4jIpW6cd-QzJAXRr4RlTvj-9xG2Q1vJ1gkEb8DLlVLKkMkX3lilmOwkW-CvK91UzFDCu1cFIUoSWJlvZmTIAsxy8_YVm0Rdk&__tn__=kK-R)
       w Opolu\n* [Cultura y Vino Opole](https://www.facebook.com/CulturaYVinoOpole/?__cft__%5B0%5D=AZXljjxpcMIw3CqA7rrXXlf4HqDB0sLOAk1PBcAfaHuRZ-ITxVR4LQ5qGef67aBayvJ2iGZPO_nVeGj5QX5Z9zvqxUVpZz09yATPWIRxaOtYwzw3PpcD91c2RN28YTfNufPlfqQK6aKCHHT-osGllzR8-I4hwA1d5hsuX079sNgh-oyIKqCIHUmitnLjtpG2_Ys&__tn__=kK-R)\n*
       [Młodzieżowy Dom Kultury w Opolu](https://www.facebook.com/mdkopole/?__cft__%5B0%5D=AZWw69W8mqehwxIBFW-mSD4OBUsohnfbOLtEpGsmBsAnIwyvSQNSAqywLj7OjqR5ITG9Q9gUzmeWm1nhlJq0JWvZ7dCV-6lyz_Fsy8XAj2yTUkiE2zWpyvzPVOauF4gCXRXBhl-nha-1uUUOPFouZvOlPY0sa1b8Wvybi2tfoVRZZ-aP7wFr7a8oRTVIiyzcPKA&__tn__=kK-R)\n\n![Puszka
-      ze zbiórką dla Stowarzyszenia](/images/puszka-image-main.jpg)\n\n**Zakupy w
-      akcji dlaschroniska.pl**\n\nViadrusową ferajnę można wspierać za pośrednictwem
+      ze zbiórką dla Stowarzyszenia](/images/puszka-image-main.jpg \"Tytuł zdjęcia\")\n\n**Zakupy
+      w akcji dlaschroniska.pl**\n\nViadrusową ferajnę można wspierać za pośrednictwem
       platformy [www.dlaschroniska.pl.](http://www.dlaschroniska.pl/?fbclid=IwAR0Kftyn9cHhWaWgbZ1w5q8hEsjzGctBDA-9M2rclF9LmGxNJvHhk7H2F4U)
       Zasada jest prosta, możesz kupić jeden lub kilka produktów z listy naszych potrzeb,
       umieszczonej w serwisie np. puszkę dla psa lub kota, preparat przeciwpchelny
       czy tez witaminki, a my raz w miesiącu otrzymamy paczkę na adres hospicjum (jeśli
       łączna wartość produktów zebranych przez wszystkie zwierzaki wyniesie min. 500
-      zł).  \n  \n![](/uploads/baner-dla-schroniska-2.jpg)"
+      zł).\n\n![](/uploads/baner-dla-schroniska-2.jpg)"
     color: ''
   - title: Zbiórki odzieży
     content: "Możesz przekazać na naszą rzecz używane, ale **w dobrym stanie,** ubrania.
