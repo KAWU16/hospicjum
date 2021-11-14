@@ -12,8 +12,8 @@ schedule:
               auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
   schedule_tab:
     ################# tab itam loop ################
-    - title : ""
-      date_time : "11.12.2019"
+    - title : "11.12.2019"
+      date_time : ""
       schedule_items:
         # schedule loop item
         - time : "9.00am"
