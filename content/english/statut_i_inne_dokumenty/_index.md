@@ -156,6 +156,6 @@ about:
       przeznaczenia majątku Stowarzyszenia. Statut przyjęto uchwałą w dniu 12.12.2017
       r."
   rejestr:
-    content: "![](/uploads/wpis_do_rejestru.jpg)"
+  - content: "![](/uploads/wpis_do_rejestru.jpg)"
 
 ---
