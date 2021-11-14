@@ -1,21 +1,21 @@
 ---
-title: "Projekty"
-date: 2019-09-10T13:51:25+06:00
-draft: false
-description: "this is meta description"
-bg_image : "images/bg/cta-bg.jpg"
+title: Projekty
+date: 2019-09-10T13:51:25.000+06:00
+description: this is meta description
+bg_image: images/bg/cta-bg.jpg
 projekty:
-  title_outline: 'Projekty'
-  title: 
+  title_outline: Projekty
+  title: ''
   content: ''
   projekty_item:
   - title: Kobieta piękna z natury
-    content: "Wsparcie finansowe poprzez wpłatę darowizny na cele statutowe na nasze
-      konto,  przez  \n  \n<button class=\"btn btn-hero btn-rounded mt-3\"> PayPal
-      </button>\n\nlub kod QR\n\n ![QR kod do wpłat na Stowarzyszenie](/images/qr_viadrus.png)
-      \  \nStowarzyszenie „W ogrodzie Viadrusa”,  \nOldrzyszowice 94, 49-340, Lewin
-      Brzeski,  \nNIP **7471908079 PL70 1750 0012 0000 0000 4076 6391**  \nSWIFT:
-      **PPABPLPKXXX**"
+    content: <p>W okresie od 1 października 2019r. do 14 czerwca 2020r. realizowaliśmy
+      projekt pn. "Kobieta piękna z natury" finansowany ze środków Fundacji Orlen
+      "Dar Serca". W ramach projektu zorganizowaliśmy 2 cykle szkoleń z zakresu wytwarzania
+      własnych, naturalnych kosmetyków. Zajęcia prowadziła Celina z naszego Stowarzyszenia.
+      Podczas warsztatów uczestniczki wykonywały mydła glicerynowe, olejnowe, odświeżacze
+      powietrza, kule kąpielowe czy też tabliczki zapachowe do szafy. Zajęcia sprzyjały
+      rozmowom oraz wymianie doświadczeń, nie tylko z zakresu kosmetyków.</p>
     color: ''
   - title: Przekaż dary rzeczowe
     content: "**Karma jest dla nas produktem pierwszej potrzeby.**  \nProsimy o:\n\n*
@@ -43,6 +43,7 @@ projekty:
       Viadrusową ferajnę można wspierać za pośrednictwem platformy [www.dlaschroniska.pl.](http://www.dlaschroniska.pl/?fbclid=IwAR0Kftyn9cHhWaWgbZ1w5q8hEsjzGctBDA-9M2rclF9LmGxNJvHhk7H2F4U) Zasada jest prosta, możesz kupić jeden lub kilka produktów z listy naszych potrzeb, umieszczonej w serwisie np. puszkę dla psa lub kota, preparat przeciwpchelny czy tez witaminki, a my raz w miesiącu otrzymamy paczkę na adres hospicjum (jeśli łączna wartość produktów zebranych przez wszystkie zwierzaki wyniesie min. 500 zł).
 
       ![](/uploads/baner-dla-schroniska-2.jpg)
+    color: ''
   - title: Zbiórki odzieży
     content: "Możesz przekazać na naszą rzecz używane, ale **w dobrym stanie,** ubrania.
       \  \nPomóc możecie nam również, nie wydając ani jednej własnej złotówki. Jak?
