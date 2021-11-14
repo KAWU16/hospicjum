@@ -41,3 +41,5 @@ fields:
     - type: text
       name: content
       label: content
+pages:
+- content/english/statut_i_inne_dokumenty/_index.md
