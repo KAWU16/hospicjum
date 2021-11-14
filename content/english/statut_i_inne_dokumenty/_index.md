@@ -158,6 +158,7 @@ about:
       r."
   rejestr:
   - title: ''
-    content:  ''  
+    content: ''
+draft: true
 
 ---
