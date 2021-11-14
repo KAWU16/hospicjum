@@ -11,16 +11,14 @@ publikacje:
   publikacje_item:
   - title: Zabytki dawnej jurysdykcji karnej na obszarze działania Brzesko-Oławskiej
       Wsi Historycznej
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae
-      eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi.
+    content: 
     image: ''
     button:
       label: Pobierz plik
       link: "/uploads/zabytki-dawnej-jurysdykcji-karnej-na-obszarze-dzialania-brzesko-olawskiej-wsi-historycznej.pdf"
   - title: 'Historia zakonu joannitów  na obecnym terenie działania  Stowarzyszenia
       Brzesko – Oławskiej Wsi Historycznej '
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae
-      eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi.
+    content: 
     image: ''
     button:
       label: Pobierz plik
