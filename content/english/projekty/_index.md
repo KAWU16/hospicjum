@@ -1,61 +1,74 @@
 ---
-title: "Projekty"
-date: 2019-09-10T13:51:25+06:00
-draft: false
-description: "this is meta description"
-bg_image : "images/bg/cta-bg.jpg"
+title: Projekty
+date: 2019-09-10T13:51:25.000+06:00
+description: this is meta description
+bg_image: images/bg/cta-bg.jpg
 projekty:
-  title_outline: 'Projekty'
-  title: 
+  title_outline: Projekty
+  title: ''
   content: ''
   projekty_item:
   - title: Kobieta piękna z natury
-    content: "Wsparcie finansowe poprzez wpłatę darowizny na cele statutowe na nasze
-      konto,  przez  \n  \n<button class=\"btn btn-hero btn-rounded mt-3\"> PayPal
-      </button>\n\nlub kod QR\n\n ![QR kod do wpłat na Stowarzyszenie](/images/qr_viadrus.png)
-      \  \nStowarzyszenie „W ogrodzie Viadrusa”,  \nOldrzyszowice 94, 49-340, Lewin
-      Brzeski,  \nNIP **7471908079 PL70 1750 0012 0000 0000 4076 6391**  \nSWIFT:
-      **PPABPLPKXXX**"
+    content: <p>W okresie od 1 października 2019r. do 14 czerwca 2020r. realizowaliśmy
+      projekt pn. "Kobieta piękna z natury" finansowany ze środków Fundacji Orlen
+      "Dar Serca". W ramach projektu zorganizowaliśmy 2 cykle szkoleń z zakresu wytwarzania
+      własnych, naturalnych kosmetyków. Zajęcia prowadziła Celina z naszego Stowarzyszenia.
+      Podczas warsztatów uczestniczki wykonywały mydła glicerynowe, olejnowe, odświeżacze
+      powietrza, kule kąpielowe czy też tabliczki zapachowe do szafy. Zajęcia sprzyjały
+      rozmowom oraz wymianie doświadczeń, nie tylko z zakresu kosmetyków.</p><p><img
+      src="/uploads/kobieta-natura.jpg"></p><p><img src="/uploads/kobieta-natura1.jpg"></p><p><img
+      src="/uploads/78692841_3203850722965090_6312407211247140864_o.jpg"></p><p><img
+      src="/uploads/kobieta-natura3-1.jpg"></p>
     color: ''
-  - title: Przekaż dary rzeczowe
-    content: "**Karma jest dla nas produktem pierwszej potrzeby.**  \nProsimy o:\n\n*
-      **mokrą karmę wysokomięsną dla psów**  \n  np. Rinti, Rocco, Wiejska Zagroda,
-      Dolina Noteci,\n* **suchą karmę dla kotów seniorów oraz kotów kastratów, mokrą
-      karmę dla kotów**  \n  np. Dolinę Noteci,  \n  **leki ( Karsivan, Sizarol lub
-      Synoquin, Forthyron,  Neurovit, Previcox),**\n* **drewniany, zbrylający żwirek
-      dla kotów.**  \n  Dary można przywieźć lub wysłać na adres:  \n  Stowarzyszenie
-      „W ogrodzie Viadrusa”  \n  Oldrzyszowice 94, 49-340 Lewin Brzeski  \n  tel.
-      509 794 333  \n  Paczkomat Inpost: LBR01M, Hallera 2,  Lewin Brzeski"
+  - title: Mamy FIO (1.05.2019 r.)
+    content: <p>Na majówkę otrzymaliśmy miły prezent. Ogłoszono wyniki konkursu FIO.
+      Uzyskaliśmy dotację na szkolenia, które podniosą naszą wiedzę i umiejętności,
+      co spożytkujemy na rzecz rozwoju naszej organizacji i społeczności lokalnej.
+      Część zajęć - jak winiarskie i ogrodniczo-sadownicze- będzie się odbywać na
+      Uniwersytecie Przyrodniczym we Wrocławiu, część w Instytucie Hortiterapii w
+      Radomiu, a pozostałe tj. warsztat wytwarzania olejków kurs instruktora warsztatów
+      ceramicznych szkolenie winiarskie (winifikacja, enoturystyka,<br>warsztaty ekologia
+      w sadzie, ogrodzie i gospodarstwie - cykl 5 warsztatów, warsztat mydlarski,
+      warsztat wytwarzania produktów ekologicznych) są rozsiane po niewielkich miejscowościach.<br>To
+      już nasz kolejny projekt, który uzyskał akceptację komisji grantowych w ostatnim
+      roku, co nas bardzo cieszy i dodaje skrzydeł.</p><p><img src="/uploads/fio.jpg"></p>
     color: ''
-  - title: Wrzuć do puszki
-    content: "Wrzucić darowiznę do puszki lub umieścić jedną z naszych puszek w jakimś
-      miejscu.  \nProwadzimy zbiórki publiczne zarejestrowane w Ministerstwie Cyfryzacji.
-      \ \nChcesz nam pomóc, umieść nasza puszkę w swojej firmie.  \nPuszki można znaleźć
-      w tych miejscach:\n\n* [Gabinet weterynaryjny Primo-Vet](https://www.facebook.com/Gabinet-weterynaryjny-Primo-Vet-109353447525607/?__cft__%5B0%5D=AZVjJEh3edlpgtzqtHy0D42aINoEguH-EMOF7zPucci2pSoGSrLfZ5u-sHJDslT9MBXmKbFXKyj6MnW8JbMPz22DKCC21L4tbjG9MczXVEHfkxe33_Z43w-T_UhrTudtzbzy3RNgj1VOsvP2fyLC2PjXNAQ8UUYMBhzi0qU9arjXHz1KwqQUIrKfHcpIEdYBRLl2kAEclmWCW5cWw1vRSU1sfCGaUhTWSLab8An8Z0lbMQ&__tn__=kK-R)\n\n![](/uploads/primovet-1.jpg)\n\n*
-      [No Logo Salon](https://www.facebook.com/nologosalon/?__cft__%5B0%5D=AZVG4ikw480vJzQFgU4mATr3vxdtWby8sJ2b3gesm_o5Gs0mClrTulsVpDbgdI3mzTgc-YibitWp7bm5QNb0v1CoLme38f1LNqFG9S27bYhWVUL_b9IbwZWyvs72jGRZXUXxNscSALoLznjuAQ4gz53_emm_RM_L8cTfQ57pg8IfbysulUxSP9L-MvWO570mjQM&__tn__=kK-R)
-      - salon fryzjerski w Opolu\n* Restauracja [Vegetujemy](https://www.facebook.com/Vegetujemy-100657668485835/?__cft__%5B0%5D=AZXtI1jqEcW5ZqPge23IEsihicNF4mcQCZ4aYXrW_PrW81lJmdyKncmxy0Aa6lUlh6owY9kqJk3IhIlvm-7L0-z8PDY25e6uIp_4jIpW6cd-QzJAXRr4RlTvj-9xG2Q1vJ1gkEb8DLlVLKkMkX3lilmOwkW-CvK91UzFDCu1cFIUoSWJlvZmTIAsxy8_YVm0Rdk&__tn__=kK-R)
-      w Opolu\n* [Cultura y Vino Opole](https://www.facebook.com/CulturaYVinoOpole/?__cft__%5B0%5D=AZXljjxpcMIw3CqA7rrXXlf4HqDB0sLOAk1PBcAfaHuRZ-ITxVR4LQ5qGef67aBayvJ2iGZPO_nVeGj5QX5Z9zvqxUVpZz09yATPWIRxaOtYwzw3PpcD91c2RN28YTfNufPlfqQK6aKCHHT-osGllzR8-I4hwA1d5hsuX079sNgh-oyIKqCIHUmitnLjtpG2_Ys&__tn__=kK-R)\n*
-      [Młodzieżowy Dom Kultury w Opolu](https://www.facebook.com/mdkopole/?__cft__%5B0%5D=AZWw69W8mqehwxIBFW-mSD4OBUsohnfbOLtEpGsmBsAnIwyvSQNSAqywLj7OjqR5ITG9Q9gUzmeWm1nhlJq0JWvZ7dCV-6lyz_Fsy8XAj2yTUkiE2zWpyvzPVOauF4gCXRXBhl-nha-1uUUOPFouZvOlPY0sa1b8Wvybi2tfoVRZZ-aP7wFr7a8oRTVIiyzcPKA&__tn__=kK-R)\n\n![Puszka
-      ze zbiórką dla Stowarzyszenia](/images/puszka-image-main.jpg \"Tytuł zdjęcia\")"
+  - title: Program FIO
+    content: <p>Wczoraj opublikowano wyniki Programu FIO, do którego również aplikowaliśmy.
+      Złożony przez nas projekt dotyczył cyklu szkoleń dla członków i wolontariuszy
+      organizacji działających na rzecz zwierząt w powiecie brzeskim. Celem było <a
+      href="http://m.in/">m.in</a>. podniesienie wiedzy i umiejętności członków i
+      wolontariuszy organizacji z zakresu prawnej ochrony zwierząt oraz zgłębienie
+      i poszerzenie wiedzy potrzebnej do zrozumienia różnych aspektów funkcjonowania
+      psów i kotów, przygotowanie do niesienia pomocy z zakresu problematyki behawioralnej
+      oraz poprawa jakości współpracy ze zwierzętami towarzyszącymi. Zajęcia prowadziliby
+      weterynarze, prawnik, behawioryści.<br>Niestety, nasz projekt znalazł się na
+      liście rezerwowej. W sumie, jesteśmy zadowoleni z uzyskanego wyniku, który jest
+      naprawdę niezły, a zwłaszcza, że to nasz pierwszy, duży projekt. Szukamy dalszych
+      możliwości realizacji założonych celów.</p><p><img src="/uploads/fio2.jpg"></p>
     color: ''
-  - title: Zakupy w akcji dlaschroniska.pl
-    content: |-
-      Viadrusową ferajnę można wspierać za pośrednictwem platformy [www.dlaschroniska.pl.](http://www.dlaschroniska.pl/?fbclid=IwAR0Kftyn9cHhWaWgbZ1w5q8hEsjzGctBDA-9M2rclF9LmGxNJvHhk7H2F4U) Zasada jest prosta, możesz kupić jeden lub kilka produktów z listy naszych potrzeb, umieszczonej w serwisie np. puszkę dla psa lub kota, preparat przeciwpchelny czy tez witaminki, a my raz w miesiącu otrzymamy paczkę na adres hospicjum (jeśli łączna wartość produktów zebranych przez wszystkie zwierzaki wyniesie min. 500 zł).
-
-      ![](/uploads/baner-dla-schroniska-2.jpg)
-  - title: Zbiórki odzieży
-    content: "Możesz przekazać na naszą rzecz używane, ale **w dobrym stanie,** ubrania.
-      \  \nPomóc możecie nam również, nie wydając ani jednej własnej złotówki. Jak?
-      \ \nWystarczy, że w kampanii [ubraniadooddania.pl](www.ubraniadooddania.pl \"Ubrania
-      do oddania\") przekażecie  ubrania, w których już nie chodzicie lub nie są Wam
-      potrzebne (ale w dobrym stanie), a my za każdy kilogram otrzymamy 1 zł. Zbiórki
-      odzieży prowadzimy w sposób ciągły i są one widoczne na profilu naszej organizacji:
-      \ \n[https://www.ubraniadooddania.pl/foundations/191](https://www.ubraniadooddania.pl/foundations/191
-      \"Ubrania do oddania zbiórka\")  \nJak przekazać ubrania:  \n[https://www.ubraniadooddania.pl/.../jak-przekazac-darowizne](https://www.ubraniadooddania.pl/.../jak-przekazac-darowizne)
-      \ \nJakie rzeczy można przekazać:  \n[https://www.ubraniadooddania.pl/.../jakie-rzeczy-mozesz...](https://www.ubraniadooddania.pl/.../jakie-rzeczy-mozesz...)
-      \ \nWszystkie informacje znajdziecie na stronie internetowej:  \n[https://www.ubraniadooddania.pl/campaigns/718](https://www.ubraniadooddania.pl/campaigns/718)
-      \ \nW sposób ciągły zbieramy:  \n[https://www.ubraniadooddania.pl/foundations/191](https://www.ubraniadooddania.pl/foundations/191)"
-    color: "#E58E8E"
+  - title: Mamy grant!!!
+    content: <p>Kochani pędzimy, aby podzielić się z Wami super informacją! Dostaliśmy
+      minigrant na poprowadzenie cyklu warsztatów ekologicznych dla społeczności lokalnej
+      <a href="https://www.facebook.com/hashtag/oldrzyszowice?__eep__=6&amp;__cft__[0]=AZUNpoBKzoNOCv5lO74rrWvv_gcgqfdnGFK0-0a5eQ4edgP44HwCIdzfbWIKH77-BbkHrHUIa62RXOC0O_MYpgqbJM3Y6wXkTkBbGKnxTvJX20AckG-PltJuAE5uBIE08LAOsBTa8VJnOmeiZq21UAuKF-hb01gs2JGXYpWMQt4GfbWHGwv1Gb5iZOyk70q8EQ8&amp;__tn__=*NK*F">#oldrzyszowice</a>
+      <a href="https://www.facebook.com/hashtag/gminalewinbrzeski?__eep__=6&amp;__cft__[0]=AZUNpoBKzoNOCv5lO74rrWvv_gcgqfdnGFK0-0a5eQ4edgP44HwCIdzfbWIKH77-BbkHrHUIa62RXOC0O_MYpgqbJM3Y6wXkTkBbGKnxTvJX20AckG-PltJuAE5uBIE08LAOsBTa8VJnOmeiZq21UAuKF-hb01gs2JGXYpWMQt4GfbWHGwv1Gb5iZOyk70q8EQ8&amp;__tn__=*NK*F">#gminalewinbrzeski</a>.<br>Nasze
+      warsztaty będą skierowane do młodzieży z terenu naszej wsi uczęszczającej do
+      klasy 4-8. <br>Już wkrótce przedstawimy więcej szczegółów! Cieszymy się bardzo,
+      że będziemy działać na swoim terenie <br><br>Dziękujemy <a href="https://www.facebook.com/edusmartDT/?__cft__[0]=AZUNpoBKzoNOCv5lO74rrWvv_gcgqfdnGFK0-0a5eQ4edgP44HwCIdzfbWIKH77-BbkHrHUIa62RXOC0O_MYpgqbJM3Y6wXkTkBbGKnxTvJX20AckG-PltJuAE5uBIE08LAOsBTa8VJnOmeiZq21UAuKF-hb01gs2JGXYpWMQt4GfbWHGwv1Gb5iZOyk70q8EQ8&amp;__tn__=kK*F">EDU
+      SMART Training Centre Dialog of Transformation</a> za wybranie naszego projektu
+      do realizacji</p><p><img src="/uploads/grant.jpg"></p>
+    color: ''
+  - title: Umowa na grant podpisana
+    content: <p>24 czerwca 2019r. zapisze się w kalendarium naszego Stowarzyszenia
+      jako bardzo ważny dzień. Dzisiaj to w siedzibie <a href="https://www.facebook.com/Stowarzyszenie-Brzesko-O%C5%82awska-Wie%C5%9B-Historyczna-546866292057262/?__cft__[0]=AZV2U9TIy2zFPJV5W3md0ycRbCnCqcojZurmnuWWoaPS_u4M-qfwFTxfD57SAHjJ1IGFIpIU3lmBH7_f3pFzbOd8Tn7D7raPEcqsJ0cPWE38A0ySPuYx2KhxiB9i_nkknhCCPcX8eP8CffsSV5qCAp9O6YAxDAjG7CrcggmhtEoRty13FQXKuuEd1aCXXxFRCw4&amp;__tn__=kK-R">Stowarzyszenie
+      Brzesko-Oławska Wieś Historyczna</a> w Krzyżowicach podpisaliśmy umowę na realizację
+      grantu pt. „Działanie promocyjne w zakresie zasobów przyrodniczych i kulturowych
+      oraz oferty turystycznej”, który zakłada <a href="http://m.in/">m.in</a> powstanie
+      strony internetowej promującej walory obszaru działania LGD Brzesko-Oławska
+      Wieś Historyczna czy publikację dwóch broszur historycznych. Dużo pracy przed
+      nami, ale przede wszystkim wiele satysfakcji z racji działania na rzecz naszej
+      małej ojczyzny, jak to ładnie mówią - Heimatu.</p><p><img src="/uploads/grant2.jpg"></p>
+    color: ''
   - title: Zakupy z Fanimani
     content: "Jeżeli robisz zakupy w Internecie, nieważne czy są to buty, elektronika,
       kosmetyki czy książki, możesz nas bezpłatnie wspierać. Z każdego Twojego zakupu
