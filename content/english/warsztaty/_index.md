@@ -4,4 +4,141 @@ date: 2019-09-10T13:51:25+06:00
 draft: false
 description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
+schedule:
+  enable : true
+  title_outline : "nowe"
+  title : "wydarzenia"
+  content : "Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aeneansollicitudin, lorem quis bibendum
+              auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
+  schedule_tab:
+    ################# tab itam loop ################
+    - title : ""
+      date_time : "11.12.2019"
+      schedule_items:
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/wordpress.png"
+          content : "
+          
+          ### Warsztaty z BOWH
+
+          Krótką poranną informację o warsztatach mydlarskich w Stowarzyszenie Brzesko-Oławska Wieś Historyczna uzupełniamy o relację fotograficzną (zdjęcia autorstwa Marta Brus). Ach, co to były za warsztaty!
+          "
+          
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/big-data.png"
+          content : "
+          
+          ### Marketing Matters in design area
+
+          ###### By Risabh moinul
+
+          Lorem ipsum proin gravida nibh vel velit auctor aliquet.
+          "
+          
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/lunch.jpg"
+          content : "
+          
+          ### Launch Break
+
+          ###### By Risabh moinul
+
+          Lorem ipsum proin gravida nibh vel velit auctor aliquet.
+          "
+          
+          
+    ################# tab itam loop ################
+    - title : "Day 2"
+      date_time : "14 Nov ,2019 [09.00am - 04.00pm]"
+      schedule_items:
+        # schedule loop item
+        - time : "2.00pm"
+          image : "images/about/creativity.jpg"
+          content : "
+          
+          ### Cultures of Creativity
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/wordpress.png"
+          content : "
+          
+          ### Launch Break
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+          
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/big-data.png"
+          content : "
+          
+          ### Marketing Matters in design area
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+          
+    ################# tab itam loop ################
+    - title : "Day 3"
+      date_time : "15 Nov ,2019 [09.00am - 04.00pm]"
+      schedule_items:
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/big-data.png"
+          content : "
+          
+          ### Marketing Matters in design area
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+          
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/lunch.jpg"
+          content : "
+          
+          ### Launch Break
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/wordpress.png"
+          content : "
+          
+          ### Introduction of material Design
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+          
+        # schedule loop item
+        - time : "2.00pm"
+          image : "images/about/creativity.jpg"
+          content : "
+          
+          ### Cultures of Creativity
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
 ---
