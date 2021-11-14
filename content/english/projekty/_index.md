@@ -33,16 +33,19 @@ projekty:
       już nasz kolejny projekt, który uzyskał akceptację komisji grantowych w ostatnim
       roku, co nas bardzo cieszy i dodaje skrzydeł.</p><p><img src="/uploads/fio.jpg"></p>
     color: ''
-  - title: Wrzuć do puszki
-    content: "Wrzucić darowiznę do puszki lub umieścić jedną z naszych puszek w jakimś
-      miejscu.  \nProwadzimy zbiórki publiczne zarejestrowane w Ministerstwie Cyfryzacji.
-      \ \nChcesz nam pomóc, umieść nasza puszkę w swojej firmie.  \nPuszki można znaleźć
-      w tych miejscach:\n\n* [Gabinet weterynaryjny Primo-Vet](https://www.facebook.com/Gabinet-weterynaryjny-Primo-Vet-109353447525607/?__cft__%5B0%5D=AZVjJEh3edlpgtzqtHy0D42aINoEguH-EMOF7zPucci2pSoGSrLfZ5u-sHJDslT9MBXmKbFXKyj6MnW8JbMPz22DKCC21L4tbjG9MczXVEHfkxe33_Z43w-T_UhrTudtzbzy3RNgj1VOsvP2fyLC2PjXNAQ8UUYMBhzi0qU9arjXHz1KwqQUIrKfHcpIEdYBRLl2kAEclmWCW5cWw1vRSU1sfCGaUhTWSLab8An8Z0lbMQ&__tn__=kK-R)\n\n![](/uploads/primovet-1.jpg)\n\n*
-      [No Logo Salon](https://www.facebook.com/nologosalon/?__cft__%5B0%5D=AZVG4ikw480vJzQFgU4mATr3vxdtWby8sJ2b3gesm_o5Gs0mClrTulsVpDbgdI3mzTgc-YibitWp7bm5QNb0v1CoLme38f1LNqFG9S27bYhWVUL_b9IbwZWyvs72jGRZXUXxNscSALoLznjuAQ4gz53_emm_RM_L8cTfQ57pg8IfbysulUxSP9L-MvWO570mjQM&__tn__=kK-R)
-      - salon fryzjerski w Opolu\n* Restauracja [Vegetujemy](https://www.facebook.com/Vegetujemy-100657668485835/?__cft__%5B0%5D=AZXtI1jqEcW5ZqPge23IEsihicNF4mcQCZ4aYXrW_PrW81lJmdyKncmxy0Aa6lUlh6owY9kqJk3IhIlvm-7L0-z8PDY25e6uIp_4jIpW6cd-QzJAXRr4RlTvj-9xG2Q1vJ1gkEb8DLlVLKkMkX3lilmOwkW-CvK91UzFDCu1cFIUoSWJlvZmTIAsxy8_YVm0Rdk&__tn__=kK-R)
-      w Opolu\n* [Cultura y Vino Opole](https://www.facebook.com/CulturaYVinoOpole/?__cft__%5B0%5D=AZXljjxpcMIw3CqA7rrXXlf4HqDB0sLOAk1PBcAfaHuRZ-ITxVR4LQ5qGef67aBayvJ2iGZPO_nVeGj5QX5Z9zvqxUVpZz09yATPWIRxaOtYwzw3PpcD91c2RN28YTfNufPlfqQK6aKCHHT-osGllzR8-I4hwA1d5hsuX079sNgh-oyIKqCIHUmitnLjtpG2_Ys&__tn__=kK-R)\n*
-      [Młodzieżowy Dom Kultury w Opolu](https://www.facebook.com/mdkopole/?__cft__%5B0%5D=AZWw69W8mqehwxIBFW-mSD4OBUsohnfbOLtEpGsmBsAnIwyvSQNSAqywLj7OjqR5ITG9Q9gUzmeWm1nhlJq0JWvZ7dCV-6lyz_Fsy8XAj2yTUkiE2zWpyvzPVOauF4gCXRXBhl-nha-1uUUOPFouZvOlPY0sa1b8Wvybi2tfoVRZZ-aP7wFr7a8oRTVIiyzcPKA&__tn__=kK-R)\n\n![Puszka
-      ze zbiórką dla Stowarzyszenia](/images/puszka-image-main.jpg \"Tytuł zdjęcia\")"
+  - title: Program FIO
+    content: <p>Wczoraj opublikowano wyniki Programu FIO, do którego również aplikowaliśmy.
+      Złożony przez nas projekt dotyczył cyklu szkoleń dla członków i wolontariuszy
+      organizacji działających na rzecz zwierząt w powiecie brzeskim. Celem było <a
+      href="http://m.in/">m.in</a>. podniesienie wiedzy i umiejętności członków i
+      wolontariuszy organizacji z zakresu prawnej ochrony zwierząt oraz zgłębienie
+      i poszerzenie wiedzy potrzebnej do zrozumienia różnych aspektów funkcjonowania
+      psów i kotów, przygotowanie do niesienia pomocy z zakresu problematyki behawioralnej
+      oraz poprawa jakości współpracy ze zwierzętami towarzyszącymi. Zajęcia prowadziliby
+      weterynarze, prawnik, behawioryści.<br>Niestety, nasz projekt znalazł się na
+      liście rezerwowej. W sumie, jesteśmy zadowoleni z uzyskanego wyniku, który jest
+      naprawdę niezły, a zwłaszcza, że to nasz pierwszy, duży projekt. Szukamy dalszych
+      możliwości realizacji założonych celów.</p><p><img src="/uploads/fio2.jpg"></p>
     color: ''
   - title: Zakupy w akcji dlaschroniska.pl
     content: |-
