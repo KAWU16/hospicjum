@@ -58,19 +58,17 @@ projekty:
       SMART Training Centre Dialog of Transformation</a> za wybranie naszego projektu
       do realizacji</p><p><img src="/uploads/grant.jpg"></p>
     color: ''
-  - title: Zbiórki odzieży
-    content: "Możesz przekazać na naszą rzecz używane, ale **w dobrym stanie,** ubrania.
-      \  \nPomóc możecie nam również, nie wydając ani jednej własnej złotówki. Jak?
-      \ \nWystarczy, że w kampanii [ubraniadooddania.pl](www.ubraniadooddania.pl \"Ubrania
-      do oddania\") przekażecie  ubrania, w których już nie chodzicie lub nie są Wam
-      potrzebne (ale w dobrym stanie), a my za każdy kilogram otrzymamy 1 zł. Zbiórki
-      odzieży prowadzimy w sposób ciągły i są one widoczne na profilu naszej organizacji:
-      \ \n[https://www.ubraniadooddania.pl/foundations/191](https://www.ubraniadooddania.pl/foundations/191
-      \"Ubrania do oddania zbiórka\")  \nJak przekazać ubrania:  \n[https://www.ubraniadooddania.pl/.../jak-przekazac-darowizne](https://www.ubraniadooddania.pl/.../jak-przekazac-darowizne)
-      \ \nJakie rzeczy można przekazać:  \n[https://www.ubraniadooddania.pl/.../jakie-rzeczy-mozesz...](https://www.ubraniadooddania.pl/.../jakie-rzeczy-mozesz...)
-      \ \nWszystkie informacje znajdziecie na stronie internetowej:  \n[https://www.ubraniadooddania.pl/campaigns/718](https://www.ubraniadooddania.pl/campaigns/718)
-      \ \nW sposób ciągły zbieramy:  \n[https://www.ubraniadooddania.pl/foundations/191](https://www.ubraniadooddania.pl/foundations/191)"
-    color: "#E58E8E"
+  - title: Umowa na grant podpisana
+    content: <p>24 czerwca 2019r. zapisze się w kalendarium naszego Stowarzyszenia
+      jako bardzo ważny dzień. Dzisiaj to w siedzibie <a href="https://www.facebook.com/Stowarzyszenie-Brzesko-O%C5%82awska-Wie%C5%9B-Historyczna-546866292057262/?__cft__[0]=AZV2U9TIy2zFPJV5W3md0ycRbCnCqcojZurmnuWWoaPS_u4M-qfwFTxfD57SAHjJ1IGFIpIU3lmBH7_f3pFzbOd8Tn7D7raPEcqsJ0cPWE38A0ySPuYx2KhxiB9i_nkknhCCPcX8eP8CffsSV5qCAp9O6YAxDAjG7CrcggmhtEoRty13FQXKuuEd1aCXXxFRCw4&amp;__tn__=kK-R">Stowarzyszenie
+      Brzesko-Oławska Wieś Historyczna</a> w Krzyżowicach podpisaliśmy umowę na realizację
+      grantu pt. „Działanie promocyjne w zakresie zasobów przyrodniczych i kulturowych
+      oraz oferty turystycznej”, który zakłada <a href="http://m.in/">m.in</a> powstanie
+      strony internetowej promującej walory obszaru działania LGD Brzesko-Oławska
+      Wieś Historyczna czy publikację dwóch broszur historycznych. Dużo pracy przed
+      nami, ale przede wszystkim wiele satysfakcji z racji działania na rzecz naszej
+      małej ojczyzny, jak to ładnie mówią - Heimatu.</p><p><img src="/uploads/grant2.jpg"></p>
+    color: ''
   - title: Zakupy z Fanimani
     content: "Jeżeli robisz zakupy w Internecie, nieważne czy są to buty, elektronika,
       kosmetyki czy książki, możesz nas bezpłatnie wspierać. Z każdego Twojego zakupu
