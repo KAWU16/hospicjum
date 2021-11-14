@@ -44,8 +44,6 @@ faq:
       Viadrusową ferajnę można wspierać za pośrednictwem platformy [www.dlaschroniska.pl.](http://www.dlaschroniska.pl/?fbclid=IwAR0Kftyn9cHhWaWgbZ1w5q8hEsjzGctBDA-9M2rclF9LmGxNJvHhk7H2F4U) Zasada jest prosta, możesz kupić jeden lub kilka produktów z listy naszych potrzeb, umieszczonej w serwisie np. puszkę dla psa lub kota, preparat przeciwpchelny czy tez witaminki, a my raz w miesiącu otrzymamy paczkę na adres hospicjum (jeśli łączna wartość produktów zebranych przez wszystkie zwierzaki wyniesie min. 500 zł).
 
       ![](/uploads/baner-dla-schroniska-2.jpg)
-
-      ***
   - title: Zbiórki odzieży
     content: "Możesz przekazać na naszą rzecz używane, ale **w dobrym stanie,** ubrania.
       \  \nPomóc możecie nam również, nie wydając ani jednej własnej złotówki. Jak?
