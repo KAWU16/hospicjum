@@ -47,11 +47,16 @@ projekty:
       naprawdę niezły, a zwłaszcza, że to nasz pierwszy, duży projekt. Szukamy dalszych
       możliwości realizacji założonych celów.</p><p><img src="/uploads/fio2.jpg"></p>
     color: ''
-  - title: Zakupy w akcji dlaschroniska.pl
-    content: |-
-      Viadrusową ferajnę można wspierać za pośrednictwem platformy [www.dlaschroniska.pl.](http://www.dlaschroniska.pl/?fbclid=IwAR0Kftyn9cHhWaWgbZ1w5q8hEsjzGctBDA-9M2rclF9LmGxNJvHhk7H2F4U) Zasada jest prosta, możesz kupić jeden lub kilka produktów z listy naszych potrzeb, umieszczonej w serwisie np. puszkę dla psa lub kota, preparat przeciwpchelny czy tez witaminki, a my raz w miesiącu otrzymamy paczkę na adres hospicjum (jeśli łączna wartość produktów zebranych przez wszystkie zwierzaki wyniesie min. 500 zł).
-
-      ![](/uploads/baner-dla-schroniska-2.jpg)
+  - title: Mamy grant!!!
+    content: <p>Kochani pędzimy, aby podzielić się z Wami super informacją! Dostaliśmy
+      minigrant na poprowadzenie cyklu warsztatów ekologicznych dla społeczności lokalnej
+      <a href="https://www.facebook.com/hashtag/oldrzyszowice?__eep__=6&amp;__cft__[0]=AZUNpoBKzoNOCv5lO74rrWvv_gcgqfdnGFK0-0a5eQ4edgP44HwCIdzfbWIKH77-BbkHrHUIa62RXOC0O_MYpgqbJM3Y6wXkTkBbGKnxTvJX20AckG-PltJuAE5uBIE08LAOsBTa8VJnOmeiZq21UAuKF-hb01gs2JGXYpWMQt4GfbWHGwv1Gb5iZOyk70q8EQ8&amp;__tn__=*NK*F">#oldrzyszowice</a>
+      <a href="https://www.facebook.com/hashtag/gminalewinbrzeski?__eep__=6&amp;__cft__[0]=AZUNpoBKzoNOCv5lO74rrWvv_gcgqfdnGFK0-0a5eQ4edgP44HwCIdzfbWIKH77-BbkHrHUIa62RXOC0O_MYpgqbJM3Y6wXkTkBbGKnxTvJX20AckG-PltJuAE5uBIE08LAOsBTa8VJnOmeiZq21UAuKF-hb01gs2JGXYpWMQt4GfbWHGwv1Gb5iZOyk70q8EQ8&amp;__tn__=*NK*F">#gminalewinbrzeski</a>.<br>Nasze
+      warsztaty będą skierowane do młodzieży z terenu naszej wsi uczęszczającej do
+      klasy 4-8. <br>Już wkrótce przedstawimy więcej szczegółów! Cieszymy się bardzo,
+      że będziemy działać na swoim terenie <br><br>Dziękujemy <a href="https://www.facebook.com/edusmartDT/?__cft__[0]=AZUNpoBKzoNOCv5lO74rrWvv_gcgqfdnGFK0-0a5eQ4edgP44HwCIdzfbWIKH77-BbkHrHUIa62RXOC0O_MYpgqbJM3Y6wXkTkBbGKnxTvJX20AckG-PltJuAE5uBIE08LAOsBTa8VJnOmeiZq21UAuKF-hb01gs2JGXYpWMQt4GfbWHGwv1Gb5iZOyk70q8EQ8&amp;__tn__=kK*F">EDU
+      SMART Training Centre Dialog of Transformation</a> za wybranie naszego projektu
+      do realizacji</p><p><img src="/uploads/grant.jpg"></p>
     color: ''
   - title: Zbiórki odzieży
     content: "Możesz przekazać na naszą rzecz używane, ale **w dobrym stanie,** ubrania.
