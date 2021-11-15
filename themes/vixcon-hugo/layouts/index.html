@@ -115,10 +115,9 @@
 <!-- /feature -->
 
 <!-- schedule -->
-{{ if .Params.warsztat.enable }}
-{{ with .Params.warsztat }}
+
+{{ with .Site.GetPage "/warsztaty" }}
 {{ partial "warsztaty.html" . }}
-{{ end }}
 {{ end }}
 <!-- /schedule -->
 
