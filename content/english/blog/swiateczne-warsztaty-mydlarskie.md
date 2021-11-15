@@ -4,6 +4,7 @@ bg = "/uploads/main-photo_2.jpg"
 categories = []
 date = 2021-11-14T23:00:00Z
 description = ""
+draft = true
 image = "/uploads/257187034_3117021401874473_5517534541905105056_n.jpg"
 summary = "Serdecznie zapraszamy uczniów szkoły podstawowej (klasy 1-8) z naszej miejscowości Oldrzyszowice na warsztaty robienia mydełek w formach świątecznych ."
 tags = []
