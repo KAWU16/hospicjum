@@ -22,11 +22,11 @@ schedule:
         Krótką poranną informację o warsztatach mydlarskich w Stowarzyszenie Brzesko-Oławska Wieś Historyczna uzupełniamy o relację fotograficzną (zdjęcia autorstwa Marta Brus). Ach, co to były za warsztaty!
 
         <div class="simple-images-row">
-        <img src="" alt="">
+        <img src="/uploads/warsztaty1.jpg" alt="">
         <br>
-        <img src="" alt="">
+        <img src="/uploads/warsztaty1-a.jpg" alt="">
         <br>
-        <img src="" alt="">
+        <img src="/uploads/warsztaty1-b.jpg" alt="">
         </div>
   - title: Dzień 2
     date_time: 14 Nov ,2019 [09.00am - 04.00pm]
