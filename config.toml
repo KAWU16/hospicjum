@@ -48,7 +48,7 @@ parent = "Działalność lokalna"
 weight = 2
 [[menu.main]]
 URL = "dzialania_ekologiczne"
-name = "Działania ekologiczne"
+name = "Projekty"
 parent = "Działalność lokalna"
 weight = 3
 [[menu.main]]
