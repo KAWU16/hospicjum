@@ -5,7 +5,7 @@ description: this is meta description
 bg_image: images/bg/historia_main.jpg
 about:
   enable: true
-  image: images/bg/ctg.jpg
+  image: "/uploads/general-1.jpg"
   title: Stowarzyszenie </br> „W ogrodzie Viadrusa” powstało 19 stycznia 2018 r.,
     jako wspólna inicjatywa małżeństwa Celiny i Michała.
   content: "Stowarzyszenie „W ogrodzie Viadrusa” powstało jako efekt zamiłowania do
