@@ -9,45 +9,42 @@ bg_image: images/bg/cta-bg.jpg
 #   image : "images/bg/ctg.jpg"
 #   title : "Publikacje"
 #   content : "Lorem ipsum"
-################## sponsor ###############################
+######################### sponsor ############################
 sponsor:
-  enable : true
-  # sponsor data comes from "homepage.yml" file
+  enable :  true
+  title_outline : "Wsparli nas"
+  title : "za co jesteśmy niezmiernie wdzięczni"
+  sponsor_group:
+    ############################ sponsor group loop
+    - title : ""
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/misericordia.png"
+          link : "#"
+          description : "Kameralny Chór Misericordia"
+          
+        # sponcor loop
+        - logo : "images/clients/kakadu.png"
+          link : "#"
+          description : "Sklep Kakdu w CH Turawa Park"
+          
+        # sponcor loop
+        - logo : "images/clients/dogcat.png"
+          link : "#"
+          description : "DogCat Academy"
+                 
+        # sponcor loop
+        - logo : "images/clients/fizjo.png"
+          link : "#"
+          description : "FizjoActiv Rehabilitacja Zwierząt"
 
+          # sponcor loop
+        - logo : "images/clients/pilkarze.png"
+          link : "#"
+          description : "Piłkarze, kibice oraz Zarząd KPR Gwardia Opole"
 
-################## Feature ##############################
-feature:
-  enable : true
-  subtitle : "10% Sale offer for early birds"
-  title : "Meet top **digital masters** & influencers in a unique **3-days** experience."
-  button:
-    enable : true
-    label : "Get ticket"
-    link : "pricing"
-  
-  feature_item:
-    # feature item loop
-    - title : "Global Audience"
-      icon : "tf-ion-android-globe" # check `static/plugins/themefisher-font/demo.html` for more icon
-      bg_color : "#17a2b8"
-      content : "Starting a mentoring program might be the closest you'll ever get."
-      
-    # feature item loop
-    - title : "Valuable Insight"
-      icon : "tf-ion-android-microphone" # check `static/plugins/themefisher-font/demo.html` for more icon
-      bg_color : "" # if color is empty, it will get the default dark color
-      content : "Starting a mentoring program might be the closest you'll ever get."
-      
-    # feature item loop
-    - title : "Global Audience"
-      icon : "tf-ion-android-globe" # check `static/plugins/themefisher-font/demo.html` for more icon
-      bg_color : "#ff4747"
-      content : "Starting a mentoring program might be the closest you'll ever get."
-      
-    # feature item loop
-    - title : "Global Audience"
-      icon : "tf-ion-android-microphone" # check `static/plugins/themefisher-font/demo.html` for more icon
-      bg_color : "#4125dd"
-      content : "Starting a mentoring program might be the closest you'll ever get."
-
+          # sponcor loop
+        - logo : "images/clients/motocyklisci.png"
+          link : "#"
+          description : "Motocyklistki i motocykliści z grupy  Motocykliści - Motocyklistki Śląsk - Dolnośląskie - Opolskie"
 ---
