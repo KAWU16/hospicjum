@@ -72,9 +72,9 @@ feature:
               auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
 
 ####################### Schedule #############################
-schedule:
-  enable : true
-  # schedule data comes from "schedule.yml" file
+# schedule:
+#   enable : true
+#   # schedule data comes from "schedule.yml" file
 
 ####################### pricing #############################
 pricing:
