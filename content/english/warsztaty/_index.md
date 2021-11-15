@@ -12,12 +12,12 @@ warsztat:
     Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit.
   schedule_tab:
   - title: Grudzień
-    date_time: 11.12.2019
+    date_time: ''
     schedule_items:
     - time: ''
       image: ''
       content: |-
-        ### Warsztaty z BOWH
+        ### Warsztaty z BOWH (11.12.2019)
 
         Krótką poranną informację o warsztatach mydlarskich w Stowarzyszenie Brzesko-Oławska Wieś Historyczna uzupełniamy o relację fotograficzną (zdjęcia autorstwa Marta Brus). Ach, co to były za warsztaty!
 
