@@ -19,8 +19,9 @@ schedule:
       content: "### Warsztaty z BOWH\n\nKrótką poranną informację o warsztatach mydlarskich
         w Stowarzyszenie Brzesko-Oławska Wieś Historyczna uzupełniamy o relację fotograficzną
         (zdjęcia autorstwa Marta Brus). Ach, co to były za warsztaty!\n\n<div class=\"simple-images-row\">\n<img
-        src=\"\" alt=\"\">\n<br>\n<img src=\"\" alt=\"\">\n<br>\n<img src=\"\" alt=\"\">\n</div>\n\n![](/uploads/warsztaty1.jpg)
-        \ \n![](/uploads/warsztaty1-a.jpg)  \n![](/uploads/warsztaty1-b.jpg)"
+        src=\"![](/uploads/warsztaty1.jpg)\" alt=\"\">\n<br>\n<img src=\"\" alt=\"\">\n<br>\n<img
+        src=\"\" alt=\"\">\n</div>\n\n![](/uploads/warsztaty1.jpg)  \n![](/uploads/warsztaty1-a.jpg)
+        \ \n![](/uploads/warsztaty1-b.jpg)"
   - title: Dzień 2
     date_time: 14 Nov ,2019 [09.00am - 04.00pm]
     schedule_items:
