@@ -50,5 +50,8 @@ sponsor:
     - logo: "/uploads/elemelek.png"
       link: "#"
       description: Elemelek. Przedszkole Publiczne nr 37
+    - logo: "/uploads/jaroslaw-drozd.png"
+      link: "#"
+      description: Jarosław Drozd - Rapid-Trans
 
 ---
