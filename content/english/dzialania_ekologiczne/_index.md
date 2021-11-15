@@ -6,8 +6,7 @@ bg_image: images/bg/cta-bg.jpg
 publikacje:
   title_outline: Publikacje
   title: 
-  content: W tym miejscu zamieszczamy publikacje poświęcone działalności ekologicznej
-    w regionie
+  content: W tym miejscu zamieszczamy publikacje wydane przez Stowarzyszenie
   publikacje_item:
   - title: Zabytki dawnej jurysdykcji karnej na obszarze działania Brzesko-Oławskiej
       Wsi Historycznej
