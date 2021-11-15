@@ -12,9 +12,9 @@ warsztat:
     Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit.
   schedule_tab:
   - title: Grudzień
-    date_time: ''
+    date_time: 11.12.2019
     schedule_items:
-    - time: 11.12.2019
+    - time: ''
       image: ''
       content: |-
         ### Warsztaty z BOWH
