@@ -17,9 +17,9 @@ projekty:
       olejnowe, odświeżacze powietrza, kule kąpielowe czy też tabliczki zapachowe
       do szafy. Zajęcia sprzyjały rozmowom oraz wymianie doświadczeń, nie tylko z
       zakresu kosmetyków\n\n<div class=\"simple-images-row\">\n<img src=\"/uploads/kobieta-natura.jpg\"
-      alt=\"\">\n<br>\n<img src=\"/uploads/kobieta-natura1.jpg\" alt=\"\">\n<br>\n<img
-      src=\"/uploads/78692841_3203850722965090_6312407211247140864_o.jpg\" alt=\"\">
-      \ \n<br> <img src=\"/uploads/kobieta-natura3-1.jpg\" alt=\"\">\n</div>"
+      alt=\"\">\n<br>\n<img src=\"/uploads/kobieta-natura2.jpg\" alt=\"\">\n<br>\n<img
+      src=\"/uploads/kobieta-natura1.jpg\" alt=\"\">  \n<br> <img src=\"/uploads/kobieta-natura3.jpg\"
+      alt=\"\">\n</div>"
     color: ''
   - title: Mamy FIO (1.05.2019 r.)
     content: <p>Na majówkę otrzymaliśmy miły prezent. Ogłoszono wyniki konkursu FIO.
