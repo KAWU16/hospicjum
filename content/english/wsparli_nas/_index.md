@@ -30,7 +30,7 @@ sponsor:
       description: Motocyklistki i motocykliści z grupy  Motocykliści - Motocyklistki
         Śląsk - Dolnośląskie - Opolskie
     - logo: "/uploads/opolskie-dziouchy.png"
-      link: ''
+      link: "#"
       description: Opolskie Dziouchy
 
 ---
