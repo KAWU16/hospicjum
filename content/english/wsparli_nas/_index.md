@@ -38,5 +38,8 @@ sponsor:
     - logo: "/uploads/thunder-wear.png"
       link: "#"
       description: Thunder Wear
+    - logo: "/uploads/gromada-zuchowa.png"
+      link: "#"
+      description: 612 Gromada Zuchowa Oswojeni
 
 ---
