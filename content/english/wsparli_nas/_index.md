@@ -35,5 +35,8 @@ sponsor:
     - logo: "/uploads/maya-tomanik.png"
       link: "#"
       description: Maya Tomanik
+    - logo: "/uploads/thunder-wear.png"
+      link: "#"
+      description: Thunder Wear
 
 ---
