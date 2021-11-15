@@ -28,5 +28,11 @@ warsztat:
         <br>
         <img src="/uploads/warsztaty1-b.jpg" alt="">
         </div>
+  - title: Styczeń
+    date_time: ''
+    schedule_items: []
+  - title: Luty
+    date_time: ''
+    schedule_items: []
 
 ---
