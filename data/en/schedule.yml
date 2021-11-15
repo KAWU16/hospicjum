@@ -1,3 +1,9 @@
+---
+title: "Warsztaty"
+date: 2019-09-10T13:51:25+06:00
+draft: false
+description: "this is meta description"
+bg_image : "images/bg/cta-bg.jpg"
 schedule:
   enable : true
   title_outline : "nowe"
@@ -6,19 +12,17 @@ schedule:
               auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
   schedule_tab:
     ################# tab itam loop ################
-    - title : "Day 1"
-      date_time : "13 Nov ,2019 [09.00am - 04.00pm]"
+    - title : "11.12.2019"
+      date_time : ""
       schedule_items:
         # schedule loop item
         - time : "9.00am"
           image : "images/about/wordpress.png"
           content : "
           
-          ### Introduction of material Design
+          ### Warsztaty z BOWH
 
-          ###### By Risabh moinul
-
-          Lorem ipsum proin gravida nibh vel velit auctor aliquet.
+          Krótką poranną informację o warsztatach mydlarskich w Stowarzyszenie Brzesko-Oławska Wieś Historyczna uzupełniamy o relację fotograficzną (zdjęcia autorstwa Marta Brus). Ach, co to były za warsztaty!
           "
           
         # schedule loop item
@@ -137,3 +141,4 @@ schedule:
 
           Founder of themefisher
           "
+---
