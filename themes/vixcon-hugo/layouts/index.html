@@ -115,7 +115,7 @@
 <!-- /feature -->
 
 <!-- schedule -->
-{{ if .Params.schedule.enable }}
+{{ with .Params.schedule }}
 {{ partial "warsztaty.html" . }}
 {{ end }}
 <!-- /schedule -->
