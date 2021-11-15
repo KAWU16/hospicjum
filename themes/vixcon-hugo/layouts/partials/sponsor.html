@@ -1,6 +1,6 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-{{ with $data.homepage.sponsor }}
+{{ with .Params.sponsor }}
 <section class="section sponsors">
   <div class="overly-sponsor"></div>
   <div class="container">
