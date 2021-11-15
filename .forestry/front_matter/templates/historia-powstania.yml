@@ -30,3 +30,5 @@ fields:
   - type: textarea
     name: content
     label: content
+pages:
+- content/english/historia_powstania/_index.md
