@@ -195,3 +195,10 @@ a {
     max-width: 100%;
   }
 }
+/*proste zdjecia w rzędzie*/
+.simple-images-row {
+  display: flex;
+}
+.simple-images-row img {
+  margin: 0 .1em;
+}
