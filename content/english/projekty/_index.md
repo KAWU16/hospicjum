@@ -69,32 +69,6 @@ projekty:
       nami, ale przede wszystkim wiele satysfakcji z racji działania na rzecz naszej
       małej ojczyzny, jak to ładnie mówią - Heimatu.</p><p><img src="/uploads/grant2.jpg"></p>
     color: ''
-  - title: Zakupy z Fanimani
-    content: "Jeżeli robisz zakupy w Internecie, nieważne czy są to buty, elektronika,
-      kosmetyki czy książki, możesz nas bezpłatnie wspierać. Z każdego Twojego zakupu
-      średnio 2,5% jego wartości trafi do naszej organizacji, jeśli zaczniesz korzystać
-      z serwisu FaniMani.pl Ty nic nie dopłacasz!\n\nPomagaj nam bezpłatnie przy okazji
-      codziennych zakupów online. Możesz skorzystać z oferty ponad 1500 sklepów, a
-      także przy okazji zamawiania jedzenia online czy rezerwacji noclegów.\n\nDarowiznę
-      aktywujesz jednym kliknięciem. To proste i bezpieczne rozwiązanie.\n\n1. **Zarejestruj
-      się w FaniMani.pl**  \n   Jeśli zarejestrujesz się z tego linku - [https://fanimani.pl/zaproszenie/22277/c5f40e0f6bbd41b198f1d3b256924de9/](https://fanimani.pl/zaproszenie/22277/c5f40e0f6bbd41b198f1d3b256924de9/
-      \"https://fanimani.pl/zaproszenie/22277/c5f40e0f6bbd41b198f1d3b256924de9/\")
-      - i zrobisz zakupy przez FaniMani, otrzymamy dodatkowe 5 zł.\n2. **Na komputerze:
-      Dodaj rozszerzenie \"Przypominajka FaniMani\" do przeglądarki**  \n   To proste
-      i bezpieczne rozszerzenie, który automatycznie wskaże partnerów FaniMani, a
-      darowiznę aktywujesz jednym kliknięciem! Z Przypominajką nigdy nie zapomnisz
-      o pomaganiu nam. Wejdź na nasz profil na FaniMani - [https://fanimani.pl/wogrodzieviadrusa/](https://fanimani.pl/zaproszenie/22277/c5f40e0f6bbd41b198f1d3b256924de9/
-      \"https://fanimani.pl/zaproszenie/22277/c5f40e0f6bbd41b198f1d3b256924de9/\")
-      - aby zainstalować Przypominajkę!  \n   Dodatkowo - gdy już założysz konto i
-      będziesz mieć Przypominajkę - wejdź na fanimani.pl/podaruj1zl i zaloguj się,
-      a my otrzymamy 1zł darowizny!\n3. **Na telefonie: Pobierz Aplikację FaniMani
-      (Google Play, AppStore)**  \n   Możesz nam pomagać także z telefonem w dłoni!
-      Zainstaluj Aplikację i korzystaj z oferty ponad 1500 partnerów FaniMani, robiąc
-      zakupy i przekazując nam darowiznę! W aplikacji w prosty sposób sprawdzisz również
-      swoje ostatnie darowizny.\n\nDziękujemy, że jesteś z nami!\n\n[![Baner na zbiórkę
-      pieniędzy dla Viadrusa](/uploads/fanimani-pl-baner750x100.jpg \"Zbieraj pieniądze
-      z fanimani\")](https://fanimani.pl/wogrodzieviadrusa/zbieraj-wiecej/www/)"
-    color: ''
   support:
     enable: true
     title: Jeżeli masz jakiekolwiek pytania zapraszamy do kontaktu
