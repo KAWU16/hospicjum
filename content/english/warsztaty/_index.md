@@ -14,19 +14,18 @@ schedule:
   - title: 11.12.2019
     date_time: ''
     schedule_items:
-    - time: 9.00am
-      image: images/about/wordpress.png
-      content: "\n### Warsztaty z BOWH\nKrótką poranną informację o warsztatach mydlarskich
-        w Stowarzyszenie Brzesko-Oławska Wieś Historyczna uzupełniamy o relację fotograficzną
-        (zdjęcia autorstwa Marta Brus). Ach, co to były za warsztaty! "
-    - time: 9.00am
-      image: images/about/big-data.png
-      content: "\n### Marketing Matters in design area\n###### By Risabh moinul\nLorem
-        ipsum proin gravida nibh vel velit auctor aliquet. "
-    - time: 9.00am
-      image: images/about/lunch.jpg
-      content: "\n### Launch Break\n###### By Risabh moinul\nLorem ipsum proin gravida
-        nibh vel velit auctor aliquet. "
+    - time: ''
+      image: ''
+      content: |-
+        ### Warsztaty z BOWH
+
+        Krótką poranną informację o warsztatach mydlarskich w Stowarzyszenie Brzesko-Oławska Wieś Historyczna uzupełniamy o relację fotograficzną (zdjęcia autorstwa Marta Brus). Ach, co to były za warsztaty!
+
+        ![](/uploads/warsztaty1.jpg)
+
+        ![](/uploads/warsztaty1-a.jpg)
+
+        ![](/uploads/warsztaty1-b.jpg)
   - title: Dzień 2
     date_time: 14 Nov ,2019 [09.00am - 04.00pm]
     schedule_items:
