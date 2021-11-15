@@ -15,27 +15,6 @@
       </div>
     </div>
 
-    {{ range .projekty_item }}
-    <div class="accordion" id="accordionMain">
-      <div class="card">
-        <div class="card-header" id="headingOne">
-          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-            <h4 class="mb-3 border-bottom pb-3">{{$.Scratch.Get `counter`}} {{ .title | markdownify }}</h4>
-          </button>
-        </div>
-    
-        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionMain">
-          <div class="card-body">
-            <div class="mb-4">
-              <p>{{ .content | markdownify }}</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    {{ end }}
-
-
     <div class="row justify-content-center">
       <div class="col-lg-8">
         {{ range .projekty_item }}
