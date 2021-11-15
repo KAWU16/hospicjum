@@ -19,9 +19,11 @@
     <div class="accordion" id="accordion-base">
       <div class="card">
         <div class="card-header">
-          <button class="accordion-button" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-            <h4 class="title-accordion">{{$.Scratch.Get `counter`}} {{ .title | markdownify }}</h4>
-          </button>
+          <h3>
+            <button class="accordion-button" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              <h4 class="mb-3 border-bottom pb-3">{{$.Scratch.Get `counter`}} {{ .title | markdownify }}</h4>
+            </button>
+          </h3>
         </div>
     
         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
