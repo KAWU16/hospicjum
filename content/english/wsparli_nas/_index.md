@@ -41,5 +41,8 @@ sponsor:
     - logo: "/uploads/gromada-zuchowa.png"
       link: "#"
       description: 612 Gromada Zuchowa Oswojeni
+    - logo: "/uploads/primovet.png"
+      link: "#"
+      description: Primo-Vet
 
 ---
