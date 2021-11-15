@@ -32,5 +32,8 @@ sponsor:
     - logo: "/uploads/opolskie-dziouchy.png"
       link: "#"
       description: Opolskie Dziouchy
+    - logo: "/uploads/maya-tomanik.png"
+      link: "#"
+      description: Maya Tomanik
 
 ---
