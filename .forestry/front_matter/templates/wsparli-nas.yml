@@ -1,0 +1,49 @@
+---
+label: Wsparli nas
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: bg_image
+  label: bg_image
+- type: field_group
+  name: sponsor
+  label: sponsor
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title_outline
+    label: title_outline
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: sponsor_group
+    label: sponsor_group
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: field_group_list
+      name: sponsor
+      label: sponsor
+      fields:
+      - type: file
+        name: logo
+        label: logo
+      - type: text
+        name: link
+        label: link
+      - type: text
+        name: description
+        label: description
