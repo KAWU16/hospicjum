@@ -44,5 +44,8 @@ sponsor:
     - logo: "/uploads/primovet.png"
       link: "#"
       description: Primo-Vet
+    - logo: "/uploads/wesola-gromadka.png"
+      link: "#"
+      description: Wesoła Gromadka
 
 ---
