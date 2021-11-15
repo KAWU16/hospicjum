@@ -60,11 +60,14 @@
 	.text-color {
 		color: #a4bb22;
 	}
-
-	.content {
-		flex-basis: 60%;
+	li{
+		.content {
+			flex-basis: 100%;
+				.simple-images-row {
+					flex-wrap: nowrap;
+				}
+		}
 	}
-
 
 	.content-img {
 		flex-basis: 20%;
