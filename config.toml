@@ -35,6 +35,7 @@ weight = 6
 [[menu.main]]
 URL = "about"
 name = "Działalność lokalna"
+hasChildren = true
 weight = 4
 [[menu.main]]
 URL = "warsztaty"
