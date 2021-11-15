@@ -1,0 +1,55 @@
+---
+label: Warsztaty
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: bg_image
+  label: bg_image
+- type: field_group
+  name: warsztat
+  label: warsztat
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title_outline
+    label: title_outline
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: field_group_list
+    name: schedule_tab
+    label: schedule_tab
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: date_time
+      label: date_time
+    - type: field_group_list
+      name: schedule_items
+      label: schedule_items
+      fields:
+      - type: text
+        name: time
+        label: time
+      - type: text
+        name: image
+        label: image
+      - type: textarea
+        name: content
+        label: content
