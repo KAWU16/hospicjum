@@ -53,3 +53,5 @@ fields:
       - type: textarea
         name: content
         label: content
+pages:
+- content/english/warsztaty/_index.md
