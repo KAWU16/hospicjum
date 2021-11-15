@@ -47,5 +47,8 @@ sponsor:
     - logo: "/uploads/wesola-gromadka.png"
       link: "#"
       description: Wesoła Gromadka
+    - logo: "/uploads/elemelek.png"
+      link: "#"
+      description: Elemelek. Przedszkole Publiczne nr 37
 
 ---
