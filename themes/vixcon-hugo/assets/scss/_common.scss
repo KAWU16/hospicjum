@@ -202,3 +202,13 @@ a {
 .simple-images-row img {
   margin: 0 .1em;
 }
+
+/*accordion*/
+.card-header {
+  background: white;
+  .accordion-button {
+    border: none;
+    background: white;
+    text-decoration: none;
+  }
+}
