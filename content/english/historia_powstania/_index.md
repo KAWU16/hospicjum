@@ -39,18 +39,5 @@ about:
     że Viadrus będzie miał nas pod swoją opieką, a rozgniewane rzeki, tocząc swoje
     fale i rozlewając szeroko wody, by ponownie skarcić człowieka, ominą nasz dom.\nDziałalność
     organizacji można śledzić na PROFILU na Facebooku. https://www.facebook.com/WOgrodzieViadrusa"
-feature:
-  enable: true
-  subtitle: 40% Sale offer for early birds
-  title: Meet top **digital masters** & influencers in a unique **3-days** experience.
-  button:
-    enable: true
-    label: Get ticket man!!!
-    link: pricing
-  feature_item:
-  - title: Zwierzak
-    icon: tf-ion-android-globe
-    bg_color: "#17a2b8"
-    content: Opis zwierzaka
 
 ---
