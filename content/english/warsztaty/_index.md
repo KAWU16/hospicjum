@@ -11,10 +11,10 @@ warsztat:
     lorem quis bibendum auctonisi elit consequat ipsum nec sagittis sem nibh id elit.
     Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit.
   schedule_tab:
-  - title: 11.12.2019
+  - title: Grudzień
     date_time: ''
     schedule_items:
-    - time: ''
+    - time: 11.12.2019
       image: ''
       content: |-
         ### Warsztaty z BOWH
