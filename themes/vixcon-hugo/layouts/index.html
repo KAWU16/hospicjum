@@ -115,9 +115,11 @@
 <!-- /feature -->
 
 <!-- schedule -->
-<!-- {{ if $data.homepage.schedule.enable }} -->
+{{ if .Params.warsztat.enable }}
+{{ with .Params.warsztat }}
 {{ partial "warsztaty.html" . }}
-<!-- {{ end }} -->
+{{ end }}
+{{ end }}
 <!-- /schedule -->
 
 <!-- pricing -->
