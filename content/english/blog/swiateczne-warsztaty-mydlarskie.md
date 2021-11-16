@@ -11,8 +11,10 @@ title = "Świąteczne warsztaty mydlarskie"
 type = "post"
 
 +++
-Każdy, kto zrobi mydełko będzie mógł je zapakować w piękny, świąteczny woreczek materiałowy i podarować je wybranej osobie   
-  
-Dzieci z klasy 1 i 2 szkoły podstawowej prosimy o przybycie z opiekunami z uwagi na prace z gorącą gliceryną  
-Poszukujemy także 2 wolontariuszy dorosłych do pomocy przy obsłudze mikrofali i podgrzewania gliceryny.  
+Każdy, kto zrobi mydełko będzie mógł je zapakować w piękny, świąteczny woreczek materiałowy i podarować je wybranej osobie
+
+Dzieci z klasy 1 i 2 szkoły podstawowej prosimy o przybycie z opiekunami z uwagi na prace z gorącą gliceryną.
+
+Poszukujemy także 2 wolontariuszy dorosłych do pomocy przy obsłudze mikrofali i podgrzewania gliceryny.
+
 Zapisy u wolontariuszki Oli na Whatsapp do 30/11/21 +48667793274
