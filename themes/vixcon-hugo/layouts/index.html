@@ -49,7 +49,10 @@
             <h2 class="font-weight-light">{{ .title | markdownify }}</h2>
           </div>
         </div>
-        <div id="simple-timer" class="syotimer" data-year="{{ .year }}" data-month="{{ .month }}" data-day="{{ .day }}" data-hour="{{ .hour }}"></div>
+        {{ with .Site.GetPage "/warsztaty" }}
+        {{ .schedule_items.content }}
+        {{ end }}
+        <!-- <div id="simple-timer" class="syotimer" data-year="{{ .year }}" data-month="{{ .month }}" data-day="{{ .day }}" data-hour="{{ .hour }}"></div> -->
       </div>
     </div>
   </div>
