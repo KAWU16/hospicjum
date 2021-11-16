@@ -48,8 +48,10 @@
           <div class="counter-stat">
             <h2 class="font-weight-light">{{ .title | markdownify }}</h2>
           </div>
+          <div class="counter-event">
+            <p>{{ .subtitle | markdownify }}</p>
+          </div>
         </div>
-        <p>{{ .subtitle | markdownify }}</p>
         <!-- <div id="simple-timer" class="syotimer" data-year="{{ .year }}" data-month="{{ .month }}" data-day="{{ .day }}" data-hour="{{ .hour }}"></div> -->
       </div>
     </div>
