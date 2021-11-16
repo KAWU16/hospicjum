@@ -17,7 +17,7 @@ banner:
 ########################## timer #################################
 timer:
   enable : true
-  title : "Test nagłówka"
+  title : "Nadchodzące wydarzenia"
   # set timer
   year: "2020"
   month: "09"
