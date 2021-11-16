@@ -31,12 +31,11 @@ event:
   title : "o stowarzyszeniu"
   image_back : "images/about/h1-gallery-img-7.jpg"
   image_front : "images/about/main-home-img-1.jpg"
-  content : "Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aeneansollicitudin, lorem quis bibendum
-              auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
+  content : "Stowarzyszenie „W ogrodzie Viadrusa” powstało jako efekt zamiłowania do przyrody, zwierząt, ekologii i wspólnych pasji ogrodniczych. Podstawowym celem, jaki nam przyświecał to pomoc skrzywdzonym zwierzętom, głównie psom i kotom. Stowarzyszenie prowadzi dom – hospicjum dla zwierząt. Swoje miejsce na ziemi znajdują tutaj zwierzęta stare, schorowane, u schyłku życia, często wyrwane ze szponów śmierci. Wszystkie potrzebują specjalnej opieki."
   button:
     enable : true
     label : "Zobacz więcej"
-    link : "warsztaty"
+    link : "historia_powstania"
 
 ######################### Call to action #########################
 cta:
