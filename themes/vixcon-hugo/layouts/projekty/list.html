@@ -41,6 +41,14 @@
     </div>
   </div>
 
+  {{ range $i, $e := .projekty_item }}
+  <button class="accordion">{{.title | markdownify}}</button>
+  <div class="panel">
+    <p>{{.content | markdownify}}</p>
+  </div>
+
+
+
   <div class="accordion" id="faq">
     {{ range $i, $e := .projekty_item }}
     <div class="accordion-item border-0">
@@ -58,6 +66,22 @@
     {{end}}
   </div>
 </section>
+<script>
+  var acc = document.getElementsByClassName("accordion");
+  var i;
+  
+  for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var panel = this.nextElementSibling;
+      if (panel.style.display === "block") {
+        panel.style.display = "none";
+      } else {
+        panel.style.display = "block";
+      }
+    });
+  }
+</script>
 
 {{ end }}
 
