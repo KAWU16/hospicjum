@@ -224,7 +224,7 @@ a {
 
 .accordion {
   background-color: #fff;
-  color: #444;
+  color: #111;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -235,6 +235,10 @@ a {
   border: 1px solid #a4bb22;
   transition: .4s;
   margin: .5em 0;
+  font-family: 'Grandstander';
+  font-size: 2em;
+  font-weight: 700;
+  text-decoration: unset;
 }
 
 .active, .accordion:hover {
@@ -245,9 +249,10 @@ a {
 
 .accordion:after {
   content: '\002B';
-  color: #777;
-  font-weight: bold;
+  color: #000;
+  font-weight: 700;
   float: right;
+  font-size: 2em;
   margin-left: 5px;
 }
 
