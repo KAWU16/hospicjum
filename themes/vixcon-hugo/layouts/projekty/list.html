@@ -43,73 +43,22 @@
 </section>
 
 <div class="accordion" id="faq">
+  {{ range $i, $e := .faq_list }}
   <div class="accordion-item border-0">
-    <h4 class="accordion-header mb-0" id="heading-8a4ed081f8ec73b6e9377f609cffed128b925ed9_">
-      <button class="accordion-button pe-0 shadow-none h6 font-secondary mb-0" type="button" data-bs-toggle="collapse"
-        data-bs-target="#id-8a4ed081f8ec73b6e9377f609cffed128b925ed9_" aria-expanded="true"
-        aria-controls="id-8a4ed081f8ec73b6e9377f609cffed128b925ed9_">
-        How can I integrate Avocode to my current tool stack?
+    <h4 class="accordion-header mb-0" id="heading-{{ sha1 .title | urlize }}_">
+      <button class="accordion-button pe-0 shadow-none h6 font-secondary mb-0 {{if ne $i 0 }}collapsed{{end}}" type="button" data-bs-toggle="collapse" data-bs-target="#id-{{ sha1 .title | urlize }}_" aria-expanded="{{if eq $i 0 }}true{{else}}false{{end}}" aria-controls="id-{{ sha1 .title | urlize }}_">
+        {{.title | markdownify}}
       </button>
     </h4>
-    <div id="id-8a4ed081f8ec73b6e9377f609cffed128b925ed9_" class="accordion-collapse collapse show"
-      aria-labelledby="heading-8a4ed081f8ec73b6e9377f609cffed128b925ed9_" data-bs-parent="#faq">
+    <div id="id-{{ sha1 .title | urlize }}_" class="accordion-collapse collapse {{if eq $i 0 }}show{{end}}" aria-labelledby="heading-{{ sha1 .title | urlize }}_" data-bs-parent="#faq">
       <div class="accordion-body pt-0 content">
-        <p>The Service is provided for free during this pilot project, and is provided “as is” with is not committed to
-          any level of service or availability of the Service.</p>
-        <p>A further If you enter into this agreement on behalf of a company, you hereby agree that the company is
-          responsible under this Agreement for all actions and omissions</p>
+        {{.content | markdownify}}
       </div>
     </div>
   </div>
-  <div class="accordion-item border-0">
-    <h4 class="accordion-header mb-0" id="heading-5547386a6e7381108d294d5eebe26d464fcd8c2c_">
-      <button class="accordion-button pe-0 shadow-none h6 font-secondary mb-0 collapsed" type="button"
-        data-bs-toggle="collapse" data-bs-target="#id-5547386a6e7381108d294d5eebe26d464fcd8c2c_" aria-expanded="false"
-        aria-controls="id-5547386a6e7381108d294d5eebe26d464fcd8c2c_">
-        How can I use Avocode with cloud documents?
-      </button>
-    </h4>
-    <div id="id-5547386a6e7381108d294d5eebe26d464fcd8c2c_" class="accordion-collapse collapse"
-      aria-labelledby="heading-5547386a6e7381108d294d5eebe26d464fcd8c2c_" data-bs-parent="#faq">
-      <div class="accordion-body pt-0 content">
-        The Service is provided for free during this pilot project, and is provided “as is” with is not committed to any
-        level of service or availability of the Service.
-      </div>
-    </div>
-  </div>
-  <div class="accordion-item border-0">
-    <h4 class="accordion-header mb-0" id="heading-418184b222b830a0eda6a835a2506977ec36e992_">
-      <button class="accordion-button pe-0 shadow-none h6 font-secondary mb-0 collapsed" type="button"
-        data-bs-toggle="collapse" data-bs-target="#id-418184b222b830a0eda6a835a2506977ec36e992_" aria-expanded="false"
-        aria-controls="id-418184b222b830a0eda6a835a2506977ec36e992_">
-        If I cancel, can I archive my designs to keep them safe?
-      </button>
-    </h4>
-    <div id="id-418184b222b830a0eda6a835a2506977ec36e992_" class="accordion-collapse collapse"
-      aria-labelledby="heading-418184b222b830a0eda6a835a2506977ec36e992_" data-bs-parent="#faq">
-      <div class="accordion-body pt-0 content">
-        A further If you enter into this agreement on behalf of a company, you hereby agree that the company is
-        responsible under this Agreement for all actions and omissions
-      </div>
-    </div>
-  </div>
-  <div class="accordion-item border-0">
-    <h4 class="accordion-header mb-0" id="heading-202f9ad39223c3254b19b10ed0e635bc52686306_">
-      <button class="accordion-button pe-0 shadow-none h6 font-secondary mb-0 collapsed" type="button"
-        data-bs-toggle="collapse" data-bs-target="#id-202f9ad39223c3254b19b10ed0e635bc52686306_" aria-expanded="false"
-        aria-controls="id-202f9ad39223c3254b19b10ed0e635bc52686306_">
-        How can I adjust user permissions &amp; admin provileges?
-      </button>
-    </h4>
-    <div id="id-202f9ad39223c3254b19b10ed0e635bc52686306_" class="accordion-collapse collapse"
-      aria-labelledby="heading-202f9ad39223c3254b19b10ed0e635bc52686306_" data-bs-parent="#faq">
-      <div class="accordion-body pt-0 content">
-        The difference between and premium product consist number of components, plugins, page in each. The Free
-        versions contain only a few elements and pages that.
-      </div>
-    </div>
-  </div>
+  {{end}}
 </div>
+
 {{ end }}
 
 {{ end }}
