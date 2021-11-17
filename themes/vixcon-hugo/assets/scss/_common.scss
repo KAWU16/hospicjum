@@ -221,7 +221,10 @@ a {
     }
 }
 /*accordion*/
-
+.accordion-box{
+    max-width: 850px;
+    margin: 0 auto;
+}
 .accordion {
   background-color: #fff;
   color: #111;
