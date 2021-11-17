@@ -11,12 +11,12 @@ sections:
   match: "**/*"
 - type: directory
   path: content/french
-  label: French
+  label: Drugi język
   create: all
   match: "**/*"
 - type: directory
   path: content
-  label: Pages
+  label: Dodatkowe
   create: all
   match: "*"
 upload_dir: static/uploads
