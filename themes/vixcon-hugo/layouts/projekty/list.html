@@ -16,14 +16,14 @@
     </div>
 
     <div class="row justify-content-center">
-      <div class="col-lg-8">
+      <!-- <div class="col-lg-8">
         {{ range .projekty_item }}
         <div class="mb-4">
           <h4 class="mb-3 border-bottom pb-3">{{$.Scratch.Get `counter`}} {{ .title | markdownify }}</h4>
           <p>{{ .content | markdownify }}</p>
         </div>
         {{ end }}
-      </div>
+      </div> -->
       
       {{ range $i, $e := .projekty_item }}
       <button class="accordion">{{ .title | markdownify}}</button>
