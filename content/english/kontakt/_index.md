@@ -6,10 +6,10 @@ description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
 ---
 
-Stowarzyszenie „W ogrodzie Viadrusa”
-Oldrzyszowice 94
-49-340 Lewin Brzeski
-NIP: 7471908079
-KRS: 0000714392
-Regon:  369284394
+Stowarzyszenie „W ogrodzie Viadrusa”</br>
+Oldrzyszowice 94</br>
+49-340 Lewin Brzeski</br>
+NIP: 7471908079</br>
+KRS: 0000714392</br>
+Regon:  369284394</br>
 https://www.facebook.com/WOgrodzieViadrusa
