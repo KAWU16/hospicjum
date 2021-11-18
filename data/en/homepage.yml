@@ -18,7 +18,7 @@ banner:
 timer:
   enable : true
   title : "Nadchodzące wydarzenia"
-  subtitle: "Warsztaty z BOWH (11.12.2019)"
+  subtitle: "Mikołajkowe warsztaty dla dzieci (18.12.2021)"
   # set timer
   year: "2020"
   month: "09"
