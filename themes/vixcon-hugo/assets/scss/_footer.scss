@@ -62,6 +62,10 @@
 .rodo_elements {
 	list-style: none;
 	color: white;
+	display: flex;
+	.rodo-box{
+		width: 50%;
+	}
 }
 .footer-children-menu{
 	display: flex;

@@ -4,35 +4,42 @@
 			<div class="col-lg-6 text-center footer_menu_container_main">
 				<!-- <p class="text-white-50">{{ .Site.Params.footer_content | markdownify }}</p> -->
 				<div class="footer_logo">
-				  <a class="navbar-brand" href="{{ .Site.BaseURL | absLangURL }}">
-					<img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" class="navbar_logo_image">
-				  </a>
+					<a class="navbar-brand" href="{{ .Site.BaseURL | absLangURL }}">
+						<img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" class="navbar_logo_image">
+					</a>
 				</div>
 				<div class="footer_menu">
 					<ul class="footer_menu_list">
-						  {{ range .Site.Menus.main }}
-						  {{ if .HasChildren }}
-						  <li class="">
-							  {{ .Name }}
+						{{ range .Site.Menus.main }}
+						{{ if .HasChildren }}
+						<li class="">
+							{{ .Name }}
 							<div class="footer-children-menu">
-							  {{ range .Children }}
-							  <a class="" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
-							  {{ end }}
+								{{ range .Children }}
+								<a class="" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+								{{ end }}
 							</div>
-						  </li>
-						  {{ else }}
-						  <li class="">
+						</li>
+						{{ else }}
+						<li class="">
 							<a class="" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
-						  </li>
-						  {{ end }}
-						  {{ end }}
+						</li>
+						{{ end }}
+						{{ end }}
 					</ul>
 					<ul class="rodo_elements">
-						{{ range .Site.Params.social }}
-						<li class="list-inline-item list-inline footer-socails"><a href="{{ .link | safeURL }}" rel="nofollow"><i class="{{ .icon }}"></i></a></li>
-						{{ end }}
-						<li><a class="" href="{{ "rodo/" | absLangURL }}">RODO</a></li>
-						<li><a class="" href="{{ "polityka_dostepnosci/" | absLangURL }}">Polityka dostępności</a></li>
+						<div class="rodo-box">
+							<li class="list-inline-item list-inline footer-socails"><a
+									href="https://www.facebook.com/WOgrodzieViadrusa/" rel="nofollow"><i
+										class="tf-ion-social-facebook"></i></a></li>
+							<li><a href="https://www.wogrodzieviadrusa.pl/rodo/">RODO</a></li>
+							<li><a href="https://www.wogrodzieviadrusa.pl/polityka_dostepnosci/">Polityka
+									dostępności</a></li>
+						</div>
+						<div class="rodo-box">
+							<img src="/images/logo2_braz.png" alt="">
+							<p>Brzesko-Oławska Wieś Historyczna</p>
+						</div>
 					</ul>
 				</div>
 				<!-- {{ if .Site.Params.subscription.enable }}
@@ -58,7 +65,11 @@
 <!-- search index -->
 {{ if .Site.Params.search }}
 <script>
-  var indexURL = {{"index.json" | absURL}}
+	var indexURL = {
+		{
+			"index.json" | absURL
+		}
+	}
 </script>
 {{ end }}
 
@@ -79,18 +90,18 @@
 {{ "<!-- google analitycs -->" | safeHTML }}
 {{ with .Site.Params.google_analitycs_id}}
 <script>
-  (function (i, s, o, g, r, a, m) {
-    i['GoogleAnalyticsObject'] = r;
-    i[r] = i[r] || function () {
-      (i[r].q = i[r].q || []).push(arguments)
-    }, i[r].l = 1 * new Date();
-    a = s.createElement(o),
-      m = s.getElementsByTagName(o)[0];
-    a.async = 1;
-    a.src = g;
-    m.parentNode.insertBefore(a, m)
-  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-  ga('create', '{{ . }}', 'auto');
-  ga('send', 'pageview');
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r;
+		i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date();
+		a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', '{{ . }}', 'auto');
+	ga('send', 'pageview');
 </script>
 {{ end }}
