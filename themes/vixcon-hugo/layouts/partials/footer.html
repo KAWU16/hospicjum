@@ -65,11 +65,7 @@
 <!-- search index -->
 {{ if .Site.Params.search }}
 <script>
-	var indexURL = {
-		{
-			"index.json" | absURL
-		}
-	}
+var indexURL = {{"index.json" | absURL}}
 </script>
 {{ end }}
 
