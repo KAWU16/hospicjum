@@ -65,6 +65,13 @@
 	display: flex;
 	.rodo-box{
 		width: 50%;
+		a{
+			text-decoration: unset;
+		}
+		img{
+			max-width: 100px;
+			margin-right: 0.5em;
+		}
 		.logo-desc{
 			display: inline-block;;
 		}
