@@ -11,7 +11,7 @@ faq:
     wiele więcej. Można nam pomagać na wielu płaszczyznach: '
   faq_item:
   - title: Wesprzyj finansowo
-    adres-odnosnika: ''
+    adres-odnosnika: 'wesprzyj-finansowo'
     content: "Wsparcie finansowe poprzez wpłatę darowizny na cele statutowe na nasze
       konto,  przez\n\n[<button class=\"btn btn-hero btn-rounded mt-3\"> PayPal </button>](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=DRHY6HS3CYW6Y&fbclid=IwAR1T6jsV6hjK87leQ7tkEPl3m_o6gPCTFEC4Lvxm6A-T7PedRIQ-cDEKqvk)\n\nlub
       kod QR\n\n![QR kod do wpłat na Stowarzyszenie](/images/qr_viadrus.png)  \nStowarzyszenie
