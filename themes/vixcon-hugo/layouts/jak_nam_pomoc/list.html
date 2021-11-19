@@ -5,7 +5,7 @@
 {{ with .Params.faq }}
 <section class="section faq">
   <div class="reference_buttons">
-    <a href="https://hospicjum.onrender.com/jak_nam_pomoc/#title_reference" class="btn btn-hero btn-rounded">Wesprzyj nas finasowo</a>
+    <a href="#{{ .adres_odnosnika | urlize}}" class="btn btn-hero btn-rounded">Wesprzyj nas finasowo</a>
     <a href="https://hospicjum.onrender.com/jak_nam_pomoc/#title_reference" class="btn btn-hero btn-rounded">Przekaż dary rzeczowe</a>
     <a href="https://hospicjum.onrender.com/jak_nam_pomoc/#title_reference" class="btn btn-hero btn-rounded">Wrzuć do puszki</a>
     <a href="https://hospicjum.onrender.com/jak_nam_pomoc/#title_reference" class="btn btn-hero btn-rounded">Zbiórki odzieży</a>
@@ -28,7 +28,7 @@
         {{ range .faq_item }}
         {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
         <div class="mb-4">
-          <h4 class="mb-3 border-bottom pb-3" id="title_reference">{{$.Scratch.Get `counter`}}. {{ .title | markdownify }}</h4>
+          <h4 class="mb-3 border-bottom pb-3" id="{{ .File.UniqueID }}">{{$.Scratch.Get `counter`}}. {{ .title | markdownify }}</h4>
           <p>{{ .content | markdownify }}</p>
         </div>
         {{ end }}
