@@ -150,3 +150,7 @@ mailchimp_form_name = "mc-embedded-subscribe-form"
 [[params.social]]
 icon = "tf-ion-social-facebook"
 link = "https://www.facebook.com/WOgrodzieViadrusa/"
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
