@@ -11,6 +11,7 @@ faq:
     wiele więcej. Można nam pomagać na wielu płaszczyznach: '
   faq_item:
   - title: Wesprzyj finansowo
+    adres-odnosnika: ''
     content: "Wsparcie finansowe poprzez wpłatę darowizny na cele statutowe na nasze
       konto,  przez\n\n[<button class=\"btn btn-hero btn-rounded mt-3\"> PayPal </button>](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=DRHY6HS3CYW6Y&fbclid=IwAR1T6jsV6hjK87leQ7tkEPl3m_o6gPCTFEC4Lvxm6A-T7PedRIQ-cDEKqvk)\n\nlub
       kod QR\n\n![QR kod do wpłat na Stowarzyszenie](/images/qr_viadrus.png)  \nStowarzyszenie
@@ -18,6 +19,7 @@ faq:
       PL70 1750 0012 0000 0000 4076 6391**  \nSWIFT: **PPABPLPKXXX**"
     color: ''
   - title: Przekaż dary rzeczowe
+    adres-odnosnika: ''
     content: "**Karma jest dla nas produktem pierwszej potrzeby.**  \nProsimy o:\n\n*
       **mokrą karmę wysokomięsną dla psów**  \n  np. Rinti, Rocco, Wiejska Zagroda,
       Dolina Noteci,\n* **suchą karmę dla kotów seniorów oraz kotów kastratów, mokrą
@@ -28,6 +30,7 @@ faq:
       509 794 333  \n  Paczkomat Inpost: LBR01M, Hallera 2,  Lewin Brzeski"
     color: ''
   - title: Wrzuć do puszki
+    adres-odnosnika: ''
     content: "Wrzucić darowiznę do puszki lub umieścić jedną z naszych puszek w jakimś
       miejscu.  \nProwadzimy zbiórki publiczne zarejestrowane w Ministerstwie Cyfryzacji.
       \ \nChcesz nam pomóc, umieść nasza puszkę w swojej firmie.  \nPuszki można znaleźć
@@ -39,11 +42,13 @@ faq:
       ze zbiórką dla Stowarzyszenia](/images/puszka-image-main.jpg \"Tytuł zdjęcia\")"
     color: ''
   - title: Zakupy w akcji dlaschroniska.pl
+    adres-odnosnika: ''
     content: |-
       Viadrusową ferajnę można wspierać za pośrednictwem platformy [www.dlaschroniska.pl.](http://www.dlaschroniska.pl/?fbclid=IwAR0Kftyn9cHhWaWgbZ1w5q8hEsjzGctBDA-9M2rclF9LmGxNJvHhk7H2F4U) Zasada jest prosta, możesz kupić jeden lub kilka produktów z listy naszych potrzeb, umieszczonej w serwisie np. puszkę dla psa lub kota, preparat przeciwpchelny czy tez witaminki, a my raz w miesiącu otrzymamy paczkę na adres hospicjum (jeśli łączna wartość produktów zebranych przez wszystkie zwierzaki wyniesie min. 500 zł).
 
       ![](/uploads/baner-dla-schroniska-2.jpg)
   - title: Zbiórki odzieży
+    adres-odnosnika: ''
     content: "Możesz przekazać na naszą rzecz używane, ale **w dobrym stanie,** ubrania.
       \  \nPomóc możecie nam również, nie wydając ani jednej własnej złotówki. Jak?
       \ \nWystarczy, że w kampanii [ubraniadooddania.pl](www.ubraniadooddania.pl \"Ubrania
@@ -57,6 +62,7 @@ faq:
       \ \nW sposób ciągły zbieramy:  \n[https://www.ubraniadooddania.pl/foundations/191](https://www.ubraniadooddania.pl/foundations/191)"
     color: "#E58E8E"
   - title: Zakupy z Fanimani
+    adres-odnosnika: ''
     content: "Jeżeli robisz zakupy w Internecie, nieważne czy są to buty, elektronika,
       kosmetyki czy książki, możesz nas bezpłatnie wspierać. Z każdego Twojego zakupu
       średnio 2,5% jego wartości trafi do naszej organizacji, jeśli zaczniesz korzystać
