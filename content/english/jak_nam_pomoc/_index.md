@@ -18,7 +18,7 @@ faq:
       Brzeski,  \nNIP **7471908079 PL70 1750 0012 0000 0000 4076 6391**  \nSWIFT:
       **PPABPLPKXXX**"
     color: ''
-  - title: Przekaż dary rzeczowe
+  - title: Przekaż dary rzeczowe{#id-goes-here}
     content: "**Karma jest dla nas produktem pierwszej potrzeby.**  \nProsimy o:\n\n*
       **mokrą karmę wysokomięsną dla psów**  \n  np. Rinti, Rocco, Wiejska Zagroda,
       Dolina Noteci,\n* **suchą karmę dla kotów seniorów oraz kotów kastratów, mokrą
