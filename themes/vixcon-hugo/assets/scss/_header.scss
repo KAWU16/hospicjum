@@ -175,6 +175,11 @@ label{
       color: $white;
     }
   }
+  .list-inline{
+    @media (max-width: 450px){
+      margin-top: 2.3em;
+    }
+  }
 
   .divider {
     width: 100px;
