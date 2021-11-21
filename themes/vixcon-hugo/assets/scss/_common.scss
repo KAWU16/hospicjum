@@ -211,6 +211,11 @@ a {
       position: relative;
       display: flex;
       justify-content: space-evenly;
+      @media (max-width: 450px){
+        flex-direction: column;
+        margin: 0px auto;
+        margin-left: 15vw;
+      }
       .counter-event p{
         font-size: 2em;
         font-weight: 800;
