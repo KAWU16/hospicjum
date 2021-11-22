@@ -169,6 +169,9 @@ a {
 .nav-tabs {
   width: 50%;
   margin: 0 auto;
+  @media (max-width: 480px){
+    width: 90%;
+  }
   .nav-link.active{
     background-color: #ffd837;
     border-color: #ffd837;
