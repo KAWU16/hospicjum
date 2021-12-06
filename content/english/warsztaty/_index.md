@@ -16,10 +16,14 @@ warsztat:
     schedule_items:
     - time: ''
       image: ''
-      content: "### Psitarg\n\nZapraszamy do wyjątkowego świątecznego Psitargu. Spieszcie
-        się, bo licytować można tylko do **10 grudnia do godz. 21.00**.  \n\n[https://www.facebook.com/groups/838988082979133](https://www.facebook.com/groups/838988082979133
-        \"Psitarg edycja grudniowa\")\n\n<div class=\"simple-images-row\"> <img src=\"/uploads/received_231695212408883.jpg\"
-        alt=\"\"></div>"
+      content: |-
+        ### Psitarg
+
+        Zapraszamy do wyjątkowego świątecznego Psitargu. Spieszcie się, bo licytować można tylko do **10 grudnia do godz. 21.00**.
+
+        [https://www.facebook.com/groups/838988082979133](https://www.facebook.com/groups/838988082979133 "Psitarg edycja grudniowa")
+
+        <div class="simple-images-row"> <a href="[https://www.facebook.com/groups/838988082979133](https://www.facebook.com/groups/838988082979133 "https://www.facebook.com/groups/838988082979133")" target="_blank"><img src="/uploads/received_231695212408883.jpg" alt=""></a></div>
     - time: ''
       image: ''
       content: |-
