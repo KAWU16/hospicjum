@@ -201,10 +201,11 @@ a {
 /*proste zdjecia w rzędzie*/
 .simple-images-row {
   display: flex;
-  flex-wrap: wrap
-}
-.simple-images-row img {
-  margin: .3em .3em;
+  flex-wrap: wrap;
+    img {
+    margin: .3em .3em;
+    max-width: 100%;
+    }
 }
 /*wydarzeneipod banerem*/
 .event-base{
