@@ -48,6 +48,5 @@ warsztat:
   - title: Luty
     date_time: ''
     schedule_items: []
-draft: true
 
 ---
