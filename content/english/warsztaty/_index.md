@@ -19,15 +19,9 @@ warsztat:
       content: |-
         ### Psitarg
 
-        Zapraszamy do wyjątkowego świątecznego Psitargu. Spieszcie się, bo licytować można tylko do 10 grudnia do godz. 21.00.  https://www.facebook.com/groups/838988082979133
+        Zapraszamy do wyjątkowego świątecznego Psitargu. Spieszcie się, bo licytować można tylko do **10 grudnia do godz. 21.00**.  [https://www.facebook.com/groups/838988082979133](https://www.facebook.com/groups/838988082979133 "Psitarg edycja grudniowa")
 
-        <div class="simple-images-row">
-        <img src="/uploads/warsztaty1.jpg" alt="">
-        <br>
-        <img src="/uploads/warsztaty1-a.jpg" alt="">
-        <br>
-        <img src="/uploads/warsztaty1-b.jpg" alt="">
-        </div>
+        <div class="simple-images-row"> <img src="/uploads/received_231695212408883.jpg" alt=""></div>
     - time: ''
       image: ''
       content: |-
