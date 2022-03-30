@@ -17,6 +17,7 @@ faq:
       kod QR\n\n![QR kod do wpłat na Stowarzyszenie](/images/qr_viadrus.png)  \nStowarzyszenie
       „W ogrodzie Viadrusa”,  \nOldrzyszowice 94, 49-340, Lewin Brzeski,  \nNIP **7471908079
       PL70 1750 0012 0000 0000 4076 6391**  \nSWIFT: **PPABPLPKXXX**"
+    id-number: '1'
     color: ''
   - title: Przekaż dary rzeczowe
     adres_odnosnika: ''
