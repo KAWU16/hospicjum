@@ -27,8 +27,8 @@
         {{ $.Scratch.Set "counter" 0 }}
         {{ range .faq_item }}
         {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
-        <div id="{{ index (seq 10 | shuffle) 0 }}" class="mb-4">
-          <h4 class="mb-3 border-bottom pb-3">{{$.Scratch.Get `counter`}}. {{ .title | markdownify }}</h4>
+        <div class="mb-4">
+          <h4 id="{{ index (seq 3 | shuffle) 0 }}" class="mb-3 border-bottom pb-3">{{$.Scratch.Get `counter`}}. {{ .title | markdownify }}</h4>
           <p>{{ .content | markdownify }}</p>
         </div>
         {{ end }}
