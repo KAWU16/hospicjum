@@ -5,10 +5,10 @@ description = "this is meta description"
 designation = ""
 email = ""
 image = "/uploads/basia.jpg"
-layout = "obecni"
+layout = "odeszli"
 skill = []
 title = "Basia"
-type = "obecni"
+type = "odeszli"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
