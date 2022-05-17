@@ -70,6 +70,26 @@ projekty:
       nami, ale przede wszystkim wiele satysfakcji z racji działania na rzecz naszej
       małej ojczyzny, jak to ładnie mówią - Heimatu.</p><p><img src="/uploads/grant2.jpg"></p>
     color: ''
+  - title: Wsparcie doraźne w ramach PROO
+    content: "Stowarzyszenie \"W ogrodzie Viadrusa\" pragnie poinformować, iż zakończyła
+      realizację zadania pn.„ Wsparcie doraźne Stowarzyszenia \"W ogrodzie Viadrusa\"
+      poprzez zakup niezbędnego sprzętu ”.  \nZadnie zostało zrealizowane w ramach
+      Programu Rozwoju Organizacji Obywatelskich na lata 2018-2030 w ramach konkursu
+      PROO Priorytet 5 Wsparcie doraźne. Program Rozwoju Organizacji Obywatelskich
+      to pierwszy w historii program bezpośredniego wsparcia rozwoju polskich organizacji
+      obywatelskich. Dotacje w ramach programu będą przydzielane na rozwój instytucjonalny
+      organizacji oraz realizację ich celów statutowych.  \nWniosek o numerze 46563
+      został złożony przez Stowarzyszenie do Narodowego Instytutu Wolności – Centrum
+      Rozwoju Społeczeństwa Obywatelskiego, a następnie rekomendowany do dofinansowania.
+      \ \nPo zawarciu umowy oraz oraz otrzymaniu środków finansowych na konto Stowarzyszenia,
+      zakupiono glebogryzarkę wraz z niezbędnym osprzętem oraz przyczepką. Powyższy
+      sprzęt będzie wykorzystywany do realizacji celów statutowych oraz pomoże w realizacji
+      bieżących przedsięwzięć o charakterze społecznym, których podjął się beneficjent.
+      \ \nSzczegółowe informacje na temat sposobu uzyskania wsparcia oraz priorytetów
+      znajdują się na stronie Narodowego Instytutu Wolności – Centrum Rozwoju Społeczeństwa
+      Obywatelskiego pod adresem: [https://niw.gov.pl/nasze-programy/proo/](https://niw.gov.pl/nasze-programy/proo/
+      \"https://niw.gov.pl/nasze-programy/proo/\")\n\n![](/uploads/277521463_5825896344093835_9056597065797562333_n.jpg)"
+    color: ''
   support:
     enable: true
     title: Jeżeli masz jakiekolwiek pytania zapraszamy do kontaktu
