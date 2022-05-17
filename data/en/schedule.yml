@@ -8,8 +8,7 @@ schedule:
   enable : true
   title_outline : "nowe"
   title : "wydarzenia"
-  content : "Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aeneansollicitudin, lorem quis bibendum
-              auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
+  content : ""
   schedule_tab:
     ################# tab itam loop ################
     - title : "11.12.2019"

@@ -86,8 +86,7 @@ speaker:
   enable : true
   title_outline : "nasi"
   title : "podopieczni"
-  content : "Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aeneansollicitudin, lorem quis bibendum
-              auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
+  content : ""
   # speaker content comes from "content/speaker" folder
 
 ######################### sponsor ############################
@@ -195,5 +194,5 @@ blog:
   enable : true
   title_outline : "wiadomości"
   title : "ze świata Viadrusa"
-  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  content : ""
   # blog content comes from "content/blog" folder
