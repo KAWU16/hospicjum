@@ -1,32 +1,17 @@
 +++
 bg_image = "/uploads/main-photo_2.jpg"
-date = 2019-09-10T07:51:25Z
+date = 2022-05-18T07:51:25Z
 description = "this is meta description"
 designation = ""
-draft = true
 email = ""
-image = "/uploads/bolus.jpg"
+image = "/uploads/reksio.jpg"
 layout = "obecni"
+skill = []
 title = "Reksio"
 type = "obecni"
-[[skill]]
-content = "Cześć, jestem Bolek, mam około 17 lat. 15 lat spędziłem w schronisku. Jestem malutki, chudziutki oraz bardzo kruchy i sam się zastanawiam, jak przez te wszystkie lata dałem sobie radę. Życie miałem smutne, a ostatnio pogryźli mnie bracia w niedoli. Dwie ciocie [Ula SKowron](https://www.facebook.com/profile.php?id=100009144237427&__cft__%5b0%5d=AZUOaDroHvmdCcactk5C-xWtet-gnxLufwQtWb2Vafm71LluzNAp1aKrtpxKmnIRvFs0MtK0zAcqD6NdW_C25LwCtoQZItwXgV7hsoBvsvL9foTmaxA4Q8N4pcZXA_oFoql6v9iSRQ6fvqI6Cg3uyVZcbKlK4ccgtY3PWP9ssOH2NdOwUXpaN3_lzbR5okw-Nqo&__tn__=-%5dK-R) i [Jadwiga Silicka](https://www.facebook.com/profile.php?id=100008676721448&__cft__%5b0%5d=AZUOaDroHvmdCcactk5C-xWtet-gnxLufwQtWb2Vafm71LluzNAp1aKrtpxKmnIRvFs0MtK0zAcqD6NdW_C25LwCtoQZItwXgV7hsoBvsvL9foTmaxA4Q8N4pcZXA_oFoql6v9iSRQ6fvqI6Cg3uyVZcbKlK4ccgtY3PWP9ssOH2NdOwUXpaN3_lzbR5okw-Nqo&__tn__=-%5dK-R), niezależnie od siebie, bardzo chciały znaleźć mi dom. I tak trafiłem do viadrusowej ferajny, bo właśnie dziś ciocia [Ula SKowron](https://www.facebook.com/profile.php?id=100009144237427&__cft__%5b0%5d=AZUOaDroHvmdCcactk5C-xWtet-gnxLufwQtWb2Vafm71LluzNAp1aKrtpxKmnIRvFs0MtK0zAcqD6NdW_C25LwCtoQZItwXgV7hsoBvsvL9foTmaxA4Q8N4pcZXA_oFoql6v9iSRQ6fvqI6Cg3uyVZcbKlK4ccgtY3PWP9ssOH2NdOwUXpaN3_lzbR5okw-Nqo&__tn__=-%5dK-R) wraz z rodziną przywiozła mnie do mojego nowego domu. Na razie trochę tylko popatrzyłem w kąty i poczułem się zmęczony, więc teraz będę spał, ale zostańmy w kontakcie."
-icon = "/uploads/bolus-1.jpg"
-title = "31.10.2020"
-[[skill]]
-content = "Prezes Misiek i pozostała ferajna zazdroszczą Bolusiowi. Powód - Bolutek otrzymał dziś paczkę na jego dane osobowe od Agi Pietruckiej. Misiek pamięta te czasy, jak przychodziły paczki od ciotki z Ameryki i nie będzie dziś mógł spać. Zwija go z zazdrości. Ciekawe czy Boluś się podzieli?"
-icon = "/uploads/bolus-2.jpg"
-title = "3.11.2021"
-[[skill]]
-content = "Spójrzcie jak pięknie Bolusiowi schodzi wielki strupol po ranie, która powstała na skutek pogryzienia przez schroniskowe psy. Staruszek już powoli o tym zapomina, jeszcze chwila strup całkiem zejdzie i Boluś będzie myślał, że to był tylko zły sen."
-icon = "/uploads/bolus-3.jpg"
-title = "Strupol"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
 
 +++
-Boluś ma około 17 lat, a 15 lat, czyli praktycznie całe swoje życie spędził w schronisku. W 2020 roku pogryzły go schroniskowe psy, co stało się dla niego szczęściem w nieszczęściu. Dzięki temu tragicznemu wydarzeniu, zaczęto intensywnie szukać dla niego domu. I tak ciocia Ula Srowron przywiozła go do naszego hospicjum. Boluś jest kochanym, cichutkim, nikomu nie wadzącym pieskiem. Lubi spędzać czas w swoim relaksującym legowisku, chętnie przekąsi smaczek. Dopomina się pieszczot i obecności człowieka, ale robi to nienachalnie, wręcz jakby przepraszał, że angażuje swoją osobą.
-
-**Potrzeby:**  
-Karma dla seniora, Karsivan, Synoquin lub Sizarol, Vetomune
+Reksio – stareńki, mały, niewidomy. Przyszedł do nas z miejsca, w którym nie było mu dobrze. Zaniepokoił nas jego dziwnie rozdęty brzuch. Już w pierwszym tygodniu pobytu u nas, zrobiliśmy badania i okazało się, ze ma dużego guza na wątrobie 6cm x 7cm. Wdrożyliśmy leczenie i żyjemy chwilą ![😊](https://fonts.gstatic.com/s/e/notoemoji/14.0/1f60a/32.png).
