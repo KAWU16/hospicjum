@@ -18,12 +18,12 @@ banner:
 timer:
   enable : true
   title : "Nadchodzące wydarzenia"
-  subtitle: "Mikołajkowe warsztaty dla dzieci (18.12.2021)"
+  subtitle: "Lawendowe warsztaty"
   # set timer
-  year: "2020"
-  month: "09"
-  day: "01"
-  hour: "01"
+  year: "termin wkrótce"
+  month: ""
+  day: ""
+  hour: ""
 
 ############################## Event ##############################
 event:
