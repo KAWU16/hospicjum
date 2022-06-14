@@ -44,6 +44,11 @@ cta:
   subtitle : "O nas"
   title : "Kim jest ekipa Viadrusa?"
   image : "images/banner/ekipa-celina-alt.jpg"
+  image_desc :
+  image2 : 
+  imag2_desc :
+  image3 :
+  imag3_desc :
   button:
     enable : true
     label : "Więcej"
