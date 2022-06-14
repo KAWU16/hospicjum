@@ -2,15 +2,23 @@
 author = ""
 bg = "/uploads/main-photo_2.jpg"
 categories = []
-date = 2021-11-14T23:00:00Z
+date = 2022-06-13T22:00:00Z
 description = ""
-draft = true
-image = "/uploads/pilne.jpg"
-summary = "Czy ktoś ma do pożyczenia lub użyczenia glebogryzarkę? Niestety nasz sprzęt odmówił posłuszeństwa i już otrzymaliśmy potwierdzenie, że awaria jest trwała."
+image = "/uploads/lawenda5.jpg"
+summary = "Wakacje za pasem lawenda powoli zaczyna nabierać rumieńców, mięta szaleje, inne zioła także nie narzekają na warunki. "
 tags = []
 title = "Warsztaty z lawendą"
 type = "post"
 
 +++
-Wiecie, że nasze stowarzyszenie korzysta z darów natury pochodzących z naszego sadu oraz winnicy, a środki zdobyte dzięki własnym owocom i roślinom wspierają działalność statutową „Viadrusa”. Mamy nadzieję, że dzięki odpłatnej działalności pożytku publicznego (tj. sprzedaż własnych owoców, przetworów, lawendy czy też hydrolatów) w coraz większym stopniu będziemy mogli finansować cele naszej organizacji, w tym w głównej mierze hospicjum dla zwierząt. Awaria zaskoczyła nas w najgorszym momencie. Praca w ogrodzie ciągle trwa. Przygotowujemy się do warsztatów zaplanowanych już na początek marca. Rozpoczęliśmy również realizację zadania pod roboczą nazwą „viadrusowy ogród sensoryczny”, by odbiorcy naszych działań mogli korzystać z dobrodziejstw matki natury. Właściwa realizacja tych działań i inicjatyw wymaga jednak sprzętu, który właśnie nam się zespół, a czas na prace w ogrodzie, które będą procentowały zbiorami w przyszłym roku, niestety ucieka, a my zostaliśmy bez sprzętu.  
-PS. Być może ktoś chciażby nas wesprzeć i pomóc w zakupie nowej glebogryzarki. Wszystkich darczyńców, którzy pomogą nam w zakupie nowego sprzętu, w przyszłym roku obdarujemy owocami z viadrusowego sadu lub lawendą z viadrusowego pola lawendy :).
+Zatem już planujemy cykl warsztatów. Na początek warsztaty lawendowe. Pytacie jak wyglądają takie warsztaty i co będzie się na nich działo? To odpowiadamy. Szału z lawendą w tym roku nie będzie, ale na pewno zrobimy bukiety lawendowe, przy okazji racząc się pięknym zapachem tego zioła (aromaterapia ![😉](https://ci5.googleusercontent.com/proxy/DuwqR7gOV8yiPjCMu_Xy-ThHRlSQF3thMjsP8S2GhM4mHjzuX8O9-3lm9X0tG625RkldhGzmzSZj-8rGbeRfOigcQLcMMmBoASVfm4rBCMlDgyMyjjG1=s0-d-e1-ft#https://static.xx.fbcdn.net/images/emoji.php/v9/tb0/1.5/16/1f609.png =16x16) ). Uruchomimy alembik i przeprowadzimy proces destylacji lawendy, a także mięty, której jest u nas od zatrzęsienia. Wiele olejku z tego procesu nie powstanie, natomiast w wyniku destylacji parą wodną, na pewno uzyskamy dużo hydrolatu.
+
+![](/uploads/lawenda6.jpg)
+
+![](/uploads/lawenda1.jpg)
+
+A czym jest hydrolat? To surowiec, który otrzymuje się z liści bądź kwiatów dzięki metodzie destylacji z parą wodną. Podobnie jak olejki eteryczne, hydrolaty to czyste esencje roślinne, tyle że w łagodniejszej, bo rozcieńczonej formie. Dzięki temu mogą być one stosowane bezpośrednio na skórę (w formie toniku lub odświeżającej mgiełki zapachowej). Warsztaty są czasem relaksu i odpoczynku, więc będziemy popijać orzeźwiającą lemoniadę, przygotowaną wcześniej z cytryny, mięty i lawendy, a także będziemy sobie piekły podpłomyki i wcinały je z własnym syropem cytrynowym. Będzie kupa śmiechu i zabawy, zatem już dziś zapraszamy. Nikt nie wyjdzie z naszych warsztatów spragniony, głodny czy smutny. Ten czas ma służyć odpoczynkowi, regeneracji i wyciszeniu.
+
+![](/uploads/lawenda2.jpg)
+
+![](/uploads/lawenda3.jpg)
