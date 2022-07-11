@@ -2,16 +2,13 @@
 author = ""
 bg = ""
 categories = []
-date = 2021-10-31T23:00:00Z
+date = 2022-07-08T22:00:00Z
 description = ""
-draft = true
-image = "/uploads/mydlo-1.jpg"
-summary = "Kochani, jak część z Was wie, oprócz opieki nad zwierzętami i prowadzenia hospicjum, działamy również na rzecz ekologii, edukacji oraz promocji zasobów naturalnych regionu."
+image = "/uploads/291355370_3261211544150936_8539074964598368858_n.jpg"
+summary = "Dobra zabawa zapowiada się na Rodzinnym Eko-pikniku, który odbędzie się w Oldrzyszowicach w dniu 9 lipca br."
 tags = []
 title = "Zapraszamy na eko-piknik w Oldrzyszowicach"
 type = "post"
 
 +++
-Kochani, jak część z Was wie, oprócz opieki nad zwierzętami i prowadzenia hospicjum, działamy również na rzecz ekologii, edukacji oraz promocji zasobów naturalnych regionu. Wczoraj Celka przeprowadziła zajęcia dla lokalnej grupy dzieci i młodzieży z zakresu wytwarzania naturalnych kosmetyków (w pełni roślinnych, bez oleju palmowego, nawet folia do zawijania mydełek jest biodegradowalna). Dzieciaki dowiedziały się czym zajmuje się nasze hospicjum dla zwierząt, a część nawet już nas znała. Zajęcia zakończyły się przesympatycznym akcentem. Dzieciaki przekazały część własnoręcznie wykonanych mydełek na licytację na [Psitarg - czyli licytacja na viadrusową ferajnę.](https://www.facebook.com/groups/838988082979133/?__cft__\[0\]=AZU_SWhTeEiHyYX31zhIsFCeSZrhwS_dAT1tFulN-si7laSXRbLQ-wcaf95MpPB18OUPCJgrz_u8LmXwjZkAX2b6USDK76KFkShi5o4BBkZycyycsmla5u9ExATZQSoCMEA_Z_1trseISeIojUql65ClkuvknoT2uryKAY7fh-pzLSPyFl9dGEKk4cBtj0CFHkaEDsWZNSLof3n2hzD-8yhXg7NzVA2AmYQUKqN1dTDo1oncvJPwfYNeTLrPfIn_JyU&__tn__=-UK-R) (niedługo kolejna edycja :))
-
-![Warsztaty mydlarskie](/uploads/mydlo-3.jpg)![Mydła wykonane na warsztatach](/uploads/mydlo-2.jpg)
+Dobra zabawa zapowiada się na Rodzinnym Eko-pikniku, który odbędzie się w Oldrzyszowicach w dniu 9 lipca br. Dzięki funduszom pochodzącym z projektu w ramach programu NOWE FIO na lata 2021-2030 priorytet I, finansowanego z krajowych środków publicznych pochodzących z budżetu państwa w ramach projektu „Kierunek NOWE FIO”, Rada Sołecka Oldrzyszowic wraz z patronem Stowarzyszeniem “W ogrodzie Viadrusa” przygotowała wieczór pełen atrakcji [n.in](http://n.in/). animatorów, warsztaty, naukę pierwszej pomocy przeprowadzona z wykwalifikowaną kadrą Straży pożarnej, konkursy z nagrodami, watę cukrową i wiele wiele innych
