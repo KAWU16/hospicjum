@@ -10,13 +10,7 @@
       <div class="row align-items-center">
         <div class="col-lg-7">
           <div class="cta-content">
-            <span class="lead">{{ .subtitle | markdownify }}</span>
             <h2 class="mt-3 mb-4 text-md title">{{ .title | markdownify }}</h2>
-            {{ if .button.enable }}
-            {{ with .button }}
-            <a href="{{ .link | absLangURL }}" class="btn btn-secondary btn-rounded">{{ .label }}</a>
-            {{ end }}
-            {{ end }}
           </div>
         </div>
         <div class="col-lg-5 mt-5 mt-lg-0 d-none d-lg-block">
