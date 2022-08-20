@@ -8,6 +8,33 @@ projekty:
   title: ''
   content: ''
   projekty_item:
+  - title: Ekologiczne lato w Oldrzyszowiach
+    content: "_Od 15 czerwca do 31 lipca 2022r. realizowany był projekt pn.\"Ekologiczne
+      lato w Oldrzyszowicach\". Głównym celem projektu było zwiększenie integracji
+      i aktywności społecznej mieszkańców sołectwa Oldrzyszowice poprzez realizację
+      działań obejmujących inicjatywy o charakterze społecznym, edukacyjnym i ekologicznym
+      oraz zwiększenie świadomości ekologicznej mieszkańców Oldrzyszowic.Projekt był
+      wspólną inicjatywą Stowarzyszenia oraz grupy inicjatywnej \"Oldrzyszowianki\"_
+      w osobach Judyty Kłonowskiej – Sołtys Oldrzyszowic, Gabrieli Wieloch – członka
+      Rady Sołeckiej oraz Sylwii Filip – członka Rady Sołeckiej.\n\nW ramach realizowanego
+      projektu w dniu 9 lipca odbył się Rodzinny Eko-piknik, którego program był bogaty
+      w wydarzenia edukacyjne (warsztaty), sportowe i rozrywkowe. Dla każdego coś
+      miłego, bo i można było smacznie zjeść i wypić coś chłodnego. Dzieciaki podczas
+      warsztatów mogły m.in. zrobić własny hotelik dla owadów zapylających lub wykonać
+      eko malunki. Wspaniała i głośna zabawa przy rodzinnym przeciąganiu liny czy
+      w wyścigach w workach, integrowała młodych i starszych, a na maluchy czekała
+      moc atrakcji na 2 dmuchańcach. Ogromnym zainteresowaniem cieszyło się stoisko
+      [Ochotnicza Straż Pożarna, Oddział Ratownictwa Wodnego w Opolu](https://www.facebook.com/OSPORW.Opole/?__cft__\\[0\\]=AZUCj-3Ey5gcWxUIEnvybQAFzJrhBZutJjfl33ZBdIqbcpbGks5NfDkZxwf2sUC2vseFtkDiMALQW3_YZC58PXqIB6XAzW-HqC_VqyiVEgYgqy7Zgtmm2_Io0gcYuHTH3Soq0wzsuZm15YXvG2i4Plpztl24txZOrVZ3Nr3CpolbQ_ySf-_MTfLMBfBHq4GtLUPOj_J5v6wG5WcmZD-75ee3&__tn__=kK-R).
+      Strażacy prowadzili pokazy resuscytacji, ale także opowiadali o bezpieczeństwie
+      nad wodą. Każdy kto chciał mógł poczuć się jak prawdziwy ratownik, wchodząc
+      do strażackiej motorówki. Przez całe wydarzenie nad oprawą muzyczną czuwał DJ,
+      a dokumentację zdjęciową wykonała Pani Małgorzata z [Obiektywnie](https://www.facebook.com/obiektywnie.opole?__cft__\\[0\\]=AZUCj-3Ey5gcWxUIEnvybQAFzJrhBZutJjfl33ZBdIqbcpbGks5NfDkZxwf2sUC2vseFtkDiMALQW3_YZC58PXqIB6XAzW-HqC_VqyiVEgYgqy7Zgtmm2_Io0gcYuHTH3Soq0wzsuZm15YXvG2i4Plpztl24txZOrVZ3Nr3CpolbQ_ySf-_MTfLMBfBHq4GtLUPOj_J5v6wG5WcmZD-75ee3&__tn__=-\\]K-R).
+      \ \n  \n_Zadanie sfinansowano ze środków pozyskanych przez Opolskie Centrum
+      Wspierania Inicjatyw Pozarządowych w ramach projektu KIERUNEK NOWE FIO finansowanego
+      ze środków Narodowego Instytutu Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego
+      w Ramach Rządowego Programu Fundusz Inicjatyw Obywatelskich Nowe FIO na lata
+      2021 – 2030._"
+    color: ''
   - title: Kobieta piękna z natury
     content: "W okresie od 1 października 2019r. do 14 czerwca 2020r. realizowaliśmy
       projekt pn. \"Kobieta piękna z natury\" finansowany ze środków Fundacji Orlen
