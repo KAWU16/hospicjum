@@ -52,7 +52,7 @@ cta:
   button:
     enable : true
     label : "Więcej"
-    link : "historia_powstania"
+    link : "ekipa"
 
 ############################# Feature ###########################
 feature:
