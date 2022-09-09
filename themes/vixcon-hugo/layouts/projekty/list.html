@@ -15,8 +15,8 @@
       </div>
     </div>
 
-    <div class="row justify-content-center accordion-box">
-      <div class="col-lg-8">
+    <div class="row justify-content-center accordion-box" style="max-width: 100%;">
+      <div class="col-lg-8" style="flex:unset;max-width:unset;column-count:2;break-after: avoid;">
         {{ range .projekty_item }}
         <div class="mb-4">
           <h4 class="mb-3 border-bottom pb-3">{{$.Scratch.Get `counter`}} {{ .title | markdownify }}</h4>
