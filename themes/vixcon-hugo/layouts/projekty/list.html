@@ -4,7 +4,7 @@
 
 {{ with .Params.projekty }}
 <section class="section faq">
-  <div class="container">
+  <div class="container" style="max-width: 100%;">
     <div class="row justify-content-center mb-5">
       <div class="col-lg-8">
         <div class="heading">
@@ -16,9 +16,9 @@
     </div>
 
     <div class="row justify-content-center accordion-box" style="max-width: 100%;">
-      <div class="col-lg-8" style="flex:unset;max-width:unset;column-count:2;break-after: avoid;">
+      <div class="col-lg-8" style="flex:unset;max-width:unset;column-count:3;break-after: avoid;">
         {{ range .projekty_item }}
-        <div class="mb-4" style="padding:2rem;background-color:whitesmoke;">
+        <div class="mb-4" style="padding:2rem;background-color:whitesmoke;break-inside: avoid;">
           <h4 class="mb-3 border-bottom pb-3">{{$.Scratch.Get `counter`}} {{ .title | markdownify }}</h4>
           <p>{{ .content | markdownify }}</p>
         </div>
