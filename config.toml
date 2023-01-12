@@ -7,7 +7,7 @@ theme = "vixcon-hugo"
 title = "Hospicjum dla zwierząt Stowarzyszenia W Ogrodzie Viadrusa"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2021 Stowarzyszenie w Ogrodzie Viadrusa"
+copyright = "Copyright &copy; 2023 Stowarzyszenie w Ogrodzie Viadrusa"
 footer_content = "Lorem ipsum"
 home = "Home"
 languageCode = "en-us"
