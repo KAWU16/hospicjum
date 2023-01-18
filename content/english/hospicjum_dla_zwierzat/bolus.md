@@ -6,8 +6,8 @@ bg_image: "/uploads/main-photo_2.jpg"
 image: "/uploads/bolus.jpg"
 designation: ''
 email: ''
-type: obecni
-layout: obecni
+type: odeszli
+layout: odeszli
 social:
 - icon: tf-ion-social-facebook
   link: "#"
