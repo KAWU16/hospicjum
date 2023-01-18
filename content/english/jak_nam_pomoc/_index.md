@@ -16,7 +16,9 @@ faq:
       konto,  przez\n\n[<button class=\"btn btn-hero btn-rounded mt-3\"> PayPal </button>](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=DRHY6HS3CYW6Y&fbclid=IwAR1T6jsV6hjK87leQ7tkEPl3m_o6gPCTFEC4Lvxm6A-T7PedRIQ-cDEKqvk)\n\nlub
       kod QR\n\n![QR kod do wpłat na Stowarzyszenie](/images/qr_viadrus.png)  \nStowarzyszenie
       „W ogrodzie Viadrusa”,  \nOldrzyszowice 94, 49-340, Lewin Brzeski,  \nNIP **7471908079
-      \nPL70 1750 0012 0000 0000 4076 6391**  \nSWIFT: **PPABPLPKXXX** \n**20 1750 0012 0000 0000 3882 8746** BNP Paribas"
+      \nPL70 1750 0012 0000 0000 4076 6391** 
+      \nSWIFT: **PPABPLPKXXX**
+      \n**20 1750 0012 0000 0000 3882 8746** BNP Paribas"
     id-number: '1'
     color: ''
   - title: Przekaż dary rzeczowe
