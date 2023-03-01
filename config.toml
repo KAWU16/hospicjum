@@ -1,4 +1,4 @@
-baseURL = "https://wogrodzieviadrusa.pl"
+baseURL = "wogrodzieviadrusa.pl"
 disableLanguages = []
 disqusShortname = "viadrus"
 paginate = "4"
