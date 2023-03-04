@@ -7,7 +7,7 @@ email = ""
 image = "/uploads/azorek.webp"
 layout = "obecni"
 skill = []
-title = "Niko"
+title = "Azorek"
 type = "obecni"
 [[social]]
 icon = "tf-ion-social-facebook"
