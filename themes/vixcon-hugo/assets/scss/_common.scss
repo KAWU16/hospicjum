@@ -283,3 +283,17 @@ h4.list-range-jak-pomoc{
   overflow: hidden;
   transition: max-height 0.7s ease-out;
 }
+
+/*projekty*/
+@media(min-width: 950px){
+  .projekty-list{
+    column-count: 2;
+  }
+}
+
+.projekty-list{
+    flex: unset;
+    max-width: unset;
+    column-count: 1;
+    break-after: avoid;
+}
