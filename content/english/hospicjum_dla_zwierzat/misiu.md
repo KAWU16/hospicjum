@@ -25,7 +25,6 @@ icon = "tf-ion-social-facebook"
 link = "#"
 
 +++
-Misiu trafił do hospicjum ze schroniska w Małopolsce. Ma około 16 lat, ale jest to wiek orientacyjny, trudny do końca do ocenienia ze względu na duże zaniedbania. Na cito musiał mieć robione zęby, które były w tragicznym stanie, miał wykonane badanie serca, regularnie ma badaną krew. Jak na swój wiek trzyma się całkiem nieźle pomimo, że bierze leki na tarczycę, niedowidzi już i niedosłyszy. Regularnie jest poddawany zabiegom magnetoterapii, gdyż odzywają się stany zwyrodnieniowe układu kostnego. Misiu to kochany słodziak. Piękny, przecudny, robi słodkie minki, ale jednocześnie myśli, że jest rottweilerem i próbuje kąsać po nogach przechodzące inne hospicyjne psy.
+Misiu trafił do hospicjum ze schroniska w Małopolsce w wieku około 16 lat, ale był to wiek orientacyjny, trudny do końca do ocenienia ze względu na duże zaniedbania. Na cito musiał mieć robione zęby, które były w tragicznym stanie, miał wykonane badanie serca, regularnie ma badaną krew. Jak na swój wiek trzymał się całkiem nieźle, pomimo że brał leki na tarczycę, niedowidział już i niedosłyszał. Regularnie był poddawany zabiegom magnetoterapii, gdyż odzywały się stany zwyrodnieniowe układu kostnego. Misiu to kochany słodziak. Piękny, przecudny, robi słodkie minki, ale jednocześnie myślał, że był rottweilerem i próbując kąsać po nogach przechodzące inne hospicyjne psy.
 
 **Potrzeby:**  
-Karma dla seniora, Karsivan, Synoquin lub Sizarol, Vetomune, Forthyron 200 mg
