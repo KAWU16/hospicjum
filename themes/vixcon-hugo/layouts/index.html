@@ -95,7 +95,7 @@
 {{ end }}
 <!-- /call to action -->
 
-<!-- feature -->
+<!-- feature 
 {{ if $data.homepage.feature.enable }}
 {{ with $data.homepage.feature }}
 <section id="section-feature">
@@ -105,7 +105,7 @@
       <div class="col-lg-4 col-md-6">
         <div class="feature-box">
           <i class="{{ .icon }}"></i>
-          <h4 class="mt-3 mb-3">{{ .name | markdownify }}</h4>
+          <span class="mt-3 mb-3">{{ .name | markdownify }}</span>
           <div class="divider"></div>
           <p class="accessibility-plugin-ac">{{ .content | markdownify }}</p>
         </div>
@@ -116,7 +116,7 @@
 </section>
 {{ end }}
 {{ end }}
-<!-- /feature -->
+ /feature -->
 
 <!-- schedule 
 
