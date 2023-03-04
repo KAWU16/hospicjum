@@ -13,3 +13,4 @@ NIP: 7471908079</br>
 KRS: 0000714392</br>
 Regon:  369284394</br>
 https://www.facebook.com/WOgrodzieViadrusa
+https://www.facebook.com/viadrusoldrzyszowice
