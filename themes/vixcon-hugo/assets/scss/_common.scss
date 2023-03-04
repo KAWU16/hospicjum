@@ -285,15 +285,14 @@ h4.list-range-jak-pomoc{
 }
 
 /*projekty*/
-@media(min-width: 950px){
-  .projekty-list{
-    column-count: 2;
-  }
-}
+
 
 .projekty-list{
     flex: unset;
     max-width: unset;
     column-count: 1;
     break-after: avoid;
+    @media(min-width: 950px){
+      column-count: 2;
+  }
 }
