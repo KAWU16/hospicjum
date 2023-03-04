@@ -12,6 +12,7 @@ img.img-fluid.logo-b {
   width: 100%;
   position: absolute;
   top: -1em;
+  max-width: 120px;
   @media (max-width: 480px){
     width: 75%;
   }
