@@ -5,7 +5,7 @@
 <!-- ekipa -->
   {{ if $data.ekipa.cta.enable }}
   {{ with $data.ekipa.cta }}
-  <section class="section cta-wrap">
+  <section class="section cta-wrap ekipa-section-img-desc">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-7">
@@ -13,17 +13,17 @@
             <h2 class="mt-3 mb-4 text-md title">{{ .title | markdownify }}</h2>
           </div>
         </div>
-        <div class="col-lg-5 mt-5 mt-lg-0 d-none d-lg-block ekipa-section-img-desc">
+        <div class="col-lg-5 mt-5 mt-lg-0 d-none d-lg-block">
           <img src="{{ .image | absURL }}" alt="" class="img-fluid">
           <p class="accessibility-plugin-ac">{{ .image_desc | markdownify }}</p>
         </div>
       </div>
     </div>
   </section>
-  <section class="section cta-wrap">
+  <section class="section cta-wrap ekipa-section-img-desc nth-element-ekipa">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-lg-5 mt-5 mt-lg-0 d-none d-lg-block ekipa-section-img-desc nth-element-ekipa">
+        <div class="col-lg-5 mt-5 mt-lg-0 d-none d-lg-block">
           <img src="{{ .image_2 | absURL }}" alt="" class="img-fluid">
           <p class="accessibility-plugin-ac">{{ .image_2_desc | markdownify }}</p>
         </div>
