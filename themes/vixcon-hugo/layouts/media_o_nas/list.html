@@ -26,19 +26,20 @@
       <div>
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/qX5fHsgnWxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
+      <div>
+        
+        <h3 style="padding:2rem 0;">{{ .video_description_second | markdownify }}</h3>
+  
+        <video width=100% controls>
+            <source src="/videos/VID-20221231-WA0004.mp4" type="video/webm">
+        </video>
+  
+      </div>
     </div>
     <div>
       <img src="https://www.wogrodzieviadrusa.pl/uploads/monitor-trzeciego-sektora.jpg" style="max-width: 100%;">
     </div>
-    <div>
-      <hr>
-      <h3 style="padding:2rem 0;">{{ .video_description_second | markdownify }}</h3>
-
-      <video width=100% controls>
-          <source src="/videos/VID-20221231-WA0004.mp4" type="video/webm">
-      </video>
-
-    </div>
+    
   </div>
 </section>
 {{ end }}
