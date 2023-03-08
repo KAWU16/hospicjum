@@ -183,6 +183,9 @@ a {
   justify-content: space-between;
   margin-top: 4em;
   gap: 2rem;
+  &.video-flex{
+    flex-direction: column;
+  }
   div {
     width: 50%;
     margin: 0 1em 0 0;
