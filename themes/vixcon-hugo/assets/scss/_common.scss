@@ -190,6 +190,10 @@ a {
   @media (max-width: 966px){
     &.video-flex{
       flex-direction: column;
+      gap: 0;
+      h4 {
+        padding-bottom: 0;
+      }
     }
   }
 }
