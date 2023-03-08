@@ -5,10 +5,10 @@ description = "Azorek"
 designation = ""
 email = ""
 image = "/uploads/azorek.webp"
-layout = "obecni"
+layout = "odeszli"
 skill = []
 title = "Azorek"
-type = "obecni"
+type = "odeszli"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
