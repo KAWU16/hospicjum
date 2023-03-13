@@ -53,5 +53,14 @@ sponsor:
     - logo: "/uploads/jaroslaw-drozd.png"
       link: "#"
       description: Jarosław Drozd - Rapid-Trans
+    - logo: "/uploads/dorota-domanska-logo.webp"
+      link: "#"
+      description: Dorota Domańska - MPPK Group
+    - logo: "/uploads/pan-miesko.webp"
+      link: "#"
+      description: Pan Mięsko
+    - logo: "/uploads/wiejska-zagroda-logo.webp"
+      link: "#"
+      description: Wiejska Zagroda
 
 ---
