@@ -7,7 +7,7 @@ email = ""
 image = "/uploads/gabrys-1.webp"
 layout = "obecni"
 skill = []
-title = "Garbyś"
+title = "Gabryś"
 type = "obecni"
 [[social]]
 icon = "tf-ion-social-facebook"
