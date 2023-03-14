@@ -2,45 +2,6 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-<!-- speaker style 1 -->
-<section class="section-speaker section">
-  <div class="container">
-    <div class="row section-heading">
-      <div class="col-lg-6">
-        <div class="heading">
-          <h2>{{ .Params.subtitle_1 }}</h2>
-          <div class="pl-90 content">
-            {{ .Params.lead_1 }}
-          </div>
-          <div>
-            <a href="#" class="btn btn-secondary btn-rounded mt-3 mt-lg-0">Zobacz naszych podopiecznych</a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      {{ range (where .Site.RegularPages "Type" "obecni") }}
-      <div class="col-lg-4 col-sm-6">
-        <div class="speaker-block mb-5">
-          <div class="img-block">
-            <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid"></a>
-            <!-- <ul class="list-inline speaker-social">
-              {{ range .Params.Social }}
-              <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-              {{ end }}
-            </ul> -->
-          </div>
-          <div class="speaker-info">
-            <h4 class="mb-0 mt-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-            <!-- <p>{{ .Params.Designation }}</p> -->
-          </div>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-<!-- /speaker style 1 -->
 
 <!-- speaker style 2 -->
 <section class="speaker-2 section bg-gray">
