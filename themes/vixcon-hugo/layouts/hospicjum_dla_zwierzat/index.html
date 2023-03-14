@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<!-- speaker style 1 -->
+<section class="section-speaker section">
+  <div class="container">
+    <div class="row section-heading">
+      <div class="col-lg-6">
+        <div class="heading">
+          <h2>{{ .Params.subtitle_1 }}</h2>
+          <div class="pl-90 content">
+            {{ .Params.lead_1 }}
+          </div>
+          <div>
+            <a href="#" class="btn btn-secondary btn-rounded mt-3 mt-lg-0">Zobacz naszych podopiecznych</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /speaker style 1 -->
+
+<!-- speaker style 2 -->
+<section class="speaker-2 section bg-gray">
+  <div class="container">
+    <div class="row section-heading">
+      <div class="col-lg-6">
+        <div class="heading">
+          <h2>{{ .Params.subtitle_2}}</h2>
+          <div class="pl-90 content">
+            {{ .Params.lead_2 }}
+          </div>
+          <div>
+            <a href="#" class="btn btn-secondary btn-rounded mt-3 mt-lg-0">Zobacz naszych podopiecznych</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /speaker style 2 -->
+
+{{ end }}
