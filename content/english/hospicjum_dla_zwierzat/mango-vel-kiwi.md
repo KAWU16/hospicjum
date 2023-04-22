@@ -5,10 +5,10 @@ description = ""
 designation = ""
 email = ""
 image = "/uploads/mango-vel-kiwi.jpg"
-layout = "obecni"
+layout = "odeszli"
 skill = []
 title = "Mango vel Kiwi"
-type = "obecni"
+type = "odeszli"
 [[social]]
 icon = "tf-ion-social-facebook"
 link = "#"
