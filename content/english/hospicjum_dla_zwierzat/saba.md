@@ -9,7 +9,7 @@ layout = "odeszli"
 title = "Saba"
 type = "odeszli"
 [[skill]]
-content = "Minęło 5 lat jak z jednej spod lewińskich wsi, odebraliśmy interwencyjnie Sabę. Zdjęcia są drastyczne, ale będziemy je publikować do znudzenia. Po co? Aby pokazać, do czego doprowadza ludzka znieczulica. Cała wieś widziała umierającego z głodu i zaniedbania psa, a dopiero konflikt sąsiedzki był przyczynkiem do tego, by ktoś zareagował. Tego dnia Saba dostała nowe życie, a wystarczyło zaledwie kilka dni, aby umarła śmiercią głodową (co stwierdził biegły). Dziś Saba jest piękna i znów potrafiła zaufać człowiekowi."
+content = "Saba została odebrana interwencyjnie i trafiła do naszego hospicjum w stanie skrajnego zaniedbania i niedożywienia. Była wówczas 8-letnim żywym trupem, szkieletem z kośćmi powleczonymi skórą. Łysa z potwornym pchlim zapaleniem skóry. Obraz nędzy i rozpaczy, uciekający przed człowiekiem i jego spojrzeniem. Trzeba powiedzieć wprost, była koszmarnie brzydka. Została u nas, mimo że nie była psim seniorem. Nikt jej nie chciał, bo kto chce brzydkiego, chorego psa, unikającego człowieka. Po kilku latach, dbania, leczenia i cierpliwości, Saba stała się pięknym psem. Jej strachy czasem dawały o sobie znać, ale mimo całego piekła, które stworzył jej człowiek, potrafiła nas pokochać i zaufać. Saba domagała się głaskania, czułości, lubiła być w pobliżu człowieka. Piękna, cudowna psina. Zabrał ją nowotwór."
 icon = "/uploads/saba1.jpg"
 title = "15.09.2021"
 [[skill]]
@@ -31,7 +31,7 @@ icon = "tf-ion-social-linkedin"
 link = "#"
 
 +++
-Saba została odebrana interwencyjnie i trafiła do naszego hospicjum w stanie skrajnego zaniedbania i niedożywienia. Była wówczas 8 letnim żywym trupem, szkieletem z kośćmi powleczonymi skórą. Łysa z potwornym pchlim zapaleniem skóry. Obraz nędzy i rozpaczy, uciekający przed człowiekiem i jego spojrzeniem. Trzeba powiedzieć wprost, była koszmarnie brzydka. Została u nas, mimo że nie była psim seniorem. Nikt jej nie chciał, bo kto chce brzydkiego, chorego psa, unikającego człowieka. Dziś, po kilku latach, dbania, leczenia i cierpliwości, Saba stała się pięknym psem. Jej strach czasem dają o sobie znać, ale mimo całego piekła, które stworzył jej człowiek, potrafiła nas pokochać i zaufać. Saba domaga się głaskania, czułości, lubi być w pobliżu człowieka. Jest cudna.
+Saba została odebrana interwencyjnie i trafiła do naszego hospicjum w stanie skrajnego zaniedbania i niedożywienia. Była wówczas 8-letnim żywym trupem, szkieletem z kośćmi powleczonymi skórą. Łysa z potwornym pchlim zapaleniem skóry. Obraz nędzy i rozpaczy, uciekający przed człowiekiem i jego spojrzeniem. Trzeba powiedzieć wprost, była koszmarnie brzydka. Została u nas, mimo że nie była psim seniorem. Nikt jej nie chciał, bo kto chce brzydkiego, chorego psa, unikającego człowieka. Po kilku latach, dbania, leczenia i cierpliwości, Saba stała się pięknym psem. Jej strachy czasem dawały o sobie znać, ale mimo całego piekła, które stworzył jej człowiek, potrafiła nas pokochać i zaufać. Saba domagała się głaskania, czułości, lubiła być w pobliżu człowieka. Piękna, cudowna psina. Zabrał ją nowotwór.
 
-**Potrzeby:**  
-Karma dla seniora, Karsivan, Synoquin lub Sizarol, Vetomune.
+**Wspomnienie**  
+https://fb.watch/lsTSqLR7ig/
