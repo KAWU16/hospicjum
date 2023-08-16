@@ -106,7 +106,7 @@ email = "demo@vixcon.com"
 dateFormat = "02 01 2006"
 google_analitycs_id = ""
 home = "Home"
-logo = "uploads/logo_stowarzyszenie_viadrusa.png"
+logo = "uploads/logo_stowarzyszenie_viadrusa.webp"
 search = true
 [params.map]
 enable = true
