@@ -19,8 +19,7 @@ collections:
         - {label: "Featured Image", name: "thumbnail", widget: "image", required: FALSE}
         - {label: "Body", name: "body", widget: "markdown"}
         - {label: "Tags", name: "tags", widget: "string"}
-
-collections:
+        
     - name: "zwierzęta" # Used in routes, e.g., /admin/collections/blog
       label: "zwierzęta" # Used in the UI
       folder: "content/english/hospicjum_dla_zwierzat" # The path to the folder where the documents are stored
